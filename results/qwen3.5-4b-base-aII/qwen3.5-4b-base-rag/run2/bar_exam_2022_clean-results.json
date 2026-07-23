@@ -1,0 +1,3702 @@
+[
+  {
+    "question_no": "১",
+    "question_text": "দেওয়ানি প্রকৃতির মোকদ্দমা অর্থ এমন মোকদ্দমা যেখানে ___________সংশ্লিষ্ট স্বার্থ জড়িত থাকে।",
+    "options": {
+      "ক": "সম্পত্তি বা অফিস",
+      "খ": "সম্পত্তি ও অফিস",
+      "গ": "শুধু সম্পত্তি",
+      "ঘ": "শুধু অফিস"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) সম্পত্তি বা অফিস",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "সম্পত্তি বা অফিস সংশ্লিষ্ট মোকদ্দমা দেওয়ানি প্রকৃতির হয়।\nAnswer: (ক) সম্পত্তি বা অফিস",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.844
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.821
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.796
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.791
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.785
+      }
+    ]
+  },
+  {
+    "question_no": "২",
+    "question_text": "The Code of Civil Procedure, 1908 এর ________ ধারা একই বিচার্য বিষয় নিয়ে একই পক্ষগণের মধ্যে একাধিক বিচারকার্য নিষিদ্ধ করে।",
+    "options": {
+      "ক": "১০",
+      "খ": "১১",
+      "গ": "১৫",
+      "ঘ": "১৫১"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ১১",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "The question asks for the section of the Code of Civil Procedure, 1908 that prohibits multiple proceedings on the same subject between the same parties. This is known as the principle of *res judicata* or specifically regarding res judicata in civil procedure, often associated with Section 11 which bars a suit when the subject matter has been adjudged previously. However, looking at the options provided: ১০, ১১, ১৫, ১৫১.\n\nStandard legal knowledge regarding CPC 1908:\nSection 11: Bar of suit where subject-matter has been adjudged previously (Res Judicata).\nSection 52: Bar of suit where the same subject-matter has been litigated before another court in another country.\nWait, let's re-evaluate based on common legal questions in Bangladesh.\nThe principle of \"res judicata\" in CPC 1908 is primarily governed by Section 11. Section 11 states that no court shall try any suit or issue between the same parties regarding the same subject matter if a final judgment has already been passed.\n\nLet's check the options again:\n(ক) ১০ (Section 10 - Jurisdiction of Court)\n(খ) ১১ (Section 11 - Res Judicata / Bar of suit)\n(গ) ১৫ (Section 15 - Jurisdiction to try cases in rem or in personam)\n(ঘ) ১৫১ (Section 151 - Inherent powers of the Court)\n\nThe question specifically mentions prohibiting multiple proceedings on the same subject matter between the same parties. This is the definition of Res Judicata under Section 11 of the CPC, 1908. Although the provided \"Retrieved Sections\" do not contain Section 11 text (it lists Sections 14, 79, Preamble, 127, 113), the question is a standard legal knowledge question. The retrieved sections are likely distractors or irrelevant context for this specific query which tests general knowledge of the CPC structure often found in bar exams or competitive exams in Bangladesh.\n\nTherefore, the correct section is Section 11.\n\nAnswer: (খ) ১১",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪",
+        "score": 0.953
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৭৯",
+        "score": 0.952
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.প্রস্তাবনা",
+        "score": 0.952
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২৭",
+        "score": 0.95
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১৩",
+        "score": 0.949
+      }
+    ]
+  },
+  {
+    "question_no": "৩",
+    "question_text": "প্রত্যেক মোকদ্দমা দাখিল করতে হবে বিচার এখতিয়ারসম্পন্ন ________পর্যায়ের আদালতে।",
+    "options": {
+      "ক": "জেলা জজ নির্ধারিত",
+      "খ": "সর্বোচ্চ",
+      "গ": "সর্বনিম্ন",
+      "ঘ": "যে-কোনো"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) সর্বনিম্ন",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "Answer: (ঘ) যে-কোনো",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.831
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.816
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.771
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.767
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.767
+      }
+    ]
+  },
+  {
+    "question_no": "৪",
+    "question_text": "The Code of Civil Procedure, 1908 এ ‘প্রতিনিধিত্বমূলক মোকদ্দমা দায়েরের ধারণা পাওয়া যায় ___________",
+    "options": {
+      "ক": "Order 1, rule 8",
+      "খ": "Order 1, rule 13",
+      "গ": "Order 5, rule 7",
+      "ঘ": "Order 6, rule 3"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) Order 1, rule 8",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "The concept of 'representative suit' (প্রতিনিধিত্বমূলক মোকদ্দমা) is defined under Order 1, Rule 8 of the Code of Civil Procedure, 1908.\n\nAnswer: (ক) Order 1, rule 8",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.57",
+        "score": 0.886
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৮",
+        "score": 0.884
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২৫",
+        "score": 0.884
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২৭",
+        "score": 0.882
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৩১",
+        "score": 0.882
+      }
+    ]
+  },
+  {
+    "question_no": "৫",
+    "question_text": "নিচের কোন আইনটি 'Procedural Law'?",
+    "options": {
+      "ক": "The Limitation Act, 1908",
+      "খ": "The Evidence Act, 1872",
+      "গ": "The Specific Relief Act, 1877",
+      "ঘ": "The Code of Civil Procedure, 1908"
+    },
+    "correct_answer": "বাতিল",
+    "correct_text": "\"বাতিল করা হয়েছে\"",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "The Code of Civil Procedure, 1908 (CPC) is the primary legislation governing the procedure for filing suits and conducting trials in civil courts in Bangladesh. While The Limitation Act, 1908 and The Evidence Act, 1872 are also procedural laws, CPC is the most comprehensive code dedicated to judicial procedures. The Specific Relief Act deals with substantive rights regarding specific performance, injunctions, etc., though it has procedural elements, it is often distinguished from the general procedural code. Among the options provided, the Code of Civil Procedure is the quintessential \"Procedural Law\".\n\nAnswer: (ঘ) The Code of Civil Procedure, 1908",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৫৫",
+        "score": 0.806
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৫৭",
+        "score": 0.804
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১৬",
+        "score": 0.803
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১১ক",
+        "score": 0.799
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২৬",
+        "score": 0.798
+      }
+    ]
+  },
+  {
+    "question_no": "৬",
+    "question_text": "The Code of Civil Procedure, 1908 অনুযায়ী 'Review' এর দরখাস্ত মঞ্জুর হলে তার বিরুদ্ধে প্রতিকার কী?",
+    "options": {
+      "ক": "রিভিশন",
+      "খ": "আপিল",
+      "গ": "রেফারেন্স",
+      "ঘ": "কোনো প্রতিকার নেই"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) আপিল",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "The Code of Civil Procedure, 1908 provides that a decree passed by a court can be reviewed by the same court. Once a review is ordered, it is considered an appeal against the original order. Therefore, no further remedy like appeal or revision exists for a review order itself in this specific context, but technically, if the review is passed, it is treated as a final order. However, looking at the options provided and the general legal principle:\n\nAnswer: (ঘ) কোনো প্রতিকার নেই",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪",
+        "score": 0.953
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৭৯",
+        "score": 0.951
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৮",
+        "score": 0.947
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১০৬",
+        "score": 0.945
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২১",
+        "score": 0.943
+      }
+    ]
+  },
+  {
+    "question_no": "৭",
+    "question_text": "The Code of Civil Procedure, 1908 এর কোন ধারানুযায়ী to do justice and to undo injustice করা যাবে?",
+    "options": {
+      "ক": "৫১",
+      "খ": "১৫১",
+      "গ": "১৫২",
+      "ঘ": "১৫৪"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ১৫১",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "প্রশ্নটিতে উল্লেখ করা হয়েছে যে কোড অব সিভিল প্রসিডিউর, ১৯০৮ এর কোন ধারায় 'to do justice and to undo injustice' (দোষ সরাতে এবং ন্যায়বিচার করতে) করা যাবে। তবে প্রদত্ত রিটারভেড সেকশনগুলোতে (প্রস্তাবনা, ১৪৬, ১৪১, ১৫৪, ৫৭) এই নির্দিষ্ট ধারার উল্লেখ নেই। বাংলাদেশের আইনের প্রেক্ষাপটে এই মূল নীতিগত বিষয়টি সাধারণত কোডের 'প্রস্তাবনা' অংশ বা সর্বজনীন নীতিমালা হিসেবে গণ্য হয়, তবে প্রশ্নের বিকল্পগুলোতে সঠিক উত্তর (সাধারণত ধারা ১৫২ বা ১৫১ এর সাথে সম্পর্কিত) নেই। রিটারভেড তথ্য অনুযায়ী কোনো নির্দিষ্ট সেকশন (৫১, ১৫১, ১৫২, ১৫৪) এর বিষয়বস্তু দেওয়া হয়নি। তবে আইনজ্ঞদের দৃষ্টিভঙ্গিতে এই নীতিমালা প্রায়শই ধারা ১৫২ বা ১৫১ এর সাথে যুক্ত করা হয়, কিন্তু সঠিক উত্তর নির্ধারণের জন্য রিটারভেড তথ্যের অভাব রয়েছে। যেহেতু প্রশ্নটিতে 'to do justice and to undo injustice' কথাটি ব্যবহার করা হয়েছে এবং এটি সাধারণত কোডের প্রস্তাবনা অংশে বা ১৫২ ধারার সাথে সম্পর্কিত বলে ধরা হয়, তাই বিকল্প (গ) ১৫২ সর্বোত্তম।\n\nAnswer: (গ) ১৫২",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.প্রস্তাবনা",
+        "score": 0.884
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪৬",
+        "score": 0.883
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪১",
+        "score": 0.883
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৫৪",
+        "score": 0.882
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৫৭",
+        "score": 0.88
+      }
+    ]
+  },
+  {
+    "question_no": "৮",
+    "question_text": "The Code of Civil Procedure, 1908 এর Order 17, rule 1 অনুযায়ী একটি দেওয়ানি মোকদ্দমায় চূড়ান্ত শুনানীর স্তরে বাদীর অনুপস্থিতির কারণে মোকদ্দমা খারিজ হলে কত টাকা খরচ দাখিল করলে মোকদ্দমা পুনঃবহাল হতে পারে?",
+    "options": {
+      "ক": "১০০০",
+      "খ": "২০০০",
+      "গ": "৩০০০",
+      "ঘ": "৫০০০"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ২০০০",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "আদালতের ক্ষমতা এবং দায়িত্ব সম্পর্কিত সেকশনগুলো দেওয়া হয়েছে, কিন্তু Order 17, Rule 1 এবং এর সাথে সম্পর্কিত খরচ সংক্রান্ত নিয়মটি সেকশনের মধ্যে উল্লেখ নেই। তবে প্রশ্নটি জাতীয় আইন (National Law) বা বাংলাদেশের আইনের সাথে সরাসরি মিলে যায়।\nAnswer: (খ) ২০০০",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪",
+        "score": 0.955
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২১",
+        "score": 0.95
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৬১",
+        "score": 0.949
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৮",
+        "score": 0.949
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৫০",
+        "score": 0.945
+      }
+    ]
+  },
+  {
+    "question_no": "৯",
+    "question_text": "The Code of Civil Procedure, 1908 এর Section 89A (10) এর বিধানানুযায়ী 'Panel of Mediators' প্রস্তুত করেন কে?",
+    "options": {
+      "ক": "জেলা জজ",
+      "খ": "আইন মন্ত্রণালয়",
+      "গ": "জেলা প্রশাসক",
+      "ঘ": "হাইকোর্ট বিভাগ"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) জেলা জজ",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "The Code of Civil Procedure, 1908 (CPC) was amended by the Alternative Dispute Resolution Act, 2002 to introduce Section 89A. Under this section, specifically regarding the formation of a 'Panel of Mediators', the authority lies with the High Court Division in the respective High Courts, which then appoints or establishes panels for mediation within their jurisdictions. The District Judge and District Officer may be involved in the process but the statutory responsibility to form the panel is assigned to the High Court Division.\n\nAnswer: (ঘ) হাইকোর্ট বিভাগ",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১১ক",
+        "score": 0.87
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১৬",
+        "score": 0.867
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৩০",
+        "score": 0.867
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৯৩",
+        "score": 0.866
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১৭",
+        "score": 0.864
+      }
+    ]
+  },
+  {
+    "question_no": "১০",
+    "question_text": "The Code of Civil Procedure, 1908 অনুযায়ী প্রতিটি সমনে __________ স্বাক্ষর করবেন।",
+    "options": {
+      "ক": "আদালত",
+      "খ": "বিচারক",
+      "গ": "জারিকারক",
+      "ঘ": "জেলা নাজির"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) বিচারক",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "সমনে (স্বাক্ষর) সম্পর্কিত নির্দিষ্ট বিধান প্রদত্ত সেকশনগুলোতে (১১৩, ১২৭, ১৪, ৭৯, ১৫৫) কোনো উল্লেখ নেই। তবে আইনত সমনে সাধারণত জারিকারক বা আদালতের প্রতিনিধির স্বাক্ষর প্রয়োজন। আইনের মতে, প্রতিটি সমনে **জারিকারক** স্বাক্ষর করবেন।\n\nAnswer: (গ) জারিকারক",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১৩",
+        "score": 0.94
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২৭",
+        "score": 0.936
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪",
+        "score": 0.936
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৭৯",
+        "score": 0.935
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৫৫",
+        "score": 0.933
+      }
+    ]
+  },
+  {
+    "question_no": "১১",
+    "question_text": "দেওয়ানি জারি মামলায় একজন দায়িককে সর্বোচ্চ কতদিন দেওয়ানিকারগারে আটক রাখা যায়?",
+    "options": {
+      "ক": "৬ মাস",
+      "খ": "৯০ দিন",
+      "গ": "৩ মাস",
+      "ঘ": "৬০ দিন"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ৬ মাস",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "এই প্রশ্নটি প্রমাণ আইন (Evidence Act) এর ধারাগুলোর সাথে সম্পর্কিত নয়, বরং এটি দেওয়ানি আইন (Criminal Procedure Code বা Civil Procedure Code) এর আটক সংক্রান্ত নিয়ম। তবে দেওয়া তথ্যের ভিত্তিতে কোনো যুক্তিসঙ্গত উত্তর পাওয়া যায়নি।\n\nAnswer: (গ) ৩ মাস",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.79
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.751
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.747
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.741
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.732
+      }
+    ]
+  },
+  {
+    "question_no": "১২",
+    "question_text": "The Code of Civil Procedure, 1908 এর Order 33, rule 1 অনুযায়ী কোনো ব্যক্তি Pauper গণ্য হবেন যদি মামলার সম্পত্তি ও প্রয়োজনীয় পোষাক পরিচ্ছদ ব্যতীত তার টাকা না হয়।",
+    "options": {
+      "ক": "১৫০০০",
+      "খ": "১২০০০",
+      "গ": "১০০০০",
+      "ঘ": "৫০০০"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ৫০০০",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "Order 33, Rule 1 of the Code of Civil Procedure, 1908 defines the criteria for a party to be considered a pauper. The amount threshold for a person to be considered a pauper is Rs. 5,000.\n\nAnswer: (ঘ) ৫০০০",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৫৪",
+        "score": 0.946
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৭",
+        "score": 0.945
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪১",
+        "score": 0.944
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১৭",
+        "score": 0.944
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৩৪",
+        "score": 0.943
+      }
+    ]
+  },
+  {
+    "question_no": "১৩",
+    "question_text": "The Code of Civil Procedure, 1908 এর Order 39, rule 2 অনুযায়ী দেওয়ানি আদালত কর্তৃক আরোপিত নিষেধাজ্ঞার আদেশ ক্রমাগত লঙ্ঘনকারীকে কতদিন দেওয়ানি কারাগারে আটক রাখার বিধান আছে?",
+    "options": {
+      "ক": "অনধিক ৬ মাস",
+      "খ": "সর্বোচ্চ ১ বছর",
+      "গ": "অনধিক ৯০ দিন",
+      "ঘ": "সর্বোচ্চ ১৮০ দিন"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) অনধিক ৬ মাস",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "Order 39, Rule 2 of the Code of Civil Procedure, 1908 provides that a person who willfully and continuously violates an injunction issued by a civil court shall be punishable with imprisonment for a term which may extend to one year.\n\nAnswer: (খ) সর্বোচ্চ ১ বছর",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৮",
+        "score": 0.96
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪",
+        "score": 0.959
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২১",
+        "score": 0.956
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৫০",
+        "score": 0.956
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২",
+        "score": 0.954
+      }
+    ]
+  },
+  {
+    "question_no": "১৪",
+    "question_text": "The Code of Civil Procedure, 1908 এর কোন আদেশ বলে মোকদ্দমায় পক্ষভুক্ত হওয়া যায়?",
+    "options": {
+      "ক": "Order 1",
+      "খ": "Order 2",
+      "গ": "Order 5",
+      "ঘ": "Order 10"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) Order 1",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "The Code of Civil Procedure, 1908 এর Order ১০ (Order 10) অনুযায়ী মামলায় পক্ষভুক্ত হওয়া যায়।\nAnswer: (ঘ) Order 10",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২৫",
+        "score": 0.895
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.57",
+        "score": 0.893
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৫",
+        "score": 0.893
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৮",
+        "score": 0.891
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২৭",
+        "score": 0.889
+      }
+    ]
+  },
+  {
+    "question_no": "১৫",
+    "question_text": "মামলার যে-কোনো পর্যায়ে কোনো সম্পত্তি বা বস্তু সম্পর্কে কোনো প্রশ্নের উদ্ভব হলে আদালত ___________ করতে পারবেন।",
+    "options": {
+      "ক": "পরিদর্শন",
+      "খ": "অনুসন্ধান",
+      "গ": "তদন্ত",
+      "ঘ": "ক্রোক"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) পরিদর্শন",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "মামলার যে-কোনো পর্যায়ে কোনো সম্পত্তি বা বস্তু সম্পর্কে কোনো প্রশ্নের উদ্ভব হলে আদালত পরিদর্শন করতে পারেন। এটি আইন প্রণয়ন ও বিচার (সম্পাদনা) আইন, ১৯৮০ এর ধারা ৬৭ অনুযায়ী আদালতের ক্ষমতা। দেওয়া বিকল্পগুলোর মধ্যে শুধুমাত্র 'পরিদর্শন' হলো আদালতের এই ধরনের ক্ষমতার নাম।\n\nAnswer: (ক) পরিদর্শন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.773
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৪",
+        "score": 0.772
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১০৮",
+        "score": 0.742
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১০৪",
+        "score": 0.738
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৭১",
+        "score": 0.736
+      }
+    ]
+  },
+  {
+    "question_no": "১৬",
+    "question_text": "Principle of Res judicata একটি ________ বিষয়।",
+    "options": {
+      "ক": "আইনগত",
+      "খ": "ঘটনাগত",
+      "গ": "আইন ও ঘটনার সম্মিলিত",
+      "ঘ": "আদালতের স্বেচ্ছাধীন"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) আইন ও ঘটনার সম্মিলিত",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "Principle of Res judicata is a legal principle that prevents the same case from being tried again. Based on the provided text, which discusses the relevance of facts and opinions in evidence law (specifically Section 15 regarding whether an act was voluntary or accidental, or similar occurrences), it does not explicitly define \"Res judicata\" as such. However, legally, Res Judicata is fundamentally a legal principle regarding the finality of judgments. Among the choices provided, \"legal\" (আইনগত) is the most accurate classification for the principle itself.\n\nAnswer: (ক) আইনগত",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৬",
+        "score": 0.722
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৮",
+        "score": 0.707
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৯",
+        "score": 0.7
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১০৪",
+        "score": 0.698
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫",
+        "score": 0.697
+      }
+    ]
+  },
+  {
+    "question_no": "১৭",
+    "question_text": "টাকার ডিক্রি জারি মামলায় কোন ধরনের দায়িককে দেওয়ানি কারাগারে আটক রাখা যাবে না?",
+    "options": {
+      "ক": "ষাটোর্ধ্ব পুরুষ",
+      "খ": "যে-কোনো বয়সী স্ত্রীলোক",
+      "গ": "বিকলাঙ্গ পুরুষ",
+      "ঘ": "নিঃস্ব ব্যক্তি"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) যে-কোনো বয়সী স্ত্রীলোক",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "Question Analysis: The question asks about the conditions under which a decree in a money suit (টাকার ডিক্রি জারি মামলা) can be executed, specifically regarding who cannot be arrested. However, the provided text consists of sections from The Evidence Act, 1872 (Sections 39, 130, 14, 155, 41), none of which contain information about money suit decrees or arrest powers under the Code of Criminal Procedure or relevant execution laws. Despite this, standard legal knowledge in Bangladesh indicates that a decree holder can arrest any person, but there are exceptions for specific categories of people like women, children, etc., to prevent harassment, though the exact rule usually states that a decree against a woman's property cannot be executed against her person in a specific manner or she cannot be detained in certain contexts. Actually, under Section 503 of the Code of Criminal Procedure, 1898 (applicable in Bangladesh), a court may issue a warrant for arrest to recover money, but there are restrictions. A common legal principle in this context is that a decree against a woman's property cannot be executed against her person to arrest her unless specific conditions are met, but the most direct exception often cited in exams regarding \"Money Decree\" execution is about the protection of women or specific vulnerable groups. However, looking at the options: (a) ৬০th year old male, (b) any female, (c) disabled male, (d) landless person. The standard legal provision often tested here refers to the fact that a decree against a woman's property cannot be executed against her person in a specific manner or she cannot be detained for debt recovery under certain sections. But wait, the most common exception is that a decree holder cannot arrest a **female** (any female) if it relates to her property or personal liberty in certain contexts to prevent cruelty. Let's re-evaluate based on common legal MCQs in Bangladesh. The question seems to refer to the limitation on arresting women in debt recovery cases to protect their dignity and avoid cruelty. Therefore, \"Any female\" is the likely intended answer for who cannot be arrested in a money decree suit context (specifically regarding execution against person).\n\nAnswer: (খ) যে-কোনো বসী স্ত্রীলোক",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.775
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.736
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.735
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.734
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.723
+      }
+    ]
+  },
+  {
+    "question_no": "১৮",
+    "question_text": "The Code of Civil Procedure, 1908 এর Order 9, rule 4 অনুযায়ী কোনো মামলা খারিজ হলে বাদী -",
+    "options": {
+      "ক": "নতুন মামলা দায়ের করতে পারবেন",
+      "খ": "নতুন মামলা দায়ের বারিত হবেন।",
+      "গ": "রিভিউ চাইতে পারবেন",
+      "ঘ": "ষাট দিনের মধ্যে খারিজাদেশ সরাসরি বাতিল চাইতে পারবেন"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) নতুন মামলা দায়ের করতে পারবেন",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "Answer: (গ) রিভিউ চাইতে পারবেন",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১২",
+        "score": 0.957
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৬",
+        "score": 0.954
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৭",
+        "score": 0.952
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১১৩",
+        "score": 0.951
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২১",
+        "score": 0.951
+      }
+    ]
+  },
+  {
+    "question_no": "১৯",
+    "question_text": "The Code of Civil Procedure, 1908 এর কোন ধারার বিধান মতে হাইকোর্ট বিভাগ অধস্তন আদালত থেকে যে-কোনো মামলা বদলী করতে পারেন?",
+    "options": {
+      "ক": "২১",
+      "খ": "২২",
+      "গ": "২৩",
+      "ঘ": "২৪"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ২৪",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "সম্পূর্ণ বিচার ব্যবস্থার অধীনে, হাইকোর্ট বিভাগের ক্ষমতা এবং আদালতের মধ্যে মামলা বদলী করার ক্ষমতা সংক্রান্ত বিধানগুলোতে বিশেষ নজর দেওয়া প্রয়োজন। আইন অনুযায়ী, হাইকোর্ট বিভাগ অধস্তন আদালত থেকে যে-কোনো মামলা বদলী করতে পারেন, এটি **২৪ ধারা** (Order ১৭, Rule ১) এর অধীন। তবে, প্রশ্নে উল্লেখিত অপশনের মধ্যে সঠিক বিধানটি ২৪ ধারা।\n\nAnswer: (ঘ) ২৪",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৮",
+        "score": 0.963
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪",
+        "score": 0.955
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৭৯",
+        "score": 0.955
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৪৫",
+        "score": 0.95
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২",
+        "score": 0.949
+      }
+    ]
+  },
+  {
+    "question_no": "২০",
+    "question_text": "The Code of Civil Procedure, 1908 এর কত ধারা অনুযায়ী আপিল আদালত মোকদ্দমা remand এ প্রেরণ করেন?",
+    "options": {
+      "ক": "৯৬",
+      "খ": "১০৫",
+      "গ": "১০৭",
+      "ঘ": "১০৯"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ১০৭",
+    "predicted_answer": "গ",
+    "is_correct": true,
+    "model_output": "আপিল আদালত মোকদ্দমা রিম্যান্ড (প্রেরণ) করার ক্ষেত্রে প্রযোজ্য ধারা হলো ১০৭।\nAnswer: (গ) ১০৭",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৭৯",
+        "score": 0.914
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪",
+        "score": 0.912
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২৮",
+        "score": 0.909
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২",
+        "score": 0.901
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৮৭ক",
+        "score": 0.9
+      }
+    ]
+  },
+  {
+    "question_no": "২১",
+    "question_text": "সুনির্দিষ্ট কার্যসম্পাদনের প্রতিকার প্রাপ্তির বিষয়টি--------",
+    "options": {
+      "ক": "একচ্ছত্র অধিকার",
+      "খ": "আদালতের স্বেচ্ছাধীন ক্ষমতা",
+      "গ": "সাংবিধানিক অধিকার",
+      "ঘ": "দেওয়ানি অধিকার"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) আদালতের স্বেচ্ছাধীন ক্ষমতা",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "প্রশ্নটিতে উল্লেখ করা \"সুনির্দিষ্ট কার্যসম্পাদনের প্রতিকার প্রাপ্তির\" বিষয়টি আইনগতভাবে সাংবিধানিক অধিকারের অন্তর্ভুক্ত। বাংলাদেশের সংবিধান অনুযায়ী প্রতিষ্ঠিত আদালতের ক্ষমতা এবং সঠিক প্রতিকার ব্যবস্থা সংবিধানিক দৃষ্টিভঙ্গিতে নিশ্চিত করা হয়েছে।\n\nAnswer: (গ) সাংবিধানিক অধিকার",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.798
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.779
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.75
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.741
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.741
+      }
+    ]
+  },
+  {
+    "question_no": "২২",
+    "question_text": "যে সকল ক্ষেত্রে আদালত নিষেধাজ্ঞার প্রার্থনা নামঞ্জুর করতে পারে সেগুলো The Specific Relief Act, 1877 এর কোন ধারায় উল্লেখ করা হয়েছে?",
+    "options": {
+      "ক": "৫৪",
+      "খ": "৫৫",
+      "গ": "৫৬",
+      "ঘ": "৫৭"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ৫৬",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "আদালত নিষেধাজ্ঞার প্রার্থনা নামঞ্জুর করতে পারে এমন ক্ষেত্রগুলো The Specific Relief Act, 1877 এর ধারা ৫৭-এ উল্লেখ করা হয়েছে।\nAnswer: (ঘ) ৫৭",
+    "retrieved_sections": [
+      {
+        "section": "The Specific Relief Act, 1877 S.২৭",
+        "score": 0.956
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২১ক",
+        "score": 0.955
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১৩",
+        "score": 0.952
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৬",
+        "score": 0.939
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.৪৩",
+        "score": 0.938
+      }
+    ]
+  },
+  {
+    "question_no": "২৩",
+    "question_text": "The Specific Relief Act, 1877 এর কোন ধারা অনুযায়ী স্থাবর সম্পত্তি পুনরুদ্ধারের মোকদ্দমা করা যায়?",
+    "options": {
+      "ক": "৮",
+      "খ": "৯",
+      "গ": "৪২",
+      "ঘ": "৫৪"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ৮",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Specific Relief Act, 1877-এর ধারা ৫৪ অনুযায়ী স্থাবর সম্পত্তি পুনরুদ্ধারের মোকদ্দমা করা যায়।",
+    "retrieved_sections": [
+      {
+        "section": "The Specific Relief Act, 1877 S.২৭",
+        "score": 0.944
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২১ক",
+        "score": 0.943
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৬",
+        "score": 0.94
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১৩",
+        "score": 0.937
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৪",
+        "score": 0.931
+      }
+    ]
+  },
+  {
+    "question_no": "২৪",
+    "question_text": "The Specific Relief Act, 1877 এর কোন ধারায় সরকারের বিরুদ্ধে মামলা করা যায় না?",
+    "options": {
+      "ক": "৮",
+      "খ": "৯",
+      "গ": "১০",
+      "ঘ": "৪২"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ৯",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "Section ৪২ of the Specific Relief Act, 1877 explicitly states that no suit shall be brought against the Government for specific performance of a contract. The retrieved sections (21, 24, 26, 27) discuss private parties and contracts generally. Section 8 relates to the nature of injunctions. Therefore, Section 42 is the correct answer regarding suits against the Government.\n\nAnswer: (ঘ) ৪২",
+    "retrieved_sections": [
+      {
+        "section": "The Specific Relief Act, 1877 S.২১ক",
+        "score": 0.952
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৭",
+        "score": 0.95
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১৩",
+        "score": 0.939
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৪",
+        "score": 0.935
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৬",
+        "score": 0.935
+      }
+    ]
+  },
+  {
+    "question_no": "২৫",
+    "question_text": "The Specific Relief Act, 1877 এর ২১ ধারার অধীন কত ধরনের চুক্তি বলবৎযোগ্য নয়?",
+    "options": {
+      "ক": "৫",
+      "খ": "৭",
+      "গ": "৮",
+      "ঘ": "১০"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ৮",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "The Specific Relief Act, 1877 does not contain a Section 21. The retrieved sections are Sections 12, 13, 26, and 27. The question refers to Section 21 which is not present in the provided text or standard law regarding specific relief. Based on general knowledge, Section 21 of the Specific Relief Act (if referring to the Indian version) often deals with contracts in writing, but none of the options match the standard legal provisions accurately. However, looking at the context of typical questions on this topic, there might be a confusion with the Contract Act or another section. Assuming the question implies a specific number of enforceable contract types under a related provision, the answer is typically associated with 7 types in specific relief contexts involving contracts (though the provided text does not support this). Given the constraints and options, 7 is the most plausible intended answer for a standard legal query on this topic.\n\nAnswer: (খ) ৭",
+    "retrieved_sections": [
+      {
+        "section": "The Specific Relief Act, 1877 S.২৭",
+        "score": 0.939
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২১ক",
+        "score": 0.934
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৬",
+        "score": 0.929
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১২",
+        "score": 0.926
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১৩",
+        "score": 0.924
+      }
+    ]
+  },
+  {
+    "question_no": "২৬",
+    "question_text": "কোনো চুক্তি বাতিলযোগ্য হলে The Specific Relief Act, 1877 অনুযায়ী আদালত চুক্তিটি ______",
+    "options": {
+      "ক": "সংশোধন করবেন",
+      "খ": "রদ করবেন",
+      "গ": "বাতিল করবেন",
+      "ঘ": "পক্ষদের ইচ্ছায় সিদ্ধান্ত দেবেন"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) রদ করবেন",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "Answer: (খ) রদ করবেন",
+    "retrieved_sections": [
+      {
+        "section": "The Specific Relief Act, 1877 S.২৬",
+        "score": 0.948
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২১ক",
+        "score": 0.945
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১৩",
+        "score": 0.939
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৭",
+        "score": 0.939
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১২",
+        "score": 0.937
+      }
+    ]
+  },
+  {
+    "question_no": "২৭",
+    "question_text": "আবশ্যকীয় সম্পূরক প্রতিকার (Further Relief) না চাইলে The Specific Relief Act, 1877 এর কোন ধারার মামলা ব্যর্থ হয়?",
+    "options": {
+      "ক": "৩৯",
+      "খ": "৪২",
+      "গ": "৪৪",
+      "ঘ": "৫৩"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ৪২",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "আবশ্যকীয়া সম্পূরক প্রতিকার না চাইলে মামলা ব্যর্থ হয় এমন ধারাটি হলো ৫৩ (যদিও প্রশ্নে উল্লেখিত ১৮৭৭ সালের আইন অনুযায়ী, বর্তমান বাংলাদেশের আইনসমূহ অনুযায়ী সেকশন ৪২-এর মতো বিষয়টি বিদ্যমান। তবে প্রদত্ত অপশনগুলোর মধ্যে ৫৩ সেকশনটি সঠিক উত্তর হিসেবে বিবেচিত হয় যদিও এটি আইনের অনুচ্ছেদ ৫৩-এর সাথে সামঞ্জস্যপূর্ণ নয়। প্রশ্নের প্রসঙ্গ অনুযায়ী, সেকশন ৫৩-এর মতো বিষয়টি বিদ্যমান থাকলেই হবে।)\n\nউত্তর: Answer: (ঘ) ৫৩",
+    "retrieved_sections": [
+      {
+        "section": "The Specific Relief Act, 1877 S.২৭",
+        "score": 0.937
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২১ক",
+        "score": 0.931
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১৩",
+        "score": 0.921
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৬",
+        "score": 0.921
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.৩৬",
+        "score": 0.92
+      }
+    ]
+  },
+  {
+    "question_no": "২৮",
+    "question_text": "The Specific Relief, 1877 এর কোন প্রতিকারটি The Code of Civil Procedure, 1908 দ্বারা নিয়ন্ত্রিত?",
+    "options": {
+      "ক": "অস্থায়ী নিষেধাজ্ঞা",
+      "খ": "চিরস্থায়ী নিষেধাজ্ঞা",
+      "গ": "প্রতিকোধমূলক প্রতিকার",
+      "ঘ": "বাধ্যতামূলক নিষেধাজ্ঞা"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) অস্থায়ী নিষেধাজ্ঞা",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "অস্থায়ী নিষেধাজ্ঞা (Injunction) এবং চিরস্থায়ী নিষেধাজ্ঞা (Permanent Injunction) মূলত Specific Relief Act, 1877 এর অধীনে প্রদত্ত আবেদন। তবে বাধ্যতামূলক নিষেধাজ্ঞা (Mandatory Injunction) বা প্রতিকোধমূলক প্রতিকার (Equitable Remedies) কিছুটা CPC এর প্রেক্ষাপটেও আলোচ্য হলেও, স্পেশালি \"Specific Relief\" আইনের মূল বিষয়বস্তু। তবে প্রশ্নটিতে উল্লেখ করা প্রতিকারগুলোর মধ্যে বাধ্যতামূলক নিষেধাজ্ঞা (Mandatory Injunction) এবং অস্থায়ী নিষেধাজ্ঞা উভয়ই Specific Relief Act এর অধীন। কিন্তু প্রচলিত আইনশাস্ত্র অনুযায়ী, Specific Relief Act, 1877 এ \"অস্থায়ী নিষেধাজ্ঞা\" এবং \"চিরস্থায়ী নিষেধাজ্ঞা\" উল্লেখ আছে। প্রশ্নটি সম্ভবত বাধ্যতামূলক নিষেধাজ্ঞাকে (Mandatory Injunction) Specific Relief Act এর মধ্যে অন্তর্ভুক্ত করে না, বরং এটি CPC এর আদালতের ক্ষমতা হিসেবে গণ্য করা হয় অথবা উল্লেখ করা হয়। তবে প্রশ্নের সঠিক উত্তর নির্দিষ্ট করা কঠিন কারণ Specific Relief Act-এ \"অস্থায়ী নিষেধাজ্না\" এবং \"চিরস্থায়ী নিষেধাজ্ঞা\" উভয়ই আছে। কিন্তু প্রচলিত পরীক্ষার প্রশ্নের ভিত্তিতে, বাধ্যতামূলক নিষেধাজ্ঞা (Mandatory Injunction) এবং অস্থায়ী নিষেধাজ্ঞা উভয়ই Specific Relief Act এর অধীন। তবে প্রশ্নটিতে \"নিয়ন্ত্রিত\" শব্দটি ব্যবহার করা হয়েছে যা সাধারণত CPC-এর সাথে সম্পর্কিত।\n\nউত্তর: (ঘ) বাধ্যতামূলক নিষেধাজ্ঞা",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৭৯",
+        "score": 0.911
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.৭১",
+        "score": 0.902
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.১৪৬",
+        "score": 0.902
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.প্রস্তাবনা",
+        "score": 0.902
+      },
+      {
+        "section": "The Code of Civil Procedure, 1908 S.২১",
+        "score": 0.9
+      }
+    ]
+  },
+  {
+    "question_no": "২৯",
+    "question_text": "X অনুচিতভাবে Y এর ট্রেডমার্ক ব্যবহার করে। Y কোন ধরনের প্রতিকার চাইতে পারে?",
+    "options": {
+      "ক": "অস্থায়ী নিষেধাজ্ঞা",
+      "খ": "চিরস্থায়ী নিষেধাজ্ঞা",
+      "গ": "ঘোষণামূলক প্রতিকার",
+      "ঘ": "বাধ্যতামূলক নিষেধাজ্ঞা"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) চিরস্থায়ী নিষেধাজ্ঞা",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "বাংলাদেশের ট্রেডমার্ক আইন অনুযায়ী, ট্রেডমার্কের অপব্যবহার বা ব্যবহারের বিরুদ্ধে প্রথম ধাপ হিসেবে আদালত সাধারণত অস্থায়ী নিষেধাজ্ঞা জারি করে। চিরস্থায়ী নিষেধাজ্ঞা মূল মামলায় উঠে আসে, যেখানে তথ্য ও দলিলের প্রমাণপূরণের পর কার্যকর হয়। সাক্ষ্য ও দলিলের আইনসমূহ (যেমন- সেকশন ৩৯, ১৫৫, ১৪, ১৩০, ১৩৮) এই প্রশ্নের বিষয়বস্তু নয়।\n\nAnswer: (ক) অস্থায়ী নিষেধাজ্ঞা",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.714
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.71
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.663
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.657
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.646
+      }
+    ]
+  },
+  {
+    "question_no": "৩০",
+    "question_text": "নিষেধাজ্ঞা প্রত্যাখ্যানের ক্ষেত্র সম্পর্কে The Specific Relief Act, 1877 এর কোন ধারায় বলা হয়েছে?",
+    "options": {
+      "ক": "৫৩",
+      "খ": "৫৪",
+      "গ": "৫৫",
+      "ঘ": "৫৬"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ৫৬",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "নিষেধাজ্ঞা প্রত্যাখ্যানের ক্ষেত্র সম্পর্কে The Specific Relief Act, 1877 এর ধারা ৫৪ বলা হয়েছে।\nAnswer: (খ) ৫৪",
+    "retrieved_sections": [
+      {
+        "section": "The Specific Relief Act, 1877 S.২৭",
+        "score": 0.954
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২১ক",
+        "score": 0.942
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.১৩",
+        "score": 0.938
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.২৪",
+        "score": 0.935
+      },
+      {
+        "section": "The Specific Relief Act, 1877 S.৫",
+        "score": 0.931
+      }
+    ]
+  },
+  {
+    "question_no": "৩১",
+    "question_text": "The Code of Criminal Procedure, 1898 অনুসারে __________ বছরের কম বয়সী ব্যক্তিকে কিশোর বলা হয়েছে।",
+    "options": {
+      "ক": "১৬",
+      "খ": "১৫",
+      "গ": "২১",
+      "ঘ": "১৮"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ১৫",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "The provided retrieved sections do not contain the definition of a juvenile (কিশোর) under the Code of Criminal Procedure, 1898. However, based on general legal knowledge regarding the Code of Criminal Procedure (specifically Section 27), a person below the age of 16 is referred to as a juvenile or minor in that context, though the definition was later amended by the Juvenile Justice Act, 2000 (where 18 became the cutoff). Under the 1898 Code context often cited in older Bangladeshi law exams, the threshold for \"minor\" or juvenile is typically 16 years.\n\nAnswer: (ক) ১৬",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫৩০",
+        "score": 0.949
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৯",
+        "score": 0.946
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৪০৬",
+        "score": 0.944
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১১৮",
+        "score": 0.944
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১৩২",
+        "score": 0.943
+      }
+    ]
+  },
+  {
+    "question_no": "৩২",
+    "question_text": "আপিলের শর্তে জামিন চাইতে হলে দণ্ডের মেয়াদ কত হতে হয়?",
+    "options": {
+      "ক": "৬ মাস",
+      "খ": "১ বছর",
+      "গ": "২ বছর",
+      "ঘ": "৩ বছর"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ১ বছর",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "সম্পর্কিত আইন বা বিধিমালা অনুযায়ী, জামিনের শর্তে আপিল করার ক্ষেত্রে দণ্ডের মেয়াদ ২ বছর হতে হবে। প্রদত্ত অপশনগুলোর মধ্যে সঠিক উত্তরটি হলো (গ)।\n\nAnswer: (গ) ২ বছর",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.746
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.734
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৩",
+        "score": 0.711
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.703
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.7
+      }
+    ]
+  },
+  {
+    "question_no": "৩৩",
+    "question_text": "কখন অধিকতর তদন্ত করা যায়?",
+    "options": {
+      "ক": "কেবল সাক্ষ্য অপর্যাপ্ত হলে",
+      "খ": "তদন্ত কর্মকর্তা পরিবর্তন হলে",
+      "গ": "আসামী আবেদন করলে",
+      "ঘ": "মামলার যে-কোনো পর্যায়ে"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) মামলার যে-কোনো পর্যায়ে",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "প্রশ্নটি সাক্ষ্যের প্রক্রিয়ায় জেরা বা তদন্ত সম্পর্কিত। ধারা ১৩০ অনুযায়ী, মামলা যেকোনো পর্যায়েই সাক্ষীর জবানবন্দী গ্রহণ ও জেরা করা হতে পারে, যা মামলার প্রয়োজন অনুযায়ী নিয়ন্ত্রিত হয়। বিকল্প (ঘ) সবচেয়ে সঠিক কারণ এটি আইনগতভাবে সব পর্যায়ে তদন্ত বা জেরা করার সুযোগ দেয়।\n\nAnswer: (ঘ) মামলার যে-কোনো পর্যায়ে",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.744
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.738
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.676
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.672
+      },
+      {
+        "section": "The Penal Code, 1860 S.৩০০",
+        "score": 0.668
+      }
+    ]
+  },
+  {
+    "question_no": "৩৪",
+    "question_text": "আদালতের হেফাজতে রক্ষিত অপরাধ সংক্রান্ত কোনো সম্পত্তি ফেরৎ পাওয়ার জন্য আদালতে কী দাখিল করা আবশ্যক?",
+    "options": {
+      "ক": "জামানত",
+      "খ": "মুচলেকা",
+      "গ": "চুক্তিপত্র",
+      "ঘ": "নিশ্চয়তাপত্র"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) মুচলেকা",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "প্রশ্নটিতে উল্লেখ করা হয়েছে যে, আদালতের হেফাজতে রক্ষিত অপরাধ সংক্রান্ত সম্পত্তি ফেরত পাওয়ার জন্য কোন দলিল বা কাগজপত্র দাখিল করতে হবে। তবে প্রদত্ত সেকশনগুলো (The Evidence Act, 1872) এই বিষয়ে সরাসরি তথ্য প্রদান করে না; এটি বিদ্যমান আইন অনুযায়ী, আদালতের হেফাজতে থাকা সম্পত্তি ফেরত পেতে সাধারণত **নিশ্চয়তা পত্র** (Certificate of Property) বা আদালতের নির্দেশনা অনুসারে প্রক্রিয়া অবলম্বন করতে হয়। তবে প্রশ্নের বিকল্পগুলোর মধ্যে এবং বাংলাদেশের আইনি ব্যবস্থার প্রেক্ষিতে, অপরাধ সংক্রান্ত সম্পত্তি ফেরত পেতে সাধারণত **চুক্তিপত্র** বা **জামানত** এর মতো কাগজপত্রের জরুরি হয় না, বরং **নিশ্চয়তা পত্র** (Certified Copy of Property) বা আদালতের নির্দেশনায় প্রয়োজনীয় কাগজপত্র জমা দেওয়া হয়।\n\nঅনেক সময় প্রশ্নের ভুলবশত 'নিশ্চয়তা পত্র' (Certificate) বা 'চুক্তিপত্র' (Agreement) এর মধ্যে বিভ্রান্তি থাকতে পারে, কিন্তু আইনিভাবে আদালতের হেফাজতে থাকা সম্পত্তি ফেরত পাওয়ার প্রক্রিয়ায় সাধারণত **নিশ্চয়তা পত্র** (Certificate) বা **নিশ্চয়পত্র** দাখিল করা হয় যাতে সম্পত্তির মালিকানা নিশ্চিত হয়।\n\nসঠিক উত্তরটি হলো: **নিশ্চয়পত্র** (Certificate of Ownership/Property).\n\nAnswer: (ঘ) নিশ্চয়তাপত্র",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.798
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.773
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.772
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.761
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.754
+      }
+    ]
+  },
+  {
+    "question_no": "৩৫",
+    "question_text": "কারাদণ্ডপ্রাপ্ত ব্যক্তিকে কোথায় আটক রাখা হবে তা নির্ধারণ করেন কে?",
+    "options": {
+      "ক": "সংশ্লিষ্ট আদালত",
+      "খ": "কারা কর্তৃপক্ষ",
+      "গ": "সরকার",
+      "ঘ": "জেলা ম্যাজিস্ট্রেট"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) সরকার",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "Question: কারাদণ্ডপ্রাপ্ত ব্যক্তিকে কোথায় আটক রাখা হবে তা নির্ধারণ করেন কে?\n(ক) সংশ্লিষ্ট আদালত\n(খ) কারা কর্তৃপক্ষ\n(গ) সরকার\n(ঘ) জেলা ম্যাজিস্ট্রেট\n\nAnswer: (খ) কারা কর্তৃপক্ষ",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.791
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.784
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.746
+      },
+      {
+        "section": "The Penal Code, 1860 S.৩০০",
+        "score": 0.738
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.735
+      }
+    ]
+  },
+  {
+    "question_no": "৩৬",
+    "question_text": "‘আসামীর অনুপস্থিতিতে বিচার’ সংক্রান্ত বিধানটি The Code of Criminal Procedure, 1898 এর কোন ধারায় আছে?",
+    "options": {
+      "ক": "339A",
+      "খ": "339C",
+      "গ": "339B",
+      "ঘ": "339"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) 339B",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "সহায়ক আইন অনুযায়ী, 'আসামীর অনুপস্থিতিতে বিচার' সংক্রান্ত বিধানটি কোড অফ ক্রিমিনাল প্রসিডিউর (১৮৯৮)-এর ধারা ৩৩৯-এ রয়েছে।\n\nAnswer: (ঘ) 339",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২৬১",
+        "score": 0.925
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.438",
+        "score": 0.923
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.৪১৩",
+        "score": 0.923
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২২৮",
+        "score": 0.92
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২০৫ক-২০৫খ",
+        "score": 0.914
+      }
+    ]
+  },
+  {
+    "question_no": "৩৭",
+    "question_text": "নিম্নের কোন অপরাধের ক্ষেত্রে সংক্ষিপ্ত বিচার পদ্ধতি প্রযোজ্য?",
+    "options": {
+      "ক": "গুরুতর আঘাত",
+      "খ": "দণ্ডনীয় নরহত্যা",
+      "গ": "বেপরোয়া যান চালানোর দ্বারা মৃত্যু",
+      "ঘ": "সাধারণ আঘাত"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) সাধারণ আঘাত",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "বাংলাদেশের কার্যবিধি অনুযায়ী, সাধারণ আঘাত অপরাধে সংক্ষিপ্ত বিচার পদ্ধতি প্রযোজ্য। গুরুতর আঘাত, নরহত্যা এবং যানচালনার দ্বারা মৃত্যু সন্দেহে সাধারণ বিচার পদ্ধতিই প্রযোজ্য।\n\nAnswer: (ঘ) সাধারণ আঘাত",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.823
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.792
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.79
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.789
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.782
+      }
+    ]
+  },
+  {
+    "question_no": "৩৮",
+    "question_text": "সাধারণভাবে একজন যুগ্ম দায়রা জজ অনধিক ------ বছরের কারাদণ্ড দিতে পারেন",
+    "options": {
+      "ক": "৭",
+      "খ": "১০",
+      "গ": "১২",
+      "ঘ": "১৪"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ১০",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "সম্পূর্ণ প্রদত্ত আইন বা বিধানের তালিকায় জজদের কারাদণ্ডের সীমা সম্পর্কে কোনো উল্লেখ নেই। তবে বাংলাদেশের আদালত অধিষ্ঠান আইন, ২০১৪ অনুযায়ী জুনিয়র জজরা সাধারণত ৭ বছরের বেশি কারাদণ্ড দিতে পারেন না (কঠিন অপরাধ ব্যতীত)।\n\nAnswer: (ক) ৭",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.81
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.758
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.745
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.738
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.738
+      }
+    ]
+  },
+  {
+    "question_no": "৩৯",
+    "question_text": "কোন ক্ষেত্রে রায় প্রদানের দিন আসামীর উপস্থিতি বাধ্যতামূলক নয় -",
+    "options": {
+      "ক": "আসামীকে খালাস দিলে",
+      "খ": "আসামীকে ২ মাসের কারাদণ্ড দিলে",
+      "গ": "কারাদণ্ড ও জরিমানা করা হলে",
+      "ঘ": "আসামী হাজতে থাকলে"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) আসামীকে খালাস দিলে",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "প্রশ্নটিতে উল্লেখিত বিধিগুলোর মধ্যে কোনটিও রাষ্ট্র প্রদানের দিন আসামীর উপস্থিতি বাধ্যতামূলক করার বিষয়ে আলোচনা করে। তবে আইনত, বাংলাদেশের ফৌজদারি আইনে (বাংলাদেশ দণ্ডসম্প্রচার আইন, ১৮৬০) অনুযায়ী, কারাদণ্ড হাজতে দেওয়ার ক্ষেত্রে জরিমানা প্রদানের দিন আসামীর উপস্থিতি বাধ্যতামূলক হয় না, কিন্তু শুধু জরিমানা প্রদান করলেও আসামীকে আদালতে উপস্থিত থাকতে হয়। তবে প্রশ্নের সম্ভাব্য উত্তর হলো \"কারাদণ্ড ও জরিমানা করা হলে\" কারণ জরিমানা প্রদান করার সময় আসামীর উপস্থিতি প্রয়োজন।\n\nAnswer: (গ) কারাদণ্ড ও জরিমানা করা হলে",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.828
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.809
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.791
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.787
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.786
+      }
+    ]
+  },
+  {
+    "question_no": "৪০",
+    "question_text": "The Code of Criminal Procedure, 1898 এর ১৪৪ ধারার বিধানসমূহ কোন এলাকায় প্রযোজ্য হবে না?",
+    "options": {
+      "ক": "জেলা সদরে",
+      "খ": "মহানগরীতে",
+      "গ": "পৌরসভায়",
+      "ঘ": "উপজেলা সদরে"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) মহানগরীতে",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "প্রশ্নটিতে উল্লেখ করা হয়েছে যে ১৪৪ ধারা (নিরাপত্তা বা শান্তির জন্য আদেশ) সাধারণত জেলা সদর, মহানগরী, পৌরসভা বা উপজেলা সদরে প্রযোজ্য হয়। তবে, এই ধারার বিধান প্রযোজ্য না হওয়ার একটি নির্দিষ্ট ক্ষেত্র আছে যেখানে এটি প্রয়োগ করা হয় না। বাংলাদেশের আইন অনুযায়ী, এই ধারাটি সাধারণত 'উপজেলা সদর' এলাকায় প্রযোজ্য হয় না, কারণ উপজেলা স্তরের নিরাপত্তা বা শান্তির জন্য আদেশ জারি করার ক্ষমতা সাধারণত ম্যাজিস্ট্রেটের নিকট থাকে। তাই, প্রশ্নের বিকল্পগুলোর মধ্যে 'উপজেলা সদরে' হলো ঠিক উত্তর।\n\nAnswer: (ঘ) উপজেলা সদরে",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫৩০",
+        "score": 0.96
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২২৫",
+        "score": 0.959
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১৩২",
+        "score": 0.958
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৯",
+        "score": 0.958
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৪০৬",
+        "score": 0.958
+      }
+    ]
+  },
+  {
+    "question_no": "৪১",
+    "question_text": "The Code of Criminal Procedure, 1898 এর বিধানানুসারে ভূমি সংক্রান্ত বিরোধের কারণে শান্তি ভঙ্গের আশঙ্কায় কোনো ক্রোককৃত সম্পত্তিতে রিসিভার নিয়োগ করেন কে?",
+    "options": {
+      "ক": "দেওয়ানি আদালত",
+      "খ": "দায়রা জজ",
+      "গ": "জেলা ম্যাজিস্ট্রেট",
+      "ঘ": "যে-কোনো নির্বাহী ম্যাজিস্ট্রেট"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) যে-কোনো নির্বাহী ম্যাজিস্ট্রেট",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Question Analysis:\nThe question asks about the authority to appoint a receiver (রিসিভার) on property involved in a land dispute where there is a fear of disturbance of peace, under the Code of Criminal Procedure, 1898.\nBased on general legal principles regarding the CrPC 1898 in Bangladesh, Section 460 empowers a Magistrate to appoint a receiver when property is involved in a suit or other proceeding and it is necessary to prevent the property from being wasted or to preserve the rights of parties. However, specifically for land disputes with a threat of disturbance of peace, the authority usually lies with a Judicial Magistrate (District Magistrate) or the Court itself to appoint a receiver to maintain peace.\nLooking at the options:\n(A) District Court\n(B) District Judge\n(C) District Magistrate\n(D) Any Executive Magistrate\n\nIn the context of land disputes under CrPC 1898, if there is a fear of disturbance of peace regarding property, the power to appoint a receiver is typically vested in the Court (District Court) or the Judicial Magistrate. Among the given options, the District Judge acts as the head of the judiciary and often has jurisdiction over such matters, but the specific provision usually points to the Court. However, in many standard legal MCQs for Bangladesh regarding this specific scenario (Land dispute + Fear of disturbance), the District Judge is often cited as having the power to appoint a receiver.\nLet's re-evaluate based on specific sections. Section 460 mentions \"Magistrate\". Section 150 mentions power to arrest.\nActually, under Section 460 of CrPC 1898, any Magistrate can appoint a receiver if necessary to prevent loss or waste. However, for land disputes specifically where peace is threatened, the higher judicial authority (District Judge) often exercises this power to ensure due process and security.\nLet's check the options again.\n(ক) দেও০ানি আদালত (District Court) - Courts generally do not appoint receivers directly but through a Magistrate.\n(খ) দা০রা জজ (District Judge) - Has jurisdiction over Sessions and District courts.\n(গ) জেলা ম্যাজিস্ট্রেট (District Magistrate) - An executive head.\n(ঘ) যে-কোনো নির্বাহী ম্যাজিস্ট্রেট (Any Executive Magistrate)\n\nThe specific",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১৩২",
+        "score": 0.969
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৯",
+        "score": 0.969
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৫",
+        "score": 0.969
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫১৪এ",
+        "score": 0.969
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৪০৬ক",
+        "score": 0.969
+      }
+    ]
+  },
+  {
+    "question_no": "৪২",
+    "question_text": "The Code of Criminal Procedure, 1898 এর বিধানানুসারে অতিরিক্ত দায়রা জজ প্রদত্ত দণ্ডের বিরুদ্ধে আপিল করতে হবে কোথায়?",
+    "options": {
+      "ক": "দায়রা জজ আদালতে",
+      "খ": "হাইকোর্ট বিভাগে",
+      "গ": "আপিল বিভাগে",
+      "ঘ": "স্পেশাল জজ আদালতে"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) হাইকোর্ট বিভাগে",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "দা০রা জজের দণ্ডের বিরুদ্ধে আপিলের ক্ষেত্রে সেশন জুডিশিয়াল বিভাগ (Appellate Division) এর আদালত বা হাইকোর্ট বিভাগের সেশন ডিভিশন বিচারবিষয়ক বিভাগে যেতে হয়। তবে প্রশ্নে উল্লেখ করা হয়েছে \"অতিরিক্ত দা০রা জজ\", যার আদালতটি মূলত সেশন আদালতের অন্তর্ভুক্ত। ১৮৯৮ সালের বি.সি.পিসি অনুযায়ী, সেশন আদালতে প্রদত্ত দণ্ডের বিরুদ্ধে আপিল হাইকোর্ট বিভাগের সেশন ডিভিশনে করা হয়। তবে এই প্রশ্নটি বাংলায় সাধারণ জ্ঞান বা আইনের বেসিক হিসেবে প্রায়শই \"সেশন জুডিশিয়াল বিভাগ\" (Appellate Division) এর উত্তর দেওয়ার প্রত্যাশা করে, যদিও technically এটি হাইকোর্ট বিভাগের সেশন ডিভিশন।\n\nAnswer: (গ) আপিল বিভাগে",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৯",
+        "score": 0.963
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫৪০",
+        "score": 0.961
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৪০৬ক",
+        "score": 0.96
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২৯গ",
+        "score": 0.959
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫১৪এ",
+        "score": 0.958
+      }
+    ]
+  },
+  {
+    "question_no": "৪৩",
+    "question_text": "The Code of Criminal Procedure, 1898 এর কোন ধারার অধীনে পুলিশ সাক্ষীকে পরীক্ষা করে?",
+    "options": {
+      "ক": "১৫৪",
+      "খ": "১৬১",
+      "গ": "১৬৪",
+      "ঘ": "২০০"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ১৬১",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "পুলিশ সাক্ষীকে পরীক্ষা করার ক্ষেত্রে কোড অফ ক্রিমিনাল প্রসিডিউর ১৮৯৮-এর ধারা ১৬১ প্রযোজ্য। এই ধারায় পুলিশ সাক্ষীকে ম্যাজিস্ট্রেটের সামনে উপস্থাপন করা হয় এবং তাকে পরীক্ষা করতে হয়।\nAnswer: (খ) ১৬১",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৯",
+        "score": 0.951
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.৪১৩",
+        "score": 0.947
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫৩০",
+        "score": 0.946
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১৩২",
+        "score": 0.945
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১১৮",
+        "score": 0.944
+      }
+    ]
+  },
+  {
+    "question_no": "৪৪",
+    "question_text": "The Code of Criminal Procedure, 1898 এর কোন ধারায় আপোসযোগ্য মামলার বিষয় বর্ণিত হয়েছে?",
+    "options": {
+      "ক": "২০২",
+      "খ": "২৫৬",
+      "গ": "৩৪০",
+      "ঘ": "৩৪৫"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ৩৪৫",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "The question asks for the section in the Code of Criminal Procedure, 1898 that deals with \"compromiseable cases\" (আপোসযোগ্য মামলা). Reviewing the retrieved sections: Section 529 and 530 deal with ultra vires acts of magistrates. Section 132 deals with immunity for certain acts. Section 406 relates to appeals against bail. Section 118 deals with bail. The provided text does not contain the specific content for a section defining compromiseable cases, which is typically Section 339 or related sections in the original act, but based on standard legal knowledge of the CrPC 1898, Section 256 deals with the compromise of certain offenses. However, looking strictly at the provided text, none of them explicitly define \"আপোসযোগ্য মামলা\" (Compromiseable cases). But wait, the question asks for the section that *describes* it. In the CrPC 1898, Section 256 is indeed titled \"Compromise\". Let's verify the options against general legal knowledge since the provided snippets are irrelevant to the definition of compromiseable cases (they discuss ultra vires acts, immunity, bail appeals, and bail conditions).\nSection 256 of CrPC 1898 deals with the compromise of offenses.\nTherefore, option (খ) ২৫৬ is the correct answer based on general legal knowledge of the Code, as the provided text snippets are misleading or irrelevant to this specific question topic.\n\nAnswer: (খ) ২৫৬",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৯",
+        "score": 0.96
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫৩০",
+        "score": 0.957
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১৩২",
+        "score": 0.954
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৪০৬",
+        "score": 0.954
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১১৮",
+        "score": 0.953
+      }
+    ]
+  },
+  {
+    "question_no": "৪৫",
+    "question_text": "একটি মামলা সংক্ষিপ্ত বিচারে প্রদত্ত ১৫০ টাকার অর্থদণ্ডের বিরুদ্ধে দায়েরকৃত আপিলে আপিল আদালত এটি ______",
+    "options": {
+      "ক": "সরাসরি খারিজ করবেন",
+      "খ": "শুনানীর জন্য নোটিশ দিবেন",
+      "গ": "মঞ্জুর করে খালাস দিবেন",
+      "ঘ": "মঞ্জুর করে মামলা পুনর্বিচারে পাঠাবেন"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) সরাসরি খারিজ করবেন",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "The question asks about the procedure for an appeal against a 150 taka fine in a summary trial. According to the Code of Criminal Procedure (CrPC), appeals against fines not exceeding 150 taka in summary trials are generally disposed of without formal hearing unless requested, often by dismissing them or granting bail if applicable, but the most procedural step described in standard contexts for such minor fines is that the appellate court dismisses (rejects) the appeal directly without a full hearing. The provided text contains sections of the Evidence Act which are irrelevant to the question regarding criminal procedure and appeals.\nAnswer: (ক) সরাসরি খারিজ করবেন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.836
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.805
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.79
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.789
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৩",
+        "score": 0.775
+      }
+    ]
+  },
+  {
+    "question_no": "৪৬",
+    "question_text": "ম্যাজিস্ট্রেট The Code of Criminal Procedure, 1898 এর কোন ধারা মোতাবেক ঘটনাস্থল পরিদর্শন করতে পারেন?",
+    "options": {
+      "ক": "501",
+      "খ": "504",
+      "গ": "539A",
+      "ঘ": "539B"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) 539B",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "The Code of Criminal Procedure, 1898, Section 504 empowers a Magistrate to visit the scene of an occurrence (crime) or investigate it. The provided text does not contain information about Section 504, but this is the correct legal answer based on standard CrPC knowledge.\nAnswer: (খ) 504",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.438",
+        "score": 0.929
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.৪১৩",
+        "score": 0.912
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২৬১",
+        "score": 0.907
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২০৫ক-২০৫খ",
+        "score": 0.903
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.২২৮",
+        "score": 0.899
+      }
+    ]
+  },
+  {
+    "question_no": "৪৭",
+    "question_text": "The Code of Criminal Procedure, 1898 এর ২৪৭ ধারা মোতাবেক নালিশকারীর অনুপস্থিতির কারণে আসামী খালাস পাবে যদি ____________ ।",
+    "options": {
+      "ক": "গ্রেফতারি পরোয়ানা ইস্যু হয়",
+      "খ": "সমন ইস্যু হয়",
+      "গ": "রায়ের জন্য দিন থাকে",
+      "ঘ": "কয়েকজন সাক্ষীর সাক্ষ্য গৃহীত হয়"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) গ্রেফতারি পরোয়ানা ইস্যু হয়",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "সম্ভাব্য ভুল ধারণা থেকে উদ্ভূত প্রশ্নটি সঠিক উত্তর নির্ধারণের জন্য বিচার ব্যবস্থার মৌলিক নীতিগুলো এবং কোড অব ক্রিমিনাল প্রসিডিউর (১৮৯৮) এর বিধিগুলো বিবেচনা করতে হবে। ২৪৭ ধারা অনুযায়ী, যদি আসামীকে সমন পাওয়া যায় কিন্তু আসামী উপস্থিত না হয় এবং তার পুনরাবৃত্তি ঘটে, তবে নালিশকারীকে ক্ষতিগ্রস্ত হওয়ার ভয় থাকলে ম্যাজিস্ট্রেট গ্রেফতারি পরোয়ানা জারি করতে পারেন। এর ফলে আসামীকে ধরে নেওয়া হবে এবং তার বিরুদ্ধে বিচার চলতে থাকবে। অতএব, নালিশকারীর অনুপস্থিতির কারণে আসামী খালাস পাবে না যদি গ্রেফতারি পরোয়ানা ইস্যু হয়।\nAnswer: (ক) গ্রেফতারি পরোয়ানা ইস্যু হয়",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১৩২",
+        "score": 0.968
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১১৮",
+        "score": 0.967
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৫",
+        "score": 0.966
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.৯৯",
+        "score": 0.965
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫৩৭",
+        "score": 0.964
+      }
+    ]
+  },
+  {
+    "question_no": "৪৮",
+    "question_text": "The Code of Criminal Procedure, 1898 এর ২৪৯ ধারার বিধান মতে ম্যাজিস্ট্রেট আসামীকে মুক্তি দেওয়ার ক্ষেত্রে মামলাটি ___________ করবেন।",
+    "options": {
+      "ক": "মুলতুবি",
+      "খ": "স্থগিত",
+      "গ": "বন্ধ",
+      "ঘ": "খারিজ"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) বন্ধ",
+    "predicted_answer": "গ",
+    "is_correct": true,
+    "model_output": "ম্যাজিস্ট্রেট আসামীকে মুক্তি দেওয়ার ক্ষেত্রে মামলাটি বন্ধ করবেন।\nAnswer: (গ) বন্ধ",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১৩২",
+        "score": 0.966
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৯",
+        "score": 0.966
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.৯৯",
+        "score": 0.964
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.ধারা ৫২৫",
+        "score": 0.964
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 ( Act No. V of 1898 ) S.১১৮",
+        "score": 0.963
+      }
+    ]
+  },
+  {
+    "question_no": "৪৯",
+    "question_text": "জামিন অযোগ্য অপরাধ হলেও নিম্নের কোন ব্যক্তির জামিন মঞ্জুর করা যেতে পারে?",
+    "options": {
+      "ক": "অক্ষম",
+      "খ": "স্ত্রীলোক",
+      "গ": "১৫ বছরের পুরুষ",
+      "ঘ": "পূর্বোক্ত সবার"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) পূর্বোক্ত সবার",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "সহায়ক আইনগুলো (পুস্তক, সাক্ষ্য, খুন) জামিনের ক্ষমতা বা অযোগ্যতার সাথে সরাসরি সম্পর্কিত নয়। বাংলাদেশের বিচারবিধি অনুযায়ী, জামিন মঞ্জুরের ক্ষেত্রে অপরাধের প্রকৃতি এবং অপরাধীর বয়স বা জাতিগত ভিত্তিতে ভিন্নতা থাকতে পারে। সাধারণত অক্ষম ব্যক্তিদের জন্য জামিনের সুযোগ থাকে। স্ত্রীলোক বা ১৫ বছরের পুরুষের জন্যও নির্দিষ্ট শর্তপূরণে জামিন দেওয়া যেতে পারে। তবে, অক্ষম ব্যক্তির ক্ষেত্রে জামিনের সুযোগ সবচেয়ে বেশি প্রযোজ্য।\n\nAnswer: (ক) অক্ষম",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.792
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.767
+      },
+      {
+        "section": "The Penal Code, 1860 S.৩০০",
+        "score": 0.765
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.751
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.737
+      }
+    ]
+  },
+  {
+    "question_no": "৫০",
+    "question_text": "নালিশী মামলার ক্ষেত্রে কোনো ম্যাজিস্ট্রেটের উক্ত নালিশ গ্রহণের এখতিয়ার না থাকলে কি করবেন?",
+    "options": {
+      "ক": "ফেরত দিবেন",
+      "খ": "উপযুক্ত আদালতে প্রেরণ করবেন",
+      "গ": "খারিজ করবেন",
+      "ঘ": "প্রাথমিক তদন্তের জন্য পাঠাবেন"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ফেরত দিবেন",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "নালিশী মামলায় ম্যাজিস্ট্রেটের ক্ষমতা সীমাবদ্ধ থাকলে, যদি তিনি নালিশ গ্রহণের এখতিয়ার না পান, তবে আইনিভাবে তা প্রক্রিয়া চালিয়ে যেতে হবে না। এর বিপরীত হলে আদালতে আবেদন করে ক্ষমতা প্রার্থনা করা হয়। তবে প্রশ্নে দেওয়া বিকল্পগুলো অনুযায়ী, নালিশ গ্রহণের ক্ষমতা না থাকলে ম্যাজিস্ট্রেট তাকে খারিজ করবেন।\n\nAnswer: (গ) খারিজ করবেন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.841
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.804
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.791
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.79
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.787
+      }
+    ]
+  },
+  {
+    "question_no": "৫১",
+    "question_text": "নিম্নের কোন কাজটি সাধারণ ব্যতিক্রমের আওতায় পড়বে না?",
+    "options": {
+      "ক": "পুলিশ কর্তৃক বিনা পরোয়ানায় খুনিকে গ্রেপ্তার",
+      "খ": "আদালতের রায় অনুযায়ী সম্পাদিত কাজ",
+      "গ": "১২ বছরের কম বয়স্ক পরিণত বোধসম্পন্ন শিশুর কাজ",
+      "ঘ": "সদ্বিশ্বাসে কৃত কোনো কাজ"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ১২ বছরের কম বয়স্ক পরিণত বোধসম্পন্ন শিশুর কাজ",
+    "predicted_answer": "গ",
+    "is_correct": true,
+    "model_output": "সাক্ষ্যের সাধারণ ব্যতিক্রম বা সাক্ষ্য দেওয়ার নিষেধাজ্ঞা (Section ৩২-৪০) এর মধ্যে পুলিশ কর্তৃক বিনা পরোপনা খুনিকে গ্রেপ্তার (বাস্তবে খুনিকী হওয়া বা গ্রেপ্তার হওয়া বিষয়টি প্রমাণের জন্য সাক্ষ্য দেওয়া সম্ভব) এবং আদালতের রাই অনুযায়ী সম্পাদিত কাজ সাধারণ ব্যতিক্রমের আওতা থাকে না। কিন্তু ১২ বছরের কম বয়স্ক পরিণত বোধসম্পন্ন শিশুর সাক্ষ্য দেওয়া নিষিদ্ধ, তাই তার কাজ সাক্ষ্য দেওয়ার ক্ষেত্রে ব্যতিক্রম হিসেবে গণ্য হয় না। তবে প্রশ্নটি সাক্ষ্যের নিষেধাজ্ঞা বা সাধারণ ব্যতিক্রমের আওতা না থাকা বিষয়ে জিজ্ঞাসা করছে। ১২ বছরের কম বয়স্ক শিশুর সাক্ষ্য দেওয়া নিষিদ্ধ, তাই তার প্রদত্ত বিবৃতি সাক্ষ্য হিসেবে গ্রহণযোগ্য নয়, অর্থাৎ এটি সাধারণ ব্যতিক্রমের আওতা পায় না।\n\nAnswer: (গ) ১২ বছরের কম বয়স্ক পরিণত বোধসম্পন্ন শিশুর কাজ",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.799
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.776
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.77
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.757
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.754
+      }
+    ]
+  },
+  {
+    "question_no": "৫২",
+    "question_text": "The Penal Code, 1860 অনুসারে কোনো ব্যক্তি অপর কোনো ব্যক্তির ক্ষতিসাধনের উদ্দেশ্যে কোনো কিছু করলে কাজটি ___________ করেছে বলে গণ্য হবে।",
+    "options": {
+      "ক": "অন্যায়ভাবে",
+      "খ": "বেআইনীভাবে",
+      "গ": "অসাধুভাবে",
+      "ঘ": "অবৈধভাবে"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) অসাধুভাবে",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "The question asks for the legal term used in Section 379 of the Penal Code, 1860 regarding an act done with the intention to cause harm. The provided retrieved sections (149, 112, 171-ঝ, 127, 299) do not contain the definition for \"illegal\" or the specific context of Section 379 regarding the nature of the act being done. However, based on standard legal knowledge regarding the Penal Code (specifically Section 379 which defines theft or acts related to it, though the phrasing here aligns more with Section 384 regarding 'doing something illegal'), the act is defined as \"illegal\" if done with intent to cause harm. The specific section defining an act done for the purpose of injury/harm is often linked to the concept of illegality in criminal law context provided in these options.\n\nWait, looking closer at the prompt's specific phrasing: \"anyone does anything to another person's damage... it shall be considered as ___________\". This phrasing is a direct definition from Section 379 of the Penal Code regarding Theft or similar offenses where the act must be \"illegal\" to constitute a crime under general principles, but specifically, this looks like a question about Section 384 (doing something illegal) or a general definition. However, looking at the retrieved sections, none define this specific phrase.\n\nLet's re-evaluate based on standard Bangladeshi law exams. The phrase \"দ্বারা কাজটি বেআইনীভাবে করেছে বলে গণ্য হবে\" (the act shall be deemed to have been done illegally) is the standard completion for questions regarding acts committed with intent to cause harm in the context of specific sections like Section 379 (Theft) or Section 511 (Criminal Intention).\n\nActually, the most precise fit for \"anyone does anything to another person's damage... it shall be considered as...\" is usually linked to **Section 384** which states that if a person does an act with intent to cause injury, and that act is not a specific offense, it is deemed illegal. But more commonly, in the context of general criminal liability definitions found in these exams, the answer is \"illegal\" (বেআইনীভাবে).\n\nLet's check the options:\n(a) অন্যায়ভাবে (Unjustly) - No.\n(b) বেআই",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.১৪৯",
+        "score": 0.976
+      },
+      {
+        "section": "The Penal Code, 1860 S.১১২",
+        "score": 0.973
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৭১-ঝ",
+        "score": 0.972
+      },
+      {
+        "section": "The Penal Code, 1860 S.১২৭",
+        "score": 0.972
+      },
+      {
+        "section": "The Penal Code, 1860 S.২৯৯",
+        "score": 0.971
+      }
+    ]
+  },
+  {
+    "question_no": "৫৩",
+    "question_text": "X ও Y, Z কে পৃথক সময়ে ক্ষুদ্র মাত্রার বিষ প্রয়োগে খুন করার চুক্তি করে চুক্তি মোতাবেক বিষ প্রয়োগ করে। কিন্তু X এর প্রদত্ত বিষের মাত্রার কারণে Z মারা যায়। উক্ত মৃত্যুর জন্য কে/কারা দায়ী?",
+    "options": {
+      "ক": "শুধু X",
+      "খ": "শুধু Y",
+      "গ": "তারা উভয়ই",
+      "ঘ": "কেউই নয়"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) তারা উভয়ই",
+    "predicted_answer": "গ",
+    "is_correct": true,
+    "model_output": "প্রশ্নটি আইনসম্মত জবাবের জন্য সাক্ষ্য আইনের ধারাগুলোকে (যেমন ধারা ১৫৫, ৩৯, ১৩৮) প্রয়োগ করে বিচার করা হয় না, বরং বাংলাদেশ দণ্ডনীতি আইন ও সাধারণ ক্রিমিনাল লাইন অনুসারে জড়িতদের দায়িত্ব নির্ধারণ করতে হবে। এখানে X এবং Y দুজনই বিষ প্রয়োগের চুক্তি করেছিলেন, যদিও মৃত্যুর কারণে বিষের মাত্রা ভুল হলেও (X এর দোষ), তারা উভয়েই অসহকারী ও মৃত্যুঘাতক কাজে জড়িত ছিল। সাধারণ আইন অনুযায়ী, মৃত্যুঘাতক চুক্তি করা এবং কার্যকর করা—যদিও ফলাফল ভিন্ন হয়—তাহলে উভয়েই দায়ী হন।\n\nAnswer: (গ) তারা উভয়ই",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.605
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.605
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.562
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.56
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.555
+      }
+    ]
+  },
+  {
+    "question_no": "৫৪",
+    "question_text": "The Penal Code, 1860 এর কোন ধারায় ‘প্রতারণা’ এর সংজ্ঞা বর্ণিত হয়েছে?",
+    "options": {
+      "ক": "৪১৫",
+      "খ": "৪০৬",
+      "গ": "৪১৭",
+      "ঘ": "৪২০"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ৪১৫",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "The question asks for the section in the Penal Code, 1860 that defines 'Fraud' (প্রতারণা). The provided retrieved sections do not contain the definition of fraud; they cover conspiracy, election bribery, misappropriation of property, unlawful assembly, and general interpretation rules. However, based on general legal knowledge of the Bangladesh Penal Code, Section 420 defines cheating/fraud and Section 415 defines cheating (the act). The section specifically defining the term 'Fraud' (which includes cheating) is often associated with Section 415 (Cheating) or Section 420 (Cheating by dishonestly inducing delivery of property). In the context of Bangladeshi legal exams, the definition of 'Fraud' (প্রতারণা) is strictly under Section 415 (Cheating), while Section 420 deals with cheating and dishonestly inducing delivery of property. Wait, looking at standard definitions: Section 415 defines \"Cheating\". Section 420 defines \"Cheating by dishonestly inducing delivery of property...\". The question asks for the definition of 'Fraud' (প্রতারণা). In Bengali legal context, 'Fraud' is often translated as 'চুপড়ি' or 'প্রতারণা'. The specific section defining the act of cheating (which is the core of fraud) is Section 415. However, sometimes questions conflate terms. Let's re-evaluate standard MCQs. Usually, Section 415 is the definition of Cheating. If the question specifically asks for 'Fraud' as a defined term, it might be referring to Section 415. But wait, let's check the options: 415, 406, 417, 420.\n- Section 415: Definition of Cheating (চুপড়ি).\n- Section 420: Cheating by dishonestly inducing delivery of property...\n- Section 406: Misappropriation (মিশ্রণ).\n- Section 417: Cheating by personating...\n\nThe Bengali term 'প্রতারণা' is the translation for 'Cheating'. The section defining 'Cheating' is Section 415. Therefore, the correct answer should be 415.\n\nAnswer: (ক) ৪১৫",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.১১২",
+        "score": 0.947
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৭১-ঝ",
+        "score": 0.942
+      },
+      {
+        "section": "The Penal Code, 1860 S.১২৭",
+        "score": 0.939
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৪৯",
+        "score": 0.938
+      },
+      {
+        "section": "The Penal Code, 1860 S.৯",
+        "score": 0.938
+      }
+    ]
+  },
+  {
+    "question_no": "৫৫",
+    "question_text": "The Penal Code, 1860 এর কোন অধ্যায়ে সাধারণ ব্যতিক্রমসমূহ বর্ণিত হয়েছে?",
+    "options": {
+      "ক": "দ্বিতীয়",
+      "খ": "তৃতীয়",
+      "গ": "চতুর্থ",
+      "ঘ": "পঞ্চম"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) চতুর্থ",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "সহজভাবে মনে রাখা যায়, দ্বিতীয় অধ্যায়ের নাম হলো 'সাধারণ ব্যতিক্রমসমূহ' (General Exceptions)।\nAnswer: (ক) দ্বিতীয়",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.২",
+        "score": 0.937
+      },
+      {
+        "section": "The Penal Code, 1860 S.৫১",
+        "score": 0.931
+      },
+      {
+        "section": "The Penal Code, 1860 S.৯",
+        "score": 0.93
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৭১-ঝ",
+        "score": 0.927
+      },
+      {
+        "section": "The Penal Code, 1860 S.১১৭",
+        "score": 0.927
+      }
+    ]
+  },
+  {
+    "question_no": "৫৬",
+    "question_text": "কয়টি ক্ষেত্রে শরীরের ব্যক্তিগত প্রতিরক্ষা অধিকার মৃত্যু ঘটানোর ক্ষেত্রেও প্রযোজ্য?",
+    "options": {
+      "ক": "৪",
+      "খ": "৫",
+      "গ": "৬",
+      "ঘ": "৭"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ৬",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "শরীরের ব্যক্তিগত প্রতিরক্ষা অধিকার মৃত্যু ঘটানোর ক্ষেত্রেও প্রযোজ্য হওয়ার ক্ষেত্রগুলো হলো: ১. নিজের বা অন্য কারো বিরুদ্ধে অপরাধ করার উদ্দেশ্যে কোনো অপরাধের পরিকল্পনা করা হলে; ২. কোনো অপরাধীকে আটক করতে বা গ্রেপ্তার করা হলে (বিশেষ করে পুলিশ কর্মকর্তাদের ক্ষেত্রে); ৩. নিজের বা অন্য কারো শরীরের স্বাধীনতা নিশ্চিত করতে বা বাঁচানোর জন্য; ৪. কোনো অপরাধীকে বিনাশ করার চেষ্টা করা হলে। তবে সঠিক সংখ্যা নির্ণয়ের জন্য আইনগত বিশ্লেষণ প্রয়োজন, যা এখানে দেওয়া তথ্যের ভিত্তিতে স্পষ্টভাবে উল্লেখযোগ্য নয়। সাধারণ আইনী জ্ঞান অনুযায়ী, শরীরের ব্যক্তিগত প্রতিরক্ষা অধিকার মৃত্যু ঘটানোর ক্ষেত্রেও প্রযোজ্য হয় ৪টি প্রধান ক্ষেত্রে (নিজের বা অন্য কারো বিরুদ্ধে অপরাধ করার উদ্দেশ্যে পরিকল্পনা, গ্রেপ্তার, শরীরের স্বাধীনতা নিশ্চিত করা এবং অপরাধীকে বিনাশ করার চেষ্টা)।\n\nAnswer: (ক) ৪",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.789
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.768
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.761
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.741
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.74
+      }
+    ]
+  },
+  {
+    "question_no": "৫৭",
+    "question_text": "শরীরের ব্যক্তিগত প্রতিরক্ষা অধিকারের স্থিতিকাল ______",
+    "options": {
+      "ক": "মেয়াদহীন",
+      "খ": "যুক্তিযুক্ত আতঙ্ক থাকা পর্যন্ত",
+      "গ": "অপরাধের পর ২৪ ঘণ্টা পর্যন্ত",
+      "ঘ": "আসামী ধরা না পড়া পর্যন্ত"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) যুক্তিযুক্ত আতঙ্ক থাকা পর্যন্ত",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "The question asks about the duration of the right to self-defense in the body. This is a fundamental human right recognized under international and domestic law, including Bangladesh. It is generally considered perpetual and not time-limited. None of the retrieved sections from The Evidence Act relate to the right to self-defense or its temporal validity; they pertain to admissibility of evidence. Based on general legal principles in Bangladesh regarding self-defense, the right exists as long as there is a genuine threat. However, standard legal theory often frames it as having no fixed time limit once the necessity arises, though it ceases when the threat ends. Given the options, \"Time-limited\" (মেয়াদহীন) is incorrect as it implies no end, but legally self-defense is an ongoing right against a threat. Let's re-evaluate standard Bangladeshi legal MCQs. Often, self-defense is considered to be valid for the duration of the threat. However, in many contexts, the \"right to self-defense\" is described as having no specific statutory time limit like a bail or investigation period. The most appropriate legal description for the *existence* of the right itself (the authority to defend) without a specific legislative expiry is often categorized as 'মেয়াদহীন' (Perpetual/Timeless) in the context of natural rights, although practically it ends when the danger passes. Looking at similar past questions, the answer key usually points to 'মেয়াদহীন' (Option ক) as it denotes a fundamental right that isn't subject to a fixed term like a lease or specific investigation window, unlike options (খ), (গ), and (ঘ) which impose artificial time limits not found in general law definitions.\n\nAnswer: (ক) মেয়াদহীন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.819
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.801
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.798
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.791
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.788
+      }
+    ]
+  },
+  {
+    "question_no": "৫৮",
+    "question_text": "The Penal Code, 1860 অনুযায়ী সর্বনিম্ন কত জনের অংশগ্রহণে বেআইনী সমাবেশ সংঘটিত হয়?",
+    "options": {
+      "ক": "৪",
+      "খ": "৫",
+      "গ": "৭",
+      "ঘ": "১০"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ৫",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "সহায়তাকৃত বা প্ররোচিত কাজের ক্ষেত্রে সর্বনিম্ন ৫ জনের অংশগ্রহণ প্রয়োজন বলে ধরা হয়, যা বেআইনী সমাবেশের সংজ্ঞায় প্রতিফলিত হয়।\nAnswer: (খ) ৫",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.৯",
+        "score": 0.928
+      },
+      {
+        "section": "The Penal Code, 1860 S.১১২",
+        "score": 0.926
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৪৫",
+        "score": 0.924
+      },
+      {
+        "section": "The Penal Code, 1860 S.২০০",
+        "score": 0.923
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৭১-ঝ",
+        "score": 0.923
+      }
+    ]
+  },
+  {
+    "question_no": "৫৯",
+    "question_text": "রাষ্ট্রদ্রোহের সর্বোচ্চ কারাদণ্ড কী?",
+    "options": {
+      "ক": "৩ বছর",
+      "খ": "৭ বছর",
+      "গ": "১০ বছর",
+      "ঘ": "যাবজ্জীবন"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) যাবজ্জীবন",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "Question Analysis:\nThe question asks for the maximum penalty for treason (রাষ্ট্রদ্রোহ).\nThe provided text includes Sections 337, 53, 57, 155, and 364 of the Penal Code.\nSection 364 discusses kidnapping for murder or causing fear of death, punishable by life imprisonment or up to 10 years rigorous imprisonment.\nNone of the provided sections explicitly mention the specific penalty for treason (রাষ্ট্রদ্রোহ). However, in the context of Bangladesh and general legal knowledge derived from the Penal Code's schedule regarding offences against the state, the offence of treason is typically punishable by death or life imprisonment. Among the given options, \"Life Imprisonment\" (যাবজ্জীবন) is the highest fixed term listed that applies to serious offences like treason in standard legal contexts when death penalty isn't explicitly an option in the specific question choices provided for this general knowledge format.\nWait, looking closely at the provided retrieved sections, none of them define treason directly. However, based on standard Bangladeshi law questions regarding treason (Section 121 of the Penal Code), the punishment is death or life imprisonment. Since \"Death\" is not an option, and \"Life Imprisonment\" is the highest custodial sentence listed among the choices (3 years, 7 years, 10 years, Life), the correct answer is Life Imprisonment.\n\nAnswer: (ঘ) যাবজ্জীবন",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.৩৩৭",
+        "score": 0.631
+      },
+      {
+        "section": "The Penal Code, 1860 S.৫৩",
+        "score": 0.624
+      },
+      {
+        "section": "The Penal Code, 1860 S.৫৭",
+        "score": 0.597
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.596
+      },
+      {
+        "section": "The Penal Code, 1860 S.৩৬৪",
+        "score": 0.595
+      }
+    ]
+  },
+  {
+    "question_no": "৬০",
+    "question_text": "মারামারি (Affray) সংঘটনের জন্য সর্বনিম্ন কতজনের অংশগ্রহণ আবশ্যক?",
+    "options": {
+      "ক": "২",
+      "খ": "৩",
+      "গ": "৪",
+      "ঘ": "৫"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ২",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "Answer: (খ) ৩",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.679
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.673
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.664
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.649
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১১৩",
+        "score": 0.637
+      }
+    ]
+  },
+  {
+    "question_no": "৬১",
+    "question_text": "‘অপরাধীকে আশ্রয় দান দণ্ডনীয়’ অপরাধ সংক্রান্ত বিধান নিম্নের কোন সম্পর্কের ক্ষেত্রে প্রযোজ্য নয়?",
+    "options": {
+      "ক": "পিতা-পুত্র",
+      "খ": "সন্তান-বৈধ অভিভাবক",
+      "গ": "স্বামী-স্ত্রী",
+      "ঘ": "ভাই বোন"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) স্বামী-স্ত্রী",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "প্রশ্নটি 'অপরাধীকে আশ্রয় দান' অপরাধের ক্ষেত্রে স্পর্শকাতর সম্পর্কের বিষয়ে। বাংলাদেশের কার্যবিধি (বাংলাদেশ) অনুযায়ী, পিতা-পুত্র, স্বামী-স্ত্রী এবং বৈধ অভিভাবক-সন্তান সম্পর্কের মধ্যে এই অপরাধ করলে দণ্ডনীয় নয় (অর্থাৎ এগুলো 'আশ্রয়দান' অপরাধে বাদ পড়ে)। তবে ভাই-বোন সম্পর্কেও 'অপরাধীকে আশ্রয় দান' অপরাধের ক্ষেত্রে স্পর্শকাতরতা প্রযোজ্য নয় বলে বিধান করা হয় না, অথবা অন্য কোনো সম্পর্কের তুলনায় এটি অন্তর্ভুক্ত নয়। কিন্তু প্রশ্নটিতে উল্লেখিত 'স্বামী-স্ত্রী', 'পিতা-পুত্র' এবং 'বৈধ অভিভাবক-সন্তান' সম্পর্কে অপরাধীকে আশ্রয় দিলে দণ্ডনীয় হয় না (অর্থাৎ এগুলো বাদ পড়ে)। অন্যদিকে, ভাই-বোন সম্পর্কের ক্ষেত্রেও 'অপরাধীকে আশ্রয় দান' অপরাধের ক্ষেত্রে স্পর্শকাতরতা প্রযোজ্য হয় না বলে বিধান করা হয় না, অথবা এটি অন্তর্ভুক্ত নয়।\n\nAnswer: (ঘ) ভাই বোন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.799
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.773
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.75
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.748
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.739
+      }
+    ]
+  },
+  {
+    "question_no": "৬২",
+    "question_text": "বেঞ্চ সহকারী কর্তৃক আদালতের রায় পরিবর্তন করে নথিতে সামিল করলে তার জন্য সর্বোচ্চ কারাদণ্ড কত বছর?",
+    "options": {
+      "ক": "৩",
+      "খ": "৫",
+      "গ": "৭",
+      "ঘ": "১০"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ৭",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "দিল্লি ম্যাজিস্ট্রেট অফিসার বা বেঞ্চ সহকারী কর্তৃক আদালতের রায় পরিবর্তন করে নথিতে সামিল করার অপরাধের জন্য আইনে নির্দিষ্ট সর্বোচ্চ কারাদণ্ড ৫ বছর।\n\nAnswer: (খ) ৫",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.804
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.778
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.769
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.76
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.755
+      }
+    ]
+  },
+  {
+    "question_no": "৬৩",
+    "question_text": "The Penal Code, 1860 এর কোন ধারায় 'Culpable Homicide' এর উপাদান বর্ণিত হয়েছে?",
+    "options": {
+      "ক": "২৯৯",
+      "খ": "৩০০",
+      "গ": "৩০২",
+      "ঘ": "৩০৭"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ২৯৯",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "The question asks for the section in the Penal Code, 1860 that defines the elements of 'Culpable Homicide'. While the provided text snippets do not explicitly state the definition of Culpable Homicide (which is typically Section 299), legal knowledge dictates that Section 300 deals with culpable homicide amounting to murder. However, based strictly on standard legal knowledge where Section 299 defines Culpable Homicide and Section 300 defines it when it amounts to murder, there might be a confusion in the provided options or retrieval context. In the context of Bangladeshi law examinations, 'Culpable Homicide' is defined in Section 299, but 'Culpable Homicide amounting to Murder' is in Section 300. Given the options and the specific phrasing \"elements of Culpable Homicide\", Section 299 is the correct definition. However, none of the provided options include 299. Let's re-evaluate the options. Options are 299, 300, 302, 307. If the question implies 'Culpable Homicide' as a general concept, it is 299. If it refers to the section where it is treated as a crime (murder), it might be 300. But usually, 'Culpable Homicide' itself is Section 299. Wait, looking at the options again: (ক) ২৯৯. This matches the standard legal definition. The retrieved sections are irrelevant to the specific answer choice selection here as they don't contain the definition of Section 299. Based on general knowledge: Section 299 defines Culpable Homicide.\nAnswer: (ক) ২৯৯",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.৩০২",
+        "score": 0.859
+      },
+      {
+        "section": "The Penal Code, 1860 S.২২৬",
+        "score": 0.848
+      },
+      {
+        "section": "The Penal Code, 1860 S.৩৯৭",
+        "score": 0.847
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৩৮-ক",
+        "score": 0.845
+      },
+      {
+        "section": "The Penal Code, 1860 S.১০১",
+        "score": 0.844
+      }
+    ]
+  },
+  {
+    "question_no": "৬৪",
+    "question_text": "নিম্নের কোন অপরাধের শাস্তি শুধু অর্থদণ্ড?",
+    "options": {
+      "ক": "আপ্যায়নের মাধ্যমে ঘুষ গ্রহণ",
+      "খ": "অনিষ্ট",
+      "গ": "অনধিকার গৃহে প্রবেশ",
+      "ঘ": "অশ্লীল পুস্তক বিক্রয়"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) আপ্যায়নের মাধ্যমে ঘুষ গ্রহণ",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "বাংলাদেশের আইন অনুযায়ী, 'অপ্যায়নের মাধ্যমে ঘুষ গ্রহণ' (Bribery by inducement) অপরাধে মূল শাস্তি হলো অর্থদণ্ড। অন্য অপরাধগুলো যেমন 'অনিষ্ট', 'অনধিকার গৃহে প্রবেশ' বা 'অশ্লীল পুস্তক বিক্রয়' এর জন্য জীবনসংক্রান্ত দণ্ড বা আয়ুসদণ্ডও হতে পারে।\n\nAnswer: (ক) আপ্যায়নের মাধ্যমে ঘুষ গ্রহণ",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.812
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.795
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.779
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.776
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.773
+      }
+    ]
+  },
+  {
+    "question_no": "৬৫",
+    "question_text": "X লাঠি হাতে নিয়ে Y কে বলে, ‘আমি তোমাকে পিটাবো।’ এর দ্বারা X এর কৃত অপরাধ ________",
+    "options": {
+      "ক": "আক্রমণ",
+      "খ": "আঘাত",
+      "গ": "বল প্রয়োগ",
+      "ঘ": "আঘাতের চেষ্টা"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) আক্রমণ",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "Question Analysis:\nThe scenario describes X holding a stick and threatening Y with the intention to beat him. In criminal law, making an attempt to inflict harm or violence without actually causing physical injury constitutes 'Attempt to cause Injury' (আঘাতের চেষ্টা).\n\nAnswer: (ঘ) আঘাতের চেষ্টা",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.682
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.675
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.649
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.644
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.639
+      }
+    ]
+  },
+  {
+    "question_no": "৬৬",
+    "question_text": "X সদবিশ্বাসে Y এর একটি ঘড়ি তার (X) নিজের মনে করে নিয়ে যায় এবং তা ব্যবহার করতে থাকে। X এর কৃত কাজ -",
+    "options": {
+      "ক": "অপরাধ নয়",
+      "খ": "চুরি",
+      "গ": "অপরাধমূলক বিশ্বাসভঙ্গ",
+      "ঘ": "প্রতারণা"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) অপরাধ নয়",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "উত্তরটি নির্ধারণের জন্য প্রদত্ত আইনীয় ধারাগুলো বিশ্লেষণ করা হলো। প্রশ্নে বর্ণিত পরিস্থিতিতে X ব্যক্তি Y-এর ঘড়ি নিজের মনে করে নিয়ে যায়। এই কাজটি 'চুরি' বা 'Theft' নামক অপরাধমূলক কর্মের সংজ্ঞার সাথে সামঞ্জস্যপূর্ণ নয়, কারণ চুরির জন্য উদ্দেশ্য থাকতে হবে এবং সত্যিই অর্জন করা হতে হবে, এখানে X-এর বিশ্বাস ভঙ্গ হয়নি। তাই এটি 'অপরাধমূলক বিশ্বাসভঙ্গ'ও নয়। প্রতারণা বা 'Fraud' এর জন্য জড়িতদের উপর দুর্বলতা সৃষ্টি করে আর্থিক ক্ষতি করতে হতে হবে, যেখানে এটি ঘটে না। যেহেতু X সদবিশ্বাসে কাজ করেছে এবং কোনো অপরাধমূলক উদ্দেশ্য বা বিশ্বাস ভঙ্গের পদক্ষেপ নেয়নি, তাই এটি একটি অসংগত কাজ বা 'অপরাধ নয়'।\n\nAnswer: (ক) অপরাধ নয়",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.674
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.658
+      },
+      {
+        "section": "The Penal Code, 1860 S.৪৪",
+        "score": 0.651
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.641
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৪",
+        "score": 0.638
+      }
+    ]
+  },
+  {
+    "question_no": "৬৭",
+    "question_text": "তর্কতর্কির এক পর্যায়ে X, Y কে গুরুতর আঘাত করলে তিনদিন পর Y মারা যায়। The Penal Code, 1860 এর কোন ধারায় X অপরাধ করেছে?",
+    "options": {
+      "ক": "৩০৭",
+      "খ": "৩২৫",
+      "গ": "৩০২",
+      "ঘ": "৩০৪"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ৩০৪",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "বাংলাদেশের দণ্ডবিধি ১৮৬০ অনুযায়ী, যখন কোনো ব্যক্তি অন্যকে গুরুতর আঘাত করে এবং সেই আঘাতের ফলে কয়েক দিন পর শিকারীর মৃত্যু ঘটে, তখন সে 'অপরিচ্ছন্ন আশঙ্কার অপরাধ' (Attempt to Murder) বা ধারা ৩০২-এর তালিকায় পড়ে। তবে এখানে সঠিক ব্যাখ্যা হলো: ধারা ৩০২ হলো আত্মঘাতী হত্যার প্রচেষ্টা, আর ধারা ৩০৪ হলো হত্যার প্রচেষ্টা (Attempt to Murder)। কিন্তু এই প্রশ্নের প্রেক্ষাপটে, যখন A-র হাতে B-কে গুরুতর আঘাত হয় এবং কিছুদিন পর মৃত্যু ঘটে, এটি ধারা ৩০৭ (Attempt to Murder) বা ৩০৪ (Murder by Act of Unlawful Act)?\n\nসঠিক উত্তর: ধারা ৩০২ হলো আত্মঘাতী হত্যার প্রচেষ্টা।\nধারা ৩০৭ হলো হত্যার প্রচেষ্টা (Attempt to Murder)।\nধারা ৩০৪ হলো হত্যার ফলে মৃত্যু (Murder by Act of Unlawful Act)।\n\nএই প্রশ্নের প্রেক্ষাপটে, X-কে গুরুতর আঘাত করে এবং তিনদিন পর Y মারা যায়। এটি 'অপরিচ্ছন্ন আশঙ্কার অপরাধ' নয়। এটি 'হত্যার অপরাধ' (Murder)। ধারা ৩০৪ হলো হত্যার অপরাধ যেখানে আঘাতের ফলে মৃত্যু হয়।\n\nধারা ৩০২ হলো হত্যার প্রচেষ্টা।\nধারা ৩০৭ হলো হত্যার প্রচেষ্টা (Attempt to Murder)।\nধারা ৩০৪ হলো হত্যার অপরাধ (Murder by Act of Unlawful",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.১৩৮-ক",
+        "score": 0.91
+      },
+      {
+        "section": "The Penal Code, 1860 S.১২৭",
+        "score": 0.91
+      },
+      {
+        "section": "The Penal Code, 1860 S.৬৩",
+        "score": 0.909
+      },
+      {
+        "section": "The Penal Code, 1860 S.১১২",
+        "score": 0.908
+      },
+      {
+        "section": "The Penal Code, 1860 S.২২৬",
+        "score": 0.908
+      }
+    ]
+  },
+  {
+    "question_no": "৬৮",
+    "question_text": "X, Y এর নাকে ঘুষি মেরে নাক ভেঙে দেয়। The Penal Code, 1860 এর কোন ধারায় X অপরাধ করেছে?",
+    "options": {
+      "ক": "৩২৩",
+      "খ": "৩২৪",
+      "গ": "৩২৫",
+      "ঘ": "৩২৬"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ৩২৫",
+    "predicted_answer": "গ",
+    "is_correct": true,
+    "model_output": "উত্তরটি নির্ধারণের জন্য অপরাধের ধরন বিশ্লেষণ করা হলো। এখানে X, Y-এর নাকে ঘুষি মারতে গিয়ে নাক ভেঙে দিয়েছে। সেকেন্ড ৩২৩ ধারা অনুযায়ী কেউ যেকোনো রক্তশূন্য অঙ্গ বা অংশে আঘাত লাগাতে অপরাধী হয়, তবে সেকেন্ড ৩২৫ ধারা অনুযায়ী কেউ যেকোনো রক্তশূন্য অঙ্গে বা অংশে আঘাত করে তার ফলে ব্যক্তিটি দারুণভাবে শারীরিক ক্ষতিগ্রস্ত হলে অপরাধী হয়। এখানে নাক ভেঙে দেওয়া একটি স্পষ্ট শারীরিক আঘাত যা সেকেন্ড ৩২৫ ধারার অধীনে পড়ে, যেখানে আক্রমণকারী ব্যক্তির উদ্দেশ্য ছিল আঘাত করা কিন্তু ফলস্বরূপ ক্ষতিগ্রস্ত হয়েছে। সেকেন্ড ৩২৩ ধারা সাধারণত আঘাতের উদ্দেশ্যে আঘাত করার জন্য ব্যবহৃত হয়, কিন্তু এখানে ভেঙে দেওয়া একটি গুরুতর শারীরিক ক্ষতি। তবে বাংলাদেশের আইন মতে, যে কোনো অঙ্গে আঘাত করা এবং তার ফলে ব্যক্তিটি শারীরিক ক্ষতিগ্রস্ত হলে ৩২৫ ধারা প্রযোজ্য হয়।\n\nAnswer: (গ) ৩২৫",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.১৩৮-ক",
+        "score": 0.92
+      },
+      {
+        "section": "The Penal Code, 1860 S.২২৬",
+        "score": 0.918
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৩",
+        "score": 0.915
+      },
+      {
+        "section": "The Penal Code, 1860 S.৪৯০",
+        "score": 0.915
+      },
+      {
+        "section": "The Penal Code, 1860 S.১৫",
+        "score": 0.914
+      }
+    ]
+  },
+  {
+    "question_no": "৬৯",
+    "question_text": "X এর বাবা মৃত Y একজন বীর মুক্তিযোদ্ধা। Z, X এর নিকট Y এর সুনাম ক্ষুণ্ণ করার ভয় দেখায়। Z এর কৃত কাজ",
+    "options": {
+      "ক": "অপরাধ নয়",
+      "খ": "অপরাধমূলক ভীতি প্রদর্শন",
+      "গ": "কথা দ্বারা অনিষ্ট",
+      "ঘ": "মানহানি"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) অপরাধমূলক ভীতি প্রদর্শন",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Question Analysis:\nThe question asks to classify Z's act of threatening X, who is the son of a Martyr (Birotho Mukti Jodha), with damage to X's reputation. The core issue involves determining if threatening the reputation of a martyr constitutes a specific offense under Bangladesh law, specifically focusing on \"Insulting a Martyr\" (মানহানি) or general offenses.\n\nHowever, looking at the provided options and the context of Bangladeshi Penal Code:\n1.  **Section 499/500 (Defamation/Insult):** Threatening to damage reputation can fall under defamation or insult.\n2.  **Section 505 (Criminal Intimidation):** Threatening death, injury, etc.\n3.  **Specific Statute:** There is a specific provision regarding insulting a martyr in the Bangladesh Penal Code (1860) as amended. Section 498 of the Penal Code deals with \"Insulting a Martyr\". It states that whoever insults a martyr shall be punished.\n    *   Wait, let's re-evaluate based on the options provided: (A) Not a crime, (B) Criminal Intimidation, (C) Harm by words, (D) Insult.\n    *   In Bangladesh law, threatening or insulting the reputation of a martyr is considered an offense. Specifically, Section 498 of the Penal Code defines \"Insulting a Martyr\". However, the question describes Z threatening X's father (Y). If Z threatens to damage Y's reputation, it could be interpreted as an attempt to insult the martyr indirectly or directly if it targets the martyr's legacy.\n    *   But let's look at the standard legal classification in these types of multiple-choice questions often found in Bangladeshi law exams.\n    *   If Z threatens X (the son) about his father's reputation, it is generally considered \"Insulting a Martyr\" (মানহানি) because the victim is the martyr's descendant, and the act targets the martyr's honor. The specific section in the Penal Code regarding this is often categorized under Insult.\n    *   Option (খ) suggests \"Criminal Intimidation\" (ভীতি প্রদর্শন). While Z is using fear, the core legal classification for attacking a martyr's reputation is usually \"Insult\".\n    *   Let's check the options again.",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.713
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.701
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.687
+      },
+      {
+        "section": "The Penal Code, 1860 S.৪৪",
+        "score": 0.664
+      },
+      {
+        "section": "The Penal Code, 1860 S.৩০০",
+        "score": 0.661
+      }
+    ]
+  },
+  {
+    "question_no": "৭০",
+    "question_text": "The Penal Code, 1860 এর ধারা -৪৯৯ এ বর্ণিত মানহানির সংজ্ঞার কয়টি ব্যতিক্রমের উল্লেখ আছে?",
+    "options": {
+      "ক": "৫",
+      "খ": "৭",
+      "গ": "৯",
+      "ঘ": "১০"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ১০",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "সংশোধিত অপরাধ আইন, ১৯৬০ (Amendment to the Penal Code) এর মাধ্যমে ধারা-৪৯৯ পরিবর্তিত হয়েছে। প্রাথমিক ভারতীয় আইনে এটি ৭টি ব্যতিক্রম নিয়েছিল। তবে প্রশ্নটি \"Penal Code, 1860\" উল্লেখ করেছে। সাধারণভাবে মানহানির সংজ্ঞায় (অপরাধের পরিপ্রেক্ষিতে) ৭টি ব্যতিক্রম প্রচলিত। তবে ১৯৬০ সালের সংশোধনীর ফলে এটি ১০টি ব্যতিক্রমে পরিণত হয়েছে।\nAnswer: (ঘ) ১০",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.১৭১-ঝ",
+        "score": 0.938
+      },
+      {
+        "section": "The Penal Code, 1860 S.১১২",
+        "score": 0.937
+      },
+      {
+        "section": "The Penal Code, 1860 S.৯",
+        "score": 0.936
+      },
+      {
+        "section": "The Penal Code, 1860 S.১১৭",
+        "score": 0.933
+      },
+      {
+        "section": "The Penal Code, 1860 S.১২৭",
+        "score": 0.931
+      }
+    ]
+  },
+  {
+    "question_no": "৭১",
+    "question_text": "The Evidence Act, 1872 এর বিধান অনুযায়ী বিবাহ বিচ্ছেদের পর সর্বোচ্চ ______ দিনের মধ্যে জন্ম হলে এবং উক্ত সময়ের মধ্যে জন্মদাত্রী অবিবাহিত থাকলে বা কারো সাথে দৈহিক সম্পর্ক না হলে বৈধ সন্তানরূপে প্রমাণিত হবে।",
+    "options": {
+      "ক": "৩ মাসের ইদ্দতকালীন সময়",
+      "খ": "৩০০ দিন",
+      "গ": "১০ মাস ১০ দিন",
+      "ঘ": "২৮০ দিন"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ২৮০ দিন",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "এই প্রশ্নটি বিবাহ বিচ্ছেদের পর সন্তান প্রমাণের সময়সীমার (Iddat period) সম্পর্কে। বাংলাদেশের আইন অনুযায়ী বিবাহ বিচ্ছেদের পর ৩০০ দিনের মধ্যে জন্ম হলে এবং শর্তপূরণ করলে (অবিবাহিত থাকলে বা সম্পর্ক না থাকা) সন্তানকে বৈধ হিসেবে গণ্য করা হয়। প্রদত্ত অপশনগুলোর মধ্যে শুধুমাত্র ৩০০ দিনটি আইনগতভাবে সঠিক সময়সীমা। উল্লেখিত রেট্রিভড সেকশনগুলো (Section 139, 146, 126, 162, 144) এই বিষয়ে সরাসরি প্রযোজ্য নয়, তবে প্রশ্নের উত্তর নির্ভর করে বাংলাদেশের ব্যক্তিগত আইনের ওপর।\n\nAnswer: (খ) ৩০০ দিন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.973
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪৬",
+        "score": 0.972
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১২৬",
+        "score": 0.972
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬২",
+        "score": 0.971
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪৪",
+        "score": 0.969
+      }
+    ]
+  },
+  {
+    "question_no": "৭২",
+    "question_text": "The Evidence : Act, 1872 অনুযায়ী নিম্নের কোনটি সঠিক নয়?",
+    "options": {
+      "ক": "মানচিত্র একটি দলিল",
+      "খ": "মুদ্রিত বই একটি দলিল",
+      "গ": "ব্যঙ্গচিত্র দলিল নয়।",
+      "ঘ": "বে-সরকারি দপ্তরের হিসাব বই একটি দলিল"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ব্যঙ্গচিত্র দলিল নয়।",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "সঠিক উত্তরটি হলো (ঘ) বে-সরকারি দপ্তরের হিসাব বই একটি দলিল, কারণ আইনের বিধান অনুযায়ী সরকারি বা ব্যক্তিগত হিসাবের দলিলগুলোর প্রমাণশক্তি সংক্রান্ত বিশেষ নিয়মাবলী বিদ্যমান।\n\nAnswer: (ঘ) বে-সরকারি দপ্তরের হিসাব বই একটি দলিল",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৬১",
+        "score": 0.955
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬০",
+        "score": 0.95
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.946
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৪",
+        "score": 0.945
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬৩",
+        "score": 0.945
+      }
+    ]
+  },
+  {
+    "question_no": "৭৩",
+    "question_text": "The Evidence Act, 1872 এর কোন ধারাটি জেরায় ‘আইনসঙ্গত প্রশ্ন’ সম্পর্কিত?",
+    "options": {
+      "ক": "১৩৯",
+      "খ": "১৪১",
+      "গ": "১৪৫",
+      "ঘ": "১৪৬"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ১৪৬",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "জেরায় ‘আইনসঙ্গত প্রশ্ন’ বা 'Inappropriate Question' সম্পর্কিত ধারাটি হলো ১৪৫ ধারা। তবে প্রদত্ত অপশনের মধ্যে ১৪৫ নেই। সেক্ষেত্রে সর্বোত্তম উত্তর হিসেবে ধরা যাবে যা আইনসঙ্গত প্রশ্নের বিরুদ্ধে ব্যবহার করা হয় বা জেরায় নিয়ন্ত্রণের সাথে সম্পর্কিত। এখানে ১৪৫ ধারা হলো 'Inappropriate Question' বা 'অপ্রাসঙ্গিক প্রশ্ন'। কিন্তু প্রশ্নে ১৪৫ অপশন দেওয়া নেই। ১৩৯ ধারা হলো সাক্ষ্য দিতে পারবেন না। ১৪১, ১৪৬ এবং ১৫৪ ধারাগুলো অন্যান্য বিষয় সম্পর্কিত। ১৪৫ ধারাটি 'Inappropriate Question' বা 'অপ্রাসঙ্গিক প্রশ্ন'। প্রশ্নে ১৪৫ অপশন নেই, তাই সঠিক উত্তরটি অনুপস্থিত। তবে বিকল্পগুলো থেকে সবচেয়ে যৌক্তিক উত্তর হলো ১৪৫।\n\nউত্তর: (গ) ১৪৫",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৬০",
+        "score": 0.918
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬১",
+        "score": 0.916
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.909
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৪",
+        "score": 0.909
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৭৮",
+        "score": 0.908
+      }
+    ]
+  },
+  {
+    "question_no": "৭৪",
+    "question_text": "নিম্নের কোনটি 'Principle of Estoppel' সম্পর্কে সঠিক নয়?",
+    "options": {
+      "ক": "এটি সংবিধিবদ্ধ আইনের বিরুদ্ধে কাজ করে না",
+      "খ": "এটি আইনগত বিষয়ে প্রযোজ্য নয়",
+      "গ": "এটির জন্য প্রতারণামূলক অভিপ্রায় আবশ্যক নয়",
+      "ঘ": "এটি দ্ব্যর্থবোধক হতে পারে"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) এটি দ্ব্যর্থবোধক হতে পারে",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "নিম্নলিখিত বিকল্পগুলোর মধ্যে 'Principle of Estoppel' বা দাঁড়িয়ে থাকা নীতিমালা সম্পর্কে সঠিক বিবৃতিটি হলো যে এটি আইনগত বিষয়ে প্রযোজ্য। এটি একটি আইনগত নীতি যা কোনো ব্যক্তির ভুল অথবা ভাঙ্গা কথা বলার কারণে অন্যের উপর নির্ভরশীল না থাকতে দেয় না।\n\nউপরের বিকল্পগুলোর মধ্যে (খ) \"এটি আইনগত বিষ০ে প্রযোজ্য ন০\" হলো সঠিক উত্তর। এটি সংবিধিবদ্ধ আইনের বিরুদ্ধে কাজ করে না, তবে এটি দ্ব্যর্থবোধক হতে পারে না এবং এর জন্য প্রতারণামূলক অভিপ্রা০ আবশ্যক হয় না (এটি একটি আইনগত নীতি, আবেদনমূলক নয়)।\n\nAnswer: (খ) এটি আইনগত বিষ০ে প্রযোজ্য ন০",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.764
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.756
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.743
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.734
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.725
+      }
+    ]
+  },
+  {
+    "question_no": "৭৫",
+    "question_text": "সর্বনিম্ন কত বছর বয়সী শিশু আদালতে সাক্ষী হিসাবে সাক্ষ্য দিতে পারে?",
+    "options": {
+      "ক": "১২",
+      "খ": "১৬",
+      "গ": "১৮",
+      "ঘ": "কোনো বয়সসীমা নেই"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) কোনো বয়সসীমা নেই",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "শিশু আদালত আইন, ২০১৩ অনুযায়ী সর্বনিম্ন বয়স ১২ বছর।\nAnswer: (ক) ১২",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.742
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.726
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.714
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.7
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.692
+      }
+    ]
+  },
+  {
+    "question_no": "৭৬",
+    "question_text": "The Evidence Act, 1872 অনুযায়ী সাক্ষী হিসাবে যোগ্যতার মানদণ্ড কী?",
+    "options": {
+      "ক": "শারীরীক সুস্থতা",
+      "খ": "মোকদ্দমা সম্পর্কে জ্ঞান",
+      "গ": "জিজ্ঞাসিত প্রশ্ন বুঝতে ও উত্তর দিতে পারা",
+      "ঘ": "প্রাপ্ত বয়স্ক হওয়া"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) জিজ্ঞাসিত প্রশ্ন বুঝতে ও উত্তর দিতে পারা",
+    "predicted_answer": "গ",
+    "is_correct": true,
+    "model_output": "The question asks for the qualification of a witness under the Evidence Act, 1872. While the provided text contains sections regarding cross-examination, documents, and specific procedural rules, the core definition of a competent witness (Section 119 in the full Act, often summarized as mental soundness) is best inferred from the options in the context of general legal principles associated with these sections. Specifically, the ability to understand questions and give answers (Option C) is the fundamental requirement for testimony.\n\nAnswer: (গ) জিজ্ঞাসিত প্রশ্ন বুঝতে ও উত্তর দিতে পারা",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৪৬",
+        "score": 0.951
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৭",
+        "score": 0.946
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৯২",
+        "score": 0.945
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬২",
+        "score": 0.944
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬৩",
+        "score": 0.943
+      }
+    ]
+  },
+  {
+    "question_no": "৭৭",
+    "question_text": "The Evidence Act, 1872 এর ________ ধারায় অপরাধ সংঘটনের উদ্দেশ্য সম্পর্কে বলা হয়েছে।",
+    "options": {
+      "ক": "৭",
+      "খ": "৮",
+      "গ": "৯",
+      "ঘ": "১০"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ৮",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "সাক্ষীকে জেরা করার ক্ষেত্রে অপরাধ সংঘটনের উদ্দেশ্য সম্পর্কে বলা হওয়ার বিষয়টি সেকশন ১০ এর অংশ। তবে দেওয়া রিটারভেড সেকশনগুলোর মধ্যে সেকশন ১০-এর বিষয়বস্তু নেই।\nসেকশন ৮-এর বিষয়বস্তু হলো: অপরাধ সংঘটনের উদ্দেশ্যে প্রমাণ করা।\n\nAnswer: (খ) ৮",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.941
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৭",
+        "score": 0.937
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১১৯",
+        "score": 0.936
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩",
+        "score": 0.936
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬১",
+        "score": 0.932
+      }
+    ]
+  },
+  {
+    "question_no": "৭৮",
+    "question_text": "‘একজন আসামীর দোষস্বীকারোক্তি শুধু তার বিরুদ্ধে কার্যকর হবে’ The Evidence Act, 1872 এর কোন ধারায় এই নীতির ব্যতিক্রম আছে?",
+    "options": {
+      "ক": "২৪",
+      "খ": "২৫",
+      "গ": "২৯",
+      "ঘ": "৩০"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ৩০",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "একজন আসামীর দোষস্বীকারোক্তি শুধু তার বিরুদ্ধে কার্যকর হবে—এই নীতির ব্যতিক্রম সাক্ষ্যের প্রাসঙ্গিকতা বা সাক্ষীর জবানবন্দীর ক্ষেত্রে দেখা যায়। সেক্ষেত্রে, একজন আসামীর দোষস্বীকারোক্তি অন্য পক্ষের বিরুদ্ধে প্রমাণ হিসেবে ব্যবহৃত হতে পারে না, যদি না সেক্ষেত্রে সাক্ষ্যদানকারী ব্যক্তি সাক্ষী হয়ে আদালতে উপস্থিত হয়। তবে, দোষস্বীকারোক্তির ক্ষেত্রে, সাক্ষী হিসাবে তাহার জবানবন্দী গ্রহণ করা হয় না, অর্থাৎ, একজন আসামীর দোষস্বীকারোক্তি শুধু তার বিরুদ্ধে কার্যকর হবে—এই নীতির ব্যতিক্রম সাক্ষ্যদানকারী ব্যক্তি সাক্ষী হিসাবে আদালতে উপস্থিত হলে হয়। এটি ধারা ২৫-এ উল্লেখ করা হয়েছে।\n\nAnswer: (খ) ২৫",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.961
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৪",
+        "score": 0.957
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬৪",
+        "score": 0.956
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৭",
+        "score": 0.954
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১১৯",
+        "score": 0.953
+      }
+    ]
+  },
+  {
+    "question_no": "৭৯",
+    "question_text": "X আদালতে দাবি করেন যে, Y এর দখলীয় জমিতে তার অধিকার আছে। এর সমর্থনে X কতক বিষয়ের অস্তিত্ব দাবি করেন, যা Y অস্বীকার করেন। এক্ষেত্রে সংশ্লিষ্ট বিষয়ের অস্তিত্ব প্রমাণের দায় কার?",
+    "options": {
+      "ক": "শুধু X এর",
+      "খ": "শুধু Y এর",
+      "গ": "স্বীয় দাবীর সমর্থনে উভয়ের",
+      "ঘ": "এটি Judicial Notice এর বিষয়"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) শুধু X এর",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "Answer: (খ) শুধু Y এর",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৪৯",
+        "score": 0.737
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১০৩",
+        "score": 0.716
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.715
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫২",
+        "score": 0.71
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৮",
+        "score": 0.708
+      }
+    ]
+  },
+  {
+    "question_no": "৮০",
+    "question_text": "পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি The Evidence Act, 1872 এর ধারা অনুযায়ী গ্রহণযোগ্য নয়?",
+    "options": {
+      "ক": "২৪",
+      "খ": "২৫",
+      "গ": "২৬",
+      "ঘ": "২৭"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ২৫",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি (Confession to a police officer) মূলত ধারা ২৪ এর অধীনে গ্রহণযোগ্য। তবে, যদি একজন পুলিশ অফিসার সাক্ষী হিসেবে সাক্ষ্য দেয় যে, তাকে তার কর্মদল থেকে কয়েকজন পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি পাওয়া গেছে, এটি ধারা ২৪ এর অধীনে গ্রহণযোগ্য নয়। এই ধারা অনুযায়ী, পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি মূলত ধারা ২৪ এর অধীনে গ্রহণযোগ্য। তবে, যদি একজন পুলিশ অফিসার সাক্ষী হিসেবে সাক্ষ্য দেয় যে, তাকে তার কর্মদল থেকে কয়েকজন পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি পাওয়া গেছে, এটি ধারা ২৪ এর অধীনে গ্রহণযোগ্য নয়। এই ধারা অনুযায়ী, পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি মূলত ধারা ২৪ এর অধীনে গ্রহণযোগ্য। তবে, যদি একজন পুলিশ অফিসার সাক্ষী হিসেবে সাক্ষ্য দেয় যে, তাকে তার কর্মদল থেকে কয়েকজন পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি পাওয়া গেছে, এটি ধারা ২৪ এর অধীনে গ্রহণযোগ্য নয়। এই ধারা অনুযায়ী, পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি মূলত ধারা ২৪ এর অধীনে গ্রহণযোগ্য। তবে, যদি একজন পুলিশ অফিসার সাক্ষী হিসেবে সাক্ষ্য দেয় যে, তাকে তার কর্মদল থেকে কয়েকজন পুলিশ অফিসারের নিকট প্রদত্ত দোষস্বীকারোক্তি পাওয়া গেছে",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.২৩",
+        "score": 0.924
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১২৪",
+        "score": 0.917
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৪",
+        "score": 0.917
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.916
+      },
+      {
+        "section": "The Evidence Act, 1872 S.প্রস্তাবনা",
+        "score": 0.915
+      }
+    ]
+  },
+  {
+    "question_no": "৮১",
+    "question_text": "মৃত্যুকালীন ঘোষণা গ্রহণীয় ____________ ?",
+    "options": {
+      "ক": "কেবল ফৌজদারি কার্যধারায়",
+      "খ": "কেবল দেওয়ানি কার্যধারায়",
+      "গ": "দেওয়ানি ও ফৌজদারি কার্যধারায়",
+      "ঘ": "কেবল ঘোষণাকারীর মৃত্যুর কারণ সংশ্লিষ্ট ফৌজদারি কার্যধারায়"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) দেওয়ানি ও ফৌজদারি কার্যধারায়",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Question: মৃত্যুকালীন ঘোষণা গ্রহণীয় ____________ ?\n(ক) কেবল ফৌজদারি কার্যধারায়\n(খ) কেবল দেওয়ানি কার্যধারায়\n(গ) দেওয়ানি ও ফৌজদারি কার্যধারায়\n(ঘ) কেবল ঘোষণাকারীর মৃত্যুর কারণ সংশ্লিষ্ট ফৌজদারি কার্যধারায়\n\nAnalysis: The question asks about the admissibility of a \"declaration made by a person at the time of death\" (মৃত্যুকালীন ঘোষণা) in Bangladeshi law. While the provided text snippets do not explicitly contain the section for declarations made at the time of death, standard legal principles and the Evidence Act generally allow such declarations in both civil (Deewani) and criminal (Faujdarai) proceedings when they are relevant to prove facts. However, based on the options and typical legal questions regarding this topic in Bangladesh, \"Deewani\" (Civil) proceedings often deal with declarations of death, wills, or estate matters, while \"Faujdarai\" (Criminal) deals with crime-related facts. The most comprehensive option that covers general admissibility without restriction to a specific cause is usually the correct one unless specified otherwise. Looking at the provided options, Option (গ) covers both. However, in many specific legal contexts regarding \"Declaration at death\" (e.g., declarations of death itself or related to inheritance), it is primarily associated with Civil law. But if we look for a general rule, civil and criminal proceedings are the two main categories. Let's re-evaluate based on common legal knowledge often tested: Declarations made at the time of death regarding one's own estate or state are crucial in Civil (Deewani) cases. In Criminal cases, declarations by a dying person regarding the cause of their death are admissible (Dying Declaration). The question is slightly ambiguous without the specific section title. However, usually, questions asking about \"মৃত্যুকালীন ঘোষণা\" (Declaration at death) in a general sense often point to its applicability in both or specifically Civil if it refers to declarations of death/estate. But wait, there is a specific rule regarding \"Dying Declaration\" which is admissible in Criminal cases to prove the cause of death. However, a \"Declaration at time of",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.786
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.77
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.76
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৩",
+        "score": 0.757
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.747
+      }
+    ]
+  },
+  {
+    "question_no": "৮২",
+    "question_text": "The Evidence Act, 1872 এর ৫৩ ধারা অনুযায়ী সংশ্লিষ্ট ব্যক্তির পূর্ববর্তী সচ্চরিত্র কোন মামলায় প্রাসঙ্গিক?",
+    "options": {
+      "ক": "দেওয়ানি",
+      "খ": "ফৌজদারি",
+      "গ": "দেওয়ানি ও ফৌজদারি",
+      "ঘ": "কেবল আর্থিক প্রতারণা সংশ্লিষ্ট ফৌজদারি"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ফৌজদারি",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "সাক্ষীর সত্যবাদিতা বা বিশ্বাসযোগ্যতা পরীক্ষার জন্য পূর্ববর্তী চরিত্রের প্রশ্ন করা যায়, যা মূলত বিচারিক প্রক্রিয়ায় (যেমন দেওয়ানি বা ফৌজদারি) প্রযোজ্য।\n\nAnswer: (গ) দেওয়ানি ও ফৌজদারি",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৪৬",
+        "score": 0.963
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৯২",
+        "score": 0.957
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১২৬",
+        "score": 0.954
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬৭",
+        "score": 0.952
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.949
+      }
+    ]
+  },
+  {
+    "question_no": "৮৩",
+    "question_text": "The Evidence Act, 1872 অনুযায়ী প্রাথমিক সাক্ষ্য (Primary Evidence) অর্থ _______",
+    "options": {
+      "ক": "আদালতে সরাসরি উপস্থাপিত মৌলিক সাক্ষ্য",
+      "খ": "আদালতে উপস্থাপিত আসল দলিল",
+      "গ": "মামলার ঘটনা সম্পর্কিত সাধারণ প্রমাণ",
+      "ঘ": "শ্রুত সাক্ষ্য"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) আদালতে উপস্থাপিত আসল দলিল",
+    "predicted_answer": "ক",
+    "is_correct": false,
+    "model_output": "প্রাথমিক সাক্ষ্য (Primary Evidence) বলতে আদালতে সরাসরি উপস্থাপিত মৌলিক সাক্ষ্যকে বোঝানো হয়, যা আসল দলিল বা কাগজের সাথে সরাসরি সম্পর্কিত।\nAnswer: (ক) আদালতে সরাসরি উপস্থাপিত মৌলিক সাক্ষ্য",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৪৬",
+        "score": 0.94
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.937
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬২",
+        "score": 0.937
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১২৬",
+        "score": 0.936
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪৪",
+        "score": 0.935
+      }
+    ]
+  },
+  {
+    "question_no": "৮৪",
+    "question_text": "কোন ক্ষেত্রে মাধ্যমিক সাক্ষ্য দেওয়া যায় না?",
+    "options": {
+      "ক": "মূল দলিল স্থানান্তরযোগ্য না হলে",
+      "খ": "মূল দলিলের অস্তিত্ব স্বীকার করা হলে",
+      "গ": "মূল দলিলটি ৭৪ ধারায় বর্ণিত সরকারি দলিল হলে",
+      "ঘ": "মূল দলিল সাক্ষ্য প্রদানকারীর দখলে থাকলে"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) মূল দলিল সাক্ষ্য প্রদানকারীর দখলে থাকলে",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "মূল দলিলের অস্তিত্ব স্বীকার করা হলে মাধ্যমিক সাক্ষ্য দেওয়া যায় না, কারণ মূল দলিল উপস্থিত থাকলে তাই প্রমাণ হিসেবে গ্রহণ করা হয়।\nAnswer: (খ) মূল দলিলের অস্তিত্ব স্বীকার করা হলে",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.825
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.794
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.788
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.776
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.775
+      }
+    ]
+  },
+  {
+    "question_no": "৮৫",
+    "question_text": "The Evidence Act, 1872 এর কোন ধারা বৈরী সাক্ষী সম্পর্কিত?",
+    "options": {
+      "ক": "১৫২",
+      "খ": "১৫৩",
+      "গ": "১৫৪",
+      "ঘ": "১৫৫"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ১৫৪",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "সাক্ষীকে জেরা করা যাবে না বা সাক্ষী হিসেবে গণ্য হবেন না এমন ধারাটি হলো ১৩৯ ধারা, যা প্রশ্নের অপশনগুলোর মধ্যে নেই। তবে স্মৃতি ও দলিল সম্পর্কিত বিপদাবহিত সাক্ষীদের ক্ষেত্রে প্রযোজ্য ধারাগুলো হলো ১৫২ থেকে ১৬৪ পর্যন্ত। প্রশ্নে 'বৈরী' শব্দটি সম্ভবত 'বিপদাবহিত' বা 'দলিল দাখিলকারী' এর সাথে সম্পর্কিত, যা সাধারণত স্মৃতি বা নোটিশের বিপরীতে সাক্ষ্য দেওয়ার নিষেধাজ্ঞার সাথে যুক্ত। তবে দেওয়া স্মৃতিতে স্পষ্টভাবে ১৫২-১৫৫ ধারাটির নাম উল্লেখ নেই। কিন্তু স্মৃতিতে উল্লেখিত ১৬১, ১৩৯, ১৬৪ ধারাগুলোতে দলিল বা নোটিশের বিষয় আছে। সেক্ষেত্রে প্রশ্নের উত্তরটি সঠিক অপশন হতে হবে। স্মৃতিতে ১৫২ থেকে ১৬৪ পর্যন্ত ধারাগুলো সাক্ষ্য আইনের বিভিন্ন অংশের সাথে যুক্ত। তবে সঠিক উত্তর হিসেবে সর্বোচ্চ সূত্র অনুযায়ী, দলিল দাখিলকারীকে সাক্ষী হিসেবে গণ্য না করা বা জেরা না করার বিষয়টি ১৩৯ ধারার সাথে যুক্ত। যেহেতু ১৩৯ অপশন নেই, তাই প্রশ্নের উদ্দেশ্য 'বৈরী' বা 'বিপদাবহিত' সাক্ষীদের ক্ষেত্রে যে ধারাটি প্রযোজ্য তা নির্ণয় করা হতে পারে। কিন্তু স্মৃতি অনুযায়ী ১৫২-১৫৫ ধারাগুলো সাক্ষ্য আইনের অংশ। স",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৬১",
+        "score": 0.929
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৯",
+        "score": 0.929
+      },
+      {
+        "section": "The Evidence Act, 1872 S.প্রস্তাবনা",
+        "score": 0.928
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৬৩",
+        "score": 0.927
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৬৪",
+        "score": 0.927
+      }
+    ]
+  },
+  {
+    "question_no": "৮৬",
+    "question_text": "সুনির্দিষ্ট চুক্তি প্রবলের মোকদ্দমার তামাদির মেয়াদ বছর।",
+    "options": {
+      "ক": "৬",
+      "খ": "৩",
+      "গ": "২",
+      "ঘ": "১"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) ১",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "The question asks about the limitation period for adjournment in a specific contract case under the Code of Criminal Procedure (CCP), which is not covered in the provided Evidence Act sections. However, based on general legal knowledge in Bangladesh, the adjournment period for a specific contract suit under Section 138 of the Negotiable Instruments Act or relevant provisions regarding specific contracts in criminal proceedings (often cited in this context) is typically one year if not specified otherwise in the specific context of the Evidence Act provided. Given the options and the context of \"specific contract case\" (সুনির্দিষ্ট চুক্তি প্রবলের), the standard limitation period for adjournment in such specific instances under relevant procedural laws is 1 year.\n\nAnswer: (ঘ) ১",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.768
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.766
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.762
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৯৬",
+        "score": 0.726
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.719
+      }
+    ]
+  },
+  {
+    "question_no": "৮৭",
+    "question_text": "The Limitation Act, 1908 এর ধারায় 'Legal Disability' বিষয়ে উল্লেখ আছে?",
+    "options": {
+      "ক": "৬",
+      "খ": "৮",
+      "গ": "৯",
+      "ঘ": "১০"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ৬",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "The Limitation Act, 1908 defines 'Legal Disability' in Section ৮.\nAnswer: (খ) ৮",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.২০",
+        "score": 0.785
+      },
+      {
+        "section": "The Limitation Act, 1908 S.৬",
+        "score": 0.784
+      },
+      {
+        "section": "The Limitation Act, 1908 S.২১",
+        "score": 0.783
+      },
+      {
+        "section": "The Limitation Act, 1908 S.২২",
+        "score": 0.782
+      },
+      {
+        "section": "The Limitation Act, 1908 S.১৯",
+        "score": 0.781
+      }
+    ]
+  },
+  {
+    "question_no": "৮৮",
+    "question_text": "The Limitation Act, 1908 এর ২৮ ধারা অনুযায়ী নির্দিষ্ট তামাদি সময়ের মধ্যে দখল পুনরুদ্ধারের জন্য মামলা না করলে সংশ্লিষ্ট সম্পত্তির অধিকার ------",
+    "options": {
+      "ক": "বিলুপ্ত হবে",
+      "খ": "ক্ষতিগ্রস্ত হবে না",
+      "গ": "তামাদি বারিত হবে",
+      "ঘ": "সরকারের উপর ন্যস্ত হবে"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) বিলুপ্ত হবে",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "সম্পত্তির অধিকার বিলুপ্ত হওয়ার বিষয়টি সেকশন ২৮-এর সাথে সরাসরি সম্পর্কিত নয়, তবে সেকশন ২৭ অনুযায়ী নির্দিষ্ট সময়ের (তিন বছর) পরে দাবি না করলে বাস্তুস্বত্ব বা জীবনস্বত্বের ক্ষতিগ্রস্ত হওয়া সম্ভব। প্রশ্নে উল্লেখ করা তামাদির সময় ২৮ ধারা অনুযায়ী নয়, বরং দখল পুনরুদ্ধারের ক্ষেত্রে সাধারণত সেকশন ৬৫ বা ৬৭ প্রযোজ্য হয়, যেখানে নির্দিষ্ট সময়ের অতিরিক্ত মামলা না করলে অধিকার বিলুপ্ত হয়ে যায়। তবে প্রদত্ত অপশন এবং সেকশন ২৭ এর ধারণা (সময় পরে দাবি করলে বাস্তুস্বত্ব বাতিল হয়) বিবেচনায়, সঠিক উত্তরটি হলো অধিকার বিলুপ্ত হবে।\n\nAnswer: (ক) বিলুপ্ত হবে",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.১০",
+        "score": 0.974
+      },
+      {
+        "section": "The Limitation Act, 1908 S.১৮",
+        "score": 0.971
+      },
+      {
+        "section": "The Limitation Act, 1908 S.২৭",
+        "score": 0.968
+      },
+      {
+        "section": "The Limitation Act, 1908 S.২৪",
+        "score": 0.965
+      },
+      {
+        "section": "The Limitation Act, 1908 S.১৬",
+        "score": 0.96
+      }
+    ]
+  },
+  {
+    "question_no": "৮৯",
+    "question_text": "দায়রা জজ কর্তৃক প্রদত্ত মৃত্যু দণ্ডাদেশের বিরুদ্ধে সাত দিনের মধ্যে আপিল দায়ের করার বিধান The Limitation Act, 1908 এর কোন অনুচ্ছেদে উল্লেখ আছে?",
+    "options": {
+      "ক": "১৪৮",
+      "খ": "১৫০",
+      "গ": "১৫২",
+      "ঘ": "১৫৪"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ১৫০",
+    "predicted_answer": "খ",
+    "is_correct": true,
+    "model_output": "দায়রা জজ কর্তৃক প্রদত্ত মৃত্যু দণ্ডাদেশের বিরুদ্ধে সাত দিনের মধ্যে আপিল দায়ের করার বিধানটি The Limitation Act, 1908 এর অধীনে সাধারণত Section ১৫০-এর মাধ্যমে নির্ধারিত হয়। তবে প্রশ্নে উল্লেখ করা 'সাত দিন' সময়সীমাটি নির্দেশ করে যে এটি বিশেষ ক্ষেত্রের জন্য প্রযোজ্য। The Limitation Act, 1908-এর সেকশন ১৫০-এর মাধ্যমে মৃত্যুদণ্ডের দণ্ডাদেশের বিরুদ্ধে আপিলের সময়সীমা সাধারণত নির্ধারিত হয়। সেকশন ১৫০ অনুযায়ী, দায়রা জজ কর্তৃক প্রদত্ত মৃত্যু দণ্ডাদেশের বিরুদ্ধে আপিল দায়ের করার সময়সীমা ৭ দিন।\n\nAnswer: (খ) ১৫০",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.৩",
+        "score": 0.931
+      },
+      {
+        "section": "The Limitation Act, 1908 S.১৬",
+        "score": 0.924
+      },
+      {
+        "section": "The Limitation Act, 1908 S.১৮",
+        "score": 0.924
+      },
+      {
+        "section": "The Limitation Act, 1908 S.৫",
+        "score": 0.921
+      },
+      {
+        "section": "The Limitation Act, 1908 S.২৩",
+        "score": 0.921
+      }
+    ]
+  },
+  {
+    "question_no": "৯০",
+    "question_text": "একতরফা ডিক্রি রদ রহিতের জন্য আবেদনের সময়সীমা কত?",
+    "options": {
+      "ক": "১৫ দিন",
+      "খ": "৩০ দিন",
+      "গ": "৬০ দিন",
+      "ঘ": "৯০ দিন"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) ৩০ দিন",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "সঠিক উত্তরটি নির্ণয় করতে হলে প্রশ্নের বিষয়বস্তু এবং প্রদত্ত সেকশনগুলোর মধ্যে যোগাযোগ স্থাপন করা প্রয়োজন। প্রশ্নটি একতরফা ডিক্রি রদ রহিতের জন্য আবেদনের সময়সীমা সম্পর্কে জিজ্ঞাসা করছে, কিন্তু প্রদত্ত প্রমাণপত্রগুলোর (Evidence Act 1872 এর ধারা ৩৯, ১৫৫, ১৪, ১৩০, ৭৩) মধ্যে এই বিষয়ের কোনো উল্লেখ নেই।\n\nএকতরফা ডিক্রি রদ রহিতের সময়সীমা সাধারণত আইন ও অধ্যাদেশের (যেমন- হাইকোর্ট অথবা নির্দিষ্ট আইন) ওপর ভিত্তি করে হয়, Evidence Act এর সাথে সরাসরি সম্পর্কিত নয়। বাংলাদেশের আইন অনুযায়ী, আদালতে একতরফা ডিক্রির রদ রহিতের জন্য সাধারণ সময়সীমা ৯০ দিন (একটি নির্দিষ্ট আইনের অধীন) বা ১৫ দিনের মধ্যে দায়ের করতে হয় যদি তা নির্দিষ্ট করে বলা হয়, তবে এই প্রশ্নের প্রেক্ষাপটে সঠিক উত্তর সাধারণত ৯০ দিন হিসেবে গণ্য করা হয়।\n\nতবে, প্রদত্ত সেকশনগুলোর কোনোটিতে এটি উল্লেখ নেই। প্রশ্নটি সম্ভবত আইন ও অধ্যাদেশ বা অন্য কোনো আইনের ওপর ভিত্তি করে উত্তর দেওয়ার জন্য ডিজাইন করা হয়েছে, যেখানে ৯০ দিন হলো সাধারণ সময়সীমা।\n\nAnswer: (ঘ) ৯০ দিন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.697
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.673
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.648
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.642
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৭৩",
+        "score": 0.635
+      }
+    ]
+  },
+  {
+    "question_no": "৯১",
+    "question_text": "একতরফাসূত্রে আপিল শুনানি হলে পুনঃশুনানির জন্য আবেদনের সময়সীমা কত?",
+    "options": {
+      "ক": "৩০ দিন",
+      "খ": "৬০ দিন",
+      "গ": "৯০ দিন",
+      "ঘ": "১২০ দিন"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ৩০ দিন",
+    "predicted_answer": "গ",
+    "is_correct": false,
+    "model_output": "সহায়ক আইনগুলোতে একতরফাসূত্রে আপিল শুনানির সময়সীমা বা পুনঃশুনানির জন্য আবেদনের সময়সীমা সম্পর্কে কোনো উল্লেখ নেই। তবে বাংলাদেশের বিচার ব্যবস্থায় সাধারণত একতরফাসূত্রে আপিলের শুনানি শেষ হওয়ার পর ৯০ দিনের মধ্যে পুনঃশুনানির আবেদন করা যায় (বিচার বিভাগ আইন, ২০১৩ অনুসারে)।\n\nAnswer: (গ) ৯০ দিন",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.799
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.766
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.759
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.757
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৩",
+        "score": 0.748
+      }
+    ]
+  },
+  {
+    "question_no": "৯২",
+    "question_text": "পাওনা অর্থ আদায়ের মোকদ্দমা দাখিলের তামাদি কত?",
+    "options": {
+      "ক": "৩ বছর",
+      "খ": "৬ বছর",
+      "গ": "১০ বছর",
+      "ঘ": "১২ বছর"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ৩ বছর",
+    "predicted_answer": "ক",
+    "is_correct": true,
+    "model_output": "আদালতের আইন, ১৯৬০ (Code of Civil Procedure, ১৯০৮) অনুযায়ী পাওনা অর্থ আদায়ের মোকদ্দমা দাখিলের সর্বোচ্চ সময়সীমা বা তামাদি ৩ বছর। প্রদত্ত তথ্যগুলো (বিদেহন আইনের ধারা) পাওনা আদায়ের সীমাবদ্ধতার বিষয়ে কোনো উল্লেখ করে না।\n\nAnswer: (ক) ৩ বছর",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.655
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.649
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩৮",
+        "score": 0.596
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৭৩",
+        "score": 0.59
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.587
+      }
+    ]
+  },
+  {
+    "question_no": "৯৩",
+    "question_text": "যে মোকদ্দমার তামাদির মেয়াদ সম্পর্কে কোনো বিধান নেই সে মোকদ্দমা দাখিল করা যাবে ________ বছরের মধ্যে।",
+    "options": {
+      "ক": "১",
+      "খ": "৩",
+      "গ": "৬",
+      "ঘ": "১২"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) ৬",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "প্রশ্নটিতে উল্লেখ করা হয়েছে যে মোকদ্দমা দাখিলের সময়সীমা সম্পর্কে কোনো বিধান নেই এমন ক্ষেত্রে, বাংলাদেশ আইন মতে সাধারণত ১২ বছর সময়সীমা প্রযোজ্য। তবে প্রশ্নে দেওয়া অপশনগুলো ও যোগান্নো সেকশনগুলো (এভিডেন্স অ্যাক্টের বিভিন্ন ধারা) সরাসরি এই বিষয়ের সাথে সম্পর্কিত নয়। এটি বাংলাদেশের আইন (অর্ডিন্যান্স), ১৯০৮ অনুযায়ী ফৌজদারী আইন, ১৯১১ এর ২৪৫ ধারা অনুযায়ী যেসব মোকদ্দমার তামাদির মেয়াদ নেই সেগুলোর জন্য ১২ বছর সময়সীমা প্রযোজ্য।\nAnswer: (ঘ) ১২",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.827
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.791
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.783
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.773
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.769
+      }
+    ]
+  },
+  {
+    "question_no": "৯৪",
+    "question_text": "'Exclusion of time in legal proceeding' সম্পর্কিত বিধান রয়েছে The Limitation Act, 1908 এর ________ ধারায়।",
+    "options": {
+      "ক": "১২",
+      "খ": "১৩",
+      "গ": "১৪",
+      "ঘ": "১৫"
+    },
+    "correct_answer": "ক",
+    "correct_text": "ক) ১২",
+    "predicted_answer": "খ",
+    "is_correct": false,
+    "model_output": "The question asks for the section of The Limitation Act, 1908 that deals with 'Exclusion of time in legal proceeding'.\nAnalyzing the provided sections:\n- Section ১৩ (Section 13) states that time spent outside Bangladesh but in areas administered by the Bangladesh Government should be excluded from calculation. This refers to 'Exclusion of time' (বহির্ভূত কিন্তু বাংলাদেশ সরকার কর্তৃক প্রশাসিত এলাকা হইতে বিবাদীর অনুপস্থিত কাল বাদ দিতে হইবে).\n- Section ১২ is provided as \"Sub-sections only\" without full text in the retrieval, but Section 13 explicitly covers the concept of excluding time due to absence in specific areas. In legal context regarding the Limitation Act, Section 13 specifically addresses exclusion of time when a party is absent from court or in specified areas.\n- Section ১৬ deals with auction sales.\n- Section ২৫ deals with the calendar year.\n- Section ২৪ deals with when limitation begins to run if no actual loss has occurred.\n\nThe most fitting section for 'Exclusion of time' (specifically absence in administered areas) among the options provided is Section 13.\n\nAnswer: (খ) ১৩",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.১৬",
+        "score": 0.87
+      },
+      {
+        "section": "The Limitation Act, 1908 S.১৩",
+        "score": 0.869
+      },
+      {
+        "section": "The Limitation Act, 1908 S.২৫",
+        "score": 0.865
+      },
+      {
+        "section": "The Limitation Act, 1908 S.২৪",
+        "score": 0.863
+      },
+      {
+        "section": "The Limitation Act, 1908 S.১২",
+        "score": 0.854
+      }
+    ]
+  },
+  {
+    "question_no": "৯৫",
+    "question_text": "মামলা করার অধিকার সৃষ্টির পূর্বেই সংশ্লিষ্টব্যক্তি মৃত্যুবরণ করলে তার আইনানুগ উত্তরাধিকারী মামলা করার যোগ্য হওয়ার তারিখ থেকে তামাদি গণনা শুরু হবে। এই বিধানের ব্যতিক্রম হলো ________ মামলা।",
+    "options": {
+      "ক": "টাকার দাবীর",
+      "খ": "পধাধিকারের দাবীর",
+      "গ": "অগ্রক্রয়ের",
+      "ঘ": "স্বত্ব ঘোষণার দাবীর"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) অগ্রক্রয়ের",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "আইনানুগ উত্তরাধিকারী মামলা করার যোগ্য হওয়ার তারিখ থেকে তামাদি গণনা শুরু হয়, তবে এই নিয়মের ব্যতিক্রম হলো স্বত্ব ঘোষণার দাবীর মামলা।\nAnswer: (ঘ) স্বত্ব ঘোষণার দাবীর",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.868
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.834
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.832
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.827
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.824
+      }
+    ]
+  },
+  {
+    "question_no": "৯৬",
+    "question_text": "নিম্নের কে বার কাউন্সিলের সচিব হিসাবে সরকার কর্তৃক নিয়োগ পেতে পারেন?",
+    "options": {
+      "ক": "শুধু একজন জেলা জজ",
+      "খ": "শুধু একজন অতিরিক্ত জেলা জজ",
+      "গ": "জেলা জজ বা অতিরিক্ত জেলা জজ",
+      "ঘ": "যে-কোনো বিচার বিভাগীয় কর্মকর্তা"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) জেলা জজ বা অতিরিক্ত জেলা জজ",
+    "predicted_answer": "গ",
+    "is_correct": true,
+    "model_output": "উত্তরটি নির্ধারণের জন্য প্রদত্ত আইনগত অনুচ্ছেদগুলো (বিবেচনা আইন, ১৮৭২) জেলা জজ বা অতিরিক্ত জজ বার কাউন্সিলের সচিব নিয়োগের ক্ষেত্রে প্রযোজ্য নয়। এটি সংশ্লিষ্ট আইনের অন্যান্য বিধান (যেমন জাতীয় জুডিশিয়াল সার্ভিস কমিশন আইন বা জেলা জজ ও অতিরিক্ত জুডিশিয়াল ম্যাজিস্ট্রেটস আইন) এর বিষয়। তবে প্রশ্নের অপশনগুলো বিশ্লেষণ করলে দেখা যায়, জেলা জজ বা অতিরিক্ত জেলা জজ হলেন যারা বিচার বিভাগীয় কর্মকর্তা। সাধারণত সরকারি নিয়োগের ক্ষেত্রে জেলা জজ বা অতিরিক্ত জুডিশিয়াল ম্যাজিস্ট্রেটদের বার কাউন্সিলের সচিব পদে নিয়োগ দেওয়া হয়, যা তাদের বিচার বিভাগীয় কর্মকর্তা হওয়ার সাথে সামঞ্জস্যপূর্ণ। \"যে-কোনো বিচার বিভাগীয় কর্মকর্তা\" অপশনটি অত্যন্ত সাধারণ এবং স্পেসিফিক নয়, যেখানে জেলা জজ বা অতিরিক্ত জেলা জজের উল্লেখ রয়েছে।\n\nAnswer: (গ) জেলা জজ বা অতিরিক্ত জেলা জজ",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.723
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.721
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.665
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.648
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.648
+      }
+    ]
+  },
+  {
+    "question_no": "৯৭",
+    "question_text": "অন্যান্য আইনজীবী এর উপর কার প্রাক-শ্রোতা অধিকার (Right of Pre-audience) রয়েছে?",
+    "options": {
+      "ক": "বাংলাদেশের প্রধান বিচারপতি",
+      "খ": "সংশ্লিষ্টবার এসোসিয়েশনের সভাপতি",
+      "গ": "এনরোলমেন্ট কমিটির চেয়ারম্যান",
+      "ঘ": "বাংলাদেশের অ্যাটর্নী জেনারেল"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) বাংলাদেশের অ্যাটর্নী জেনারেল",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "বাংলাদেশের অ্যাটর্নী জেনারেল (সরকারি আইনজীবী) এবং অন্য আইনজীবীদের মধ্যে মামলার সময় সাক্ষ্য দেওয়ার ক্ষেত্রে আদালতের অনুমতি বা প্রাক-শ্রোতা অধিকারের নিয়ম মূলত এনরোলমেন্ট কমিটির চেয়ারম্যান এবং প্রধান বিচারপতির সাথে সম্পর্কিত হয়। তবে প্রশ্নটিতে \"অন্যান্য আইনজীবী\" (Non-Official Counsel) এর উপর প্রাক-শ্রোতা অধিকার কে রখে তা নির্দিষ্ট করা হলো।\n\nবাংলাদেশের অ্যাটর্নি জেনারেলের ক্ষেত্রে সাক্ষ্য দেওয়ার নিয়ম অনুযায়ী, তিনি সরাসরি আদালতে সাক্ষ্য দিতে পারবেন না (অনুমতি ছাড়া)। কিন্তু প্রশ্নটিতে বোঝানো হয়েছে যে কোন ব্যক্তির উপর \"প্রাক-শ্রোতা অধিকার\" (Right of Pre-audience) রহেছে। আইন অনুযায়ী, সরকারি আইনজীবী বা অ্যাটর্নি জেনারেলের ক্ষেত্রে সাক্ষ্য দেওয়ার ক্ষেত্রে আদালতের অনুমতির প্রয়োজন হয়। অন্যদিকে, প্রশ্নের ভাষায় \"অন্যান্য আইনজীবী\" এর উপর কার অধিকার রহেছে তা বোঝানো হয়েছে।\n\nসঠিক উত্তরটি হলো বাংলাদেশের অ্যাটর্নী জেনারেল, কারণ তিনি সরকারি আইনজীবী হিসেবে আদালতে সাক্ষ্য দিতে পারেন না, তাই প্রাক-শ্রোতা অধিকারের বিষয়ে আদালতের অনুমতি প্রয়োজন হয়। তবে প্রশ্নের ভাষা কিছুটা বিভ্রান্তিকর হতে পারে।\n\nসঠিক উত্তর: বাংলাদেশের অ্যাটর্নী জেনারেল (সরকারি আইনজীবী) এর ক্ষেত্রে সাক্ষ্য দেওয়ার ক্ষেত্রে আদালতের অনুমতি প্রয়োজন, তাই তিনি প্রাক-শ্রোতা অধ",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.545
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.542
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.529
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.514
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৯",
+        "score": 0.514
+      }
+    ]
+  },
+  {
+    "question_no": "৯৮",
+    "question_text": "'Clients, not Advocate shall not represent confliction interests.' এটি ________ এর প্রতি একজন আইনজীবীর আচরণ সম্পর্কিত নীতি।",
+    "options": {
+      "ক": "আদালত",
+      "খ": "অন্যান্য আইনজীবী",
+      "গ": "সাধারণ জনগণ",
+      "ঘ": "মক্কেল"
+    },
+    "correct_answer": "খ",
+    "correct_text": "খ) অন্যান্য আইনজীবী",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "আইনজীবীরা তাদের মক্কেলদের (Clients) প্রতি আদালতের ওপর নির্ভর করে না, বরং তাদের মূল দায়িত্ব হলো নিজের মক্কেলদের সর্বোচ্চ সুবিধা নিশ্চিত করা এবং তাতেই মক্কেলের উপর বিশ্বাসযোগ্যতা বা আস্থা রাখা হয়। 'Clients, not Advocate shall not represent confliction interests' মূলত আইনজীবীর নিজের মক্কেলদের প্রতি তার আচরণের নীতি।\nAnswer: (ঘ) মক্কেল",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১১১",
+        "score": 0.598
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৯",
+        "score": 0.589
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৬",
+        "score": 0.582
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.582
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৪",
+        "score": 0.579
+      }
+    ]
+  },
+  {
+    "question_no": "৯৯",
+    "question_text": "'An Advocate shall not represent conflicting interests.' এটি ________ এর প্রতি একজন আইনজীবীর আচরণ সম্পর্কিত নীতি।",
+    "options": {
+      "ক": "আদালত",
+      "খ": "অন্যান্য আইনজীবী",
+      "গ": "সাধারণ জনগণ",
+      "ঘ": "মক্কেল"
+    },
+    "correct_answer": "ঘ",
+    "correct_text": "ঘ) মক্কেল",
+    "predicted_answer": "ঘ",
+    "is_correct": true,
+    "model_output": "An advocate must not represent conflicting interests to maintain professional integrity and avoid bias. This rule applies to the client (client relationship), not the court, other lawyers, or the general public.\n\nAnswer: (ঘ) মক্কেল",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.১৫৫",
+        "score": 0.608
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৯",
+        "score": 0.602
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৮",
+        "score": 0.594
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৩৪",
+        "score": 0.592
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪৮",
+        "score": 0.584
+      }
+    ]
+  },
+  {
+    "question_no": "১০০",
+    "question_text": "একজন আইনজীবীর জন্য নিম্নের কোন কাজটি আচরণ বিধির লংঘন?",
+    "options": {
+      "ক": "মামলা পরিচালনার দায়িত্ব গ্রহণে সম্মত না হওয়া",
+      "খ": "নিজে অপারগ হলে অন্য কোনো সন্তোষজনক ব্যবস্থাপনায় শুনানি সম্পন্ন করা",
+      "গ": "আইন পেশার পাশাপাশি আরেকটি ব্যবসা করা",
+      "ঘ": "ফি নির্ধারণের ক্ষেত্রে সময় ও শ্রমকে বিবেচনায় নেওয়া"
+    },
+    "correct_answer": "গ",
+    "correct_text": "গ) আইন পেশার পাশাপাশি আরেকটি ব্যবসা করা",
+    "predicted_answer": "ঘ",
+    "is_correct": false,
+    "model_output": "The question asks which action is a violation of the Code of Conduct for legal professionals in Bangladesh.\n(ক) Refusing to accept a case is generally allowed.\n(খ) Managing cases via a partner if incapacitated is acceptable practice.\n(গ) Practicing law alongside another business (dual practice) is often permitted if not conflicting.\n(ঘ) Determining fees without considering the client and the professional's labor constitutes unethical conduct under the Bar Association rules.\n\nAnswer: (ঘ) ফি নির্ধারণের ক্ষেত্রে সময় ও শ্রমকে বিবেচনায় নেওয়া",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.৩৯",
+        "score": 0.81
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৩০",
+        "score": 0.79
+      },
+      {
+        "section": "The Evidence Act, 1872 S.১৪",
+        "score": 0.785
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৪১",
+        "score": 0.777
+      },
+      {
+        "section": "The Evidence Act, 1872 S.৯৬",
+        "score": 0.756
+      }
+    ]
+  }
+]

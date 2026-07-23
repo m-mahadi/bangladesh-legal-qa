@@ -1,0 +1,3702 @@
+[
+  {
+    "question_no": "1",
+    "question_text": "If the accused pleads guilty, the punishment shall be ______.",
+    "options": {
+      "A": "Equal to the maximum punishment",
+      "B": "One-fourth of the maximum punishment",
+      "C": "Half of the maximum punishment",
+      "D": "At the discretion of the Court"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) At the discretion of the Court",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking about The Penal Code, 1860, Section 221(7) or The Code of Criminal Procedure, 1898, Section 265E. Wait, The Penal Code, 1860, Section 221(7) does not exist. Let me check The Penal Code, 1860, Section 265E for the pleading guilty scenario.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.65",
+        "score": 75.581
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.221(7)",
+        "score": 70.2
+      },
+      {
+        "section": "The Penal Code, 1860 S.72",
+        "score": 69.971
+      },
+      {
+        "section": "The Penal Code, 1860 S.109",
+        "score": 66.712
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265E",
+        "score": 64.027
+      }
+    ]
+  },
+  {
+    "question_no": "2",
+    "question_text": "Under which section of the Code of Criminal Procedure, 1898 can a Magistrate personally arrest a person?",
+    "options": {
+      "A": "63",
+      "B": "66",
+      "C": "54",
+      "D": "65"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 65",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the section of The Code of Criminal Procedure, 1898 under which a Magistrate can personally arrest a person. I need to select from the given options (A, B, C, D) and use the provided law sections to support the answer.\n\n2.  **Scan Provided Sections:**\n    *   Section 67: Deals with applying sections 47, 48, 49 for non-police arrests.\n    *   Section 65: \"Any Magistrate... may at any time arrest or direct the arrest, in his presence... of any person for whose arrest he is competent...\"\n    *   Section 190: Deals with Magistrates taking cognizance of offences.\n    *   Section 63: Deals with discharge after police arrest.\n    *   Section 54: Deals with police officers' power to arrest.\n\n3.  **Identify the Correct Section:** The Code of Criminal Procedure, 1898, Section 65, Subsection (1), Clause (a) (implied by the text provided) states that a Magistrate may personally arrest a suspect. This is often called the \"Magistrate's Personal Arrest.\"\n\n4.  **Match with Options:**\n    *   (A) 63 - Incorrect.\n    *   (B) 66 - Incorrect.\n    *   (C) 54 - Incorrect.\n    *   (D) 65 - Correct.\n\n5.  **Formulate the Answer:** State that The Code of Criminal Procedure, 1898, Section 65 allows a Magistrate to arrest. Provide the explanation based on the text provided.\n\n6.  **Review Constraints:** Use the provided law sections. Do not use external knowledge if possible, but the section text itself is enough. Ensure the final answer is clear.\n\n7.  **Final Output Construction:** Start with the correct option and cite Section 65. Explain that a Magistrate of the Executive or Judicial class can arrest within their jurisdiction. (Option D).\n\n    *   Section 65, Subsection (1) Clause (a): Any Magistrate may at any time arrest... in his presence...\n    *   Option (D) matches Section 65.\n\n    Wait, I should check the exact wording",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.67",
+        "score": 36.266
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.65",
+        "score": 35.789
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 35.277
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.63",
+        "score": 33.901
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.54",
+        "score": 31.903
+      }
+    ]
+  },
+  {
+    "question_no": "3",
+    "question_text": "A charge framed by the Court shall be written in the ________ language.",
+    "options": {
+      "A": "Accused's",
+      "B": "Local",
+      "C": "Bangla",
+      "D": "Court's"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Court's",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 221(6), the charge must be written in English or in the language of the Court. This ensures that the accused understands the legal accusations against them. Therefore, (B) Local is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265",
+        "score": 37.171
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.221(6)",
+        "score": 33.989
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.364",
+        "score": 31.796
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.361",
+        "score": 30.444
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.232",
+        "score": 30.298
+      }
+    ]
+  },
+  {
+    "question_no": "4",
+    "question_text": "How many classes of Judges shall there be in each Sessions Division?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "3",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 3",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking about the number of classes of Judges in each Sessions Division under The Code of Criminal Procedure, 1898. I need to find Section 6, Clause (3) or similar section that defines the number of judicial classes.\n\nUnder The Code of Criminal Procedure, 1898, section 6, Clause (3), it states that there shall be two classes of Criminal Courts in Bangladesh: Criminal Magistrate and Sessions Judge. However, the question asks about classes of Judges within a Sessions Division. Section 190 or other sections might provide more detail. Actually, Section 6, Clause (3) states that there shall be four classes of judicial magistrates, but the question is about Sessions Division judges. Wait, Section 6, Clause (2) mentions two classes of Criminal Courts and two classes of Magistrates. Section 6, Clause (3) mentions four classes of judicial Magistrate. However, the Code of Criminal Procedure, 1898, Section 190, Clause (1), Subsection (1) states that there shall be two classes of Judges in each Sessions Division. Therefore, (B) is correct. Wait, let me check again. Under The Code of Criminal Procedure, 1898, section 6, Clause (3) states that there are four classes of judicial magistrates. But the question asks about Judges in a Sessions Division. Section 6, Clause (2) states that there shall be two classes of criminal courts. Wait, I need to find the specific section that says there are four classes of judicial magistrates. However, The Code of Criminal Procedure, 1898, Section 6, Clause (3) states that there are four classes of judicial magistrates. But the question asks about Judges in a Sessions Division. Wait, The Code of Criminal Procedure, 1898, section 6, Clause (2) states that there are two classes of criminal courts. However, The Code of Criminal Procedure, 1898, section 6, Clause (3) states that there are four classes of judicial magistrates. Wait, I need to find the correct section for Sessions Division judges. Under The Code of Criminal Procedure, 1898, section 6, Clause (2), Subsection (1), Clause (3), there are two classes of Criminal Courts in Bangladesh. However, Section 6, Clause (3) states that there are four classes",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.9",
+        "score": 23.753
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.6",
+        "score": 23.56
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 22.199
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.7(3)",
+        "score": 21.937
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.193",
+        "score": 21.704
+      }
+    ]
+  },
+  {
+    "question_no": "5",
+    "question_text": "When a police officer arrests a person by warrant, the person must be produced before the Court ________.",
+    "options": {
+      "A": "Without unnecessary delay",
+      "B": "Within 24 hours",
+      "C": "As soon as possible",
+      "D": "Within 48 hours"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Without unnecessary delay",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 81, Subsection (2), a police officer executing a warrant must bring the person arrested before the Court without unnecessary delay. This requirement ensures that the judicial process is not obstructed by administrative inaction. Therefore, (A) Without unnecessary delay is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.81",
+        "score": 52.334
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.60",
+        "score": 51.303
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.84",
+        "score": 41.733
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.61",
+        "score": 39.762
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.67",
+        "score": 39.354
+      }
+    ]
+  },
+  {
+    "question_no": "6",
+    "question_text": "If the Government confers special powers, what is the maximum term of imprisonment a Metropolitan Magistrate can impose?",
+    "options": {
+      "A": "7 years",
+      "B": "Any",
+      "C": "10 years",
+      "D": "14 years"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 7 years",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 12, Subsection (5), a Metropolitan Magistrate can be empowered by the Government to exercise all or any of the powers conferred on Judicial Magistrates. These Special Metropolitan Magistrates are appointed for a term that the Government may direct in consultation with the High Court Division. Therefore, (B) Any is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 36.983
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.12",
+        "score": 36.074
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.348",
+        "score": 34.197
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.29B",
+        "score": 32.66
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.11",
+        "score": 32.172
+      }
+    ]
+  },
+  {
+    "question_no": "7",
+    "question_text": "Which of the following is NOT a power of an appellate court in a criminal appeal?",
+    "options": {
+      "A": "Judicial inquiry",
+      "B": "Taking evidence",
+      "C": "Disposing of the appeal",
+      "D": "Enhancement of sentence"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Judicial inquiry",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 428, the Appellate Court is empowered to take additional evidence if it deems it necessary. It can do this itself or direct a Magistrate to record and certify the evidence. Therefore, (B) Taking evidence is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.417A",
+        "score": 58.245
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.428",
+        "score": 52.806
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.426",
+        "score": 51.642
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.413",
+        "score": 46.634
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.422",
+        "score": 45.563
+      }
+    ]
+  },
+  {
+    "question_no": "8",
+    "question_text": "Which of the following shall NOT be mentioned in the written directions of a warrant?",
+    "options": {
+      "A": "Quantum of punishment for the offence",
+      "B": "Date of appearance before the Court",
+      "C": "Number of sureties",
+      "D": "Financial liability of the surety"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Quantum of punishment for the offence",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 221, Clause (7), the written directions of a warrant must specify the quantum of punishment. It also requires the name of the court, the time and place of appearance, and the number of sureties. However, it is prohibited from mentioning financial liability regarding the surety's funds. Therefore, (D) Financial liability of the surety is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.221(7)",
+        "score": 59.218
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.89",
+        "score": 56.647
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.386",
+        "score": 56.184
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.355",
+        "score": 55.966
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.367",
+        "score": 55.398
+      }
+    ]
+  },
+  {
+    "question_no": "9",
+    "question_text": "Death may be caused in arresting a person if he is accused of an offence punishable with ________ imprisonment.",
+    "options": {
+      "A": "Any",
+      "B": "Life",
+      "C": "7 years",
+      "D": "10 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Life",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThe Penal Code, 1860, Section 307, Subsection (2) states that if a person causes death during an arrest for a capital offence, they can be punished with imprisonment of either description for a term which may extend to ten years. This is an exception to the normal death penalty.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.307",
+        "score": 38.426
+      },
+      {
+        "section": "The Penal Code, 1860 S.216",
+        "score": 38.287
+      },
+      {
+        "section": "The Penal Code, 1860 S.389",
+        "score": 37.506
+      },
+      {
+        "section": "The Penal Code, 1860 S.388",
+        "score": 37.241
+      },
+      {
+        "section": "The Penal Code, 1860 S.225",
+        "score": 36.399
+      }
+    ]
+  },
+  {
+    "question_no": "10",
+    "question_text": "Who can conduct a 'Local Inquiry' under the Code of Criminal Procedure, 1898?",
+    "options": {
+      "A": "Executive Magistrate",
+      "B": "Judicial Magistrate",
+      "C": "Advocate Commissioner",
+      "D": "Metropolitan Magistrate"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Executive Magistrate",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a legal question based on The Code of Criminal Procedure, 1898, Section 190, specifically about who can conduct a 'Local Inquiry'. I need to answer using the provided sections and select the correct option from (A), (B), (C), or (D).\n\n2.  **Locate Relevant Law:** I need to find The Code of Criminal Procedure, 1898, Section 190.\n    *   Scanning the provided text for Section 190...\n    *   Found: \"The Code of Criminal Procedure, 1898, Section 190 - Except as hereinafter provided, any [Chief Metropolitan Magistrate,] [Metropolitan Magistrate], [Chief Judicial Magistrate, Magistrate of the first class, and any other Magistrate specially empowered in this behalf under sub-section (2) or (3)], may take cognizance of any offence...\"\n    *   This section deals with \"cognizance\" and transfer for inquiry. It lists various types of Magistrates who can do it.\n\n3.  **Identify the Core Provision:** The question asks about a 'Local Inquiry'. Under The Code of Criminal Procedure, 1898, Section 190, Clause (c), the Government may empower any Executive Magistrate to take cognizance and send for trial. This implies the Executive Magistrate has the power to conduct an inquiry. However, the question is specifically about who can conduct a 'Local Inquiry' under this Code's framework.\n    *   Wait, I need to check if there is a specific section on 'Inquiry'. The Code of Criminal Procedure, 1898, Section 190 is about cognizance and transfer for trial/inquiry.\n    *   Let's look at the wording again: \"The Government may empower any Executive Magistrate to take cognizance under clause (a), (b) or (c) or sub-section (1), of offences and the Executive Magistrate shall send it for trial to the court of competent jurisdiction.\" This is about taking cognizance.\n    *   Is there a distinction between 'Local Inquiry' and 'Cognizance'? Yes, technically under CrPC 1898, a Local Inquiry is a separate procedure. However, Section 190, Clause",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 48.852
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.192",
+        "score": 44.184
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.17",
+        "score": 43.035
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.95",
+        "score": 42.827
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.10",
+        "score": 40.749
+      }
+    ]
+  },
+  {
+    "question_no": "11",
+    "question_text": "After framing of charge against the accused, what is NOT done?",
+    "options": {
+      "A": "Reading out the charge",
+      "B": "Asking whether the accused pleads guilty",
+      "C": "Asking the accused about defence evidence",
+      "D": "Explaining the charge"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Asking the accused about defence evidence",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking about The Code of Criminal Procedure, 1898, Section 265D. Specifically, after framing a charge, what is NOT done.\n\nUnder The Code of Criminal Procedure, 1898, section 265D, the Court frames a charge in writing. After framing, the charge is read out and explained to the accused, and the accused is asked whether they plead guilty. Therefore, (A), (B), and (D) are actions taken. (C) Asking about defence evidence is not part of the initial framing procedure under this section; it comes later during trial preparation or defense submissions.\n\nWait, let's check Section 265D again.\nThe Code of Criminal Procedure, 1898, Section 265D, Subsection (1): After framing a charge, the Court reads and explains the charge to the accused. The accused is asked whether they plead guilty or claim to be tried. So (A) Reading out the charge, (B) Asking about plea, (D) Explaining the charge are all done.\n(C) Asking about defence evidence - This is not part of the framing of the charge in Section 265D. That happens after the charge is framed.\n\nSo (C) Asking the accused about defence evidence is NOT done at this stage.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265D",
+        "score": 75.021
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265B",
+        "score": 62.601
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265L",
+        "score": 58.155
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.228",
+        "score": 56.565
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.242",
+        "score": 53.493
+      }
+    ]
+  },
+  {
+    "question_no": "12",
+    "question_text": "Which section of the Penal Code, 1860 cannot be tried summarily?",
+    "options": {
+      "A": "426",
+      "B": "406",
+      "C": "323",
+      "D": "326"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 326",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a legal question about The Penal Code, 1860, specifically which section cannot be tried summarily. I need to use The Code of Criminal Procedure, 1898, Section 414 (as per the provided law sections) to answer. Wait, the prompt says \"The Code of Criminal Procedure, 1898, Section 414\" in the example output, but that section is about appeal limitations. The question asks about The Penal Code, 1860. I need to check if The Code of Criminal Procedure, 1898, Section 414 relates to The Penal Code, 1860, Subsection (2).\n\n2.  **Identify the Relevant Law:** The Code of Criminal Procedure, 1898, Section 414 is relevant. It states that there shall be no appeal in cases tried summarily where a Magistrate passes a sentence of fine not exceeding five thousand taka only. However, this section doesn't explicitly mention The Penal Code, 1860, Subsection (2) regarding summary jurisdiction. Wait, I need to recall or find The Penal Code, 1860, Section 406. The Penal Code, 1860, Section 406 defines criminal breach of trust. It says \"whoever commits criminal breach of trust shall be punished with imprisonment...\". This is an offence for which a Magistrate can take cognizance.\n\n3.  **Search for the specific section in The Penal Code, 1860:** The Penal Code, 1860, Section 406 defines criminal breach of trust. It does not mention summary jurisdiction. However, The Code of Criminal Procedure, 1898, Section 414 is about appeals. Let me check The Penal Code, 1860, Section 426. That section is about \"Surrender and confession\". Wait, I need to find the section that cannot be tried summarily. The Penal Code, 1860, Section 406 is summary jurisdiction for criminal breach of trust. But wait, there's a specific section in The Penal Code, 1860, Section 426 which deals with 'Surrender' and 'Confession'. Let me check The Penal Code",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.414",
+        "score": 24.03
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.191",
+        "score": 23.661
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.264",
+        "score": 23.182
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 22.871
+      },
+      {
+        "section": "The Penal Code, 1860 S.406",
+        "score": 21.191
+      }
+    ]
+  },
+  {
+    "question_no": "13",
+    "question_text": "Under section 145 of the Code of Criminal Procedure, 1898, if a party to the proceedings dies —",
+    "options": {
+      "A": "The proceedings are stayed",
+      "B": "The proceedings abate",
+      "C": "Representatives of the deceased may become parties",
+      "D": "The proceedings are filed"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Representatives of the deceased may become parties",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 145(6), if a party to a possession proceeding dies, the Magistrate may cause the legal representative of the deceased party to be made a party. Consequently, the proceedings are continued. Therefore, (C) Representatives of the deceased may become parties is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.145(6)",
+        "score": 70.291
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.340",
+        "score": 62.171
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.145(4)",
+        "score": 61.778
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.44A",
+        "score": 61.274
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.341",
+        "score": 61.023
+      }
+    ]
+  },
+  {
+    "question_no": "14",
+    "question_text": "What is the maximum fine a Second Class Magistrate can impose (in Taka)?",
+    "options": {
+      "A": "10,000",
+      "B": "2,000",
+      "C": "7,000",
+      "D": "5,000"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 5,000",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the maximum fine a Second Class Magistrate can impose, based on The Code of Criminal Procedure, 1898, Section 190. I need to select from the given options (A, B, C, D). I must use the provided sections to answer.\n\n2.  **Scan the Provided Text for Keywords:** I need to look for \"Second Class Magistrate\", \"fine\", \"Taka\", or \"impose\" within The Code of Criminal Procedure, 1898, Section 190.\n\n3.  **Locate Relevant Section:**\n    *   The Code of Criminal Procedure, 1898, Section 190, Clause (a) and (b).\n    *   It mentions empowering a Magistrate of the second class.\n    *   Wait, looking closely at Section 190, Clause (a), (b), and (c).\n    *   Clause (a): Offences tried by any Magistrate.\n    *   Clause (b): Any offence triable by a Magistrate.\n    *   Clause (c): Specific offences for which the government may empower any executive magistrate to take cognizance.\n    *   Wait, the prompt asks about the maximum fine. The Code of Criminal Procedure, 1898, Section 190, Subsection (2) deals with compensation. That's not relevant here. I need to check if Section 190 mentions fines.\n    *   Let me re-read Section 190 carefully in the provided text.\n    *   Text: \"The Code of Criminal Procedure, 1898, Section 190 - Except as hereinafter provided, any [Chief Metropolitan Magistrate,] [Metropolitan Magistrate], [Chief Judicial Magistrate, Magistrate of the first class, and any other Magistrate specially empowered in this behalf under sub-section (2) or (3)], may take cognizance of any offence- the Government may, and subject to any general or special order issued in this behalf by the High Court Division, the Chief Judicial Magistrate may empower any Magistrate of the second or third class to take cognizance under sub-section (1) clause (a) or clause (b) of offences which he may try or send for trial] The Government may empower any Mag",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 31.943
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.3(2)",
+        "score": 28.913
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.250",
+        "score": 20.862
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.355",
+        "score": 20.801
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.355",
+        "score": 20.609
+      }
+    ]
+  },
+  {
+    "question_no": "15",
+    "question_text": "If a case is settled through compromise, it shall be treated as the accused's ________.",
+    "options": {
+      "A": "Acquittal",
+      "B": "Discharge",
+      "C": "Release",
+      "D": "Exemption"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Acquittal",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 119, Clause (3), a settlement or compromise by the accused is legally treated as an acquittal. This ensures that the accused is not convicted for conduct that was settled. Therefore, (A) Acquittal is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.119",
+        "score": 26.079
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.191",
+        "score": 23.178
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.339A",
+        "score": 23.054
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265C",
+        "score": 22.671
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.173A",
+        "score": 22.436
+      }
+    ]
+  },
+  {
+    "question_no": "16",
+    "question_text": "Under which section of the Code of Criminal Procedure, 1898 are non-cognizable cases mentioned?",
+    "options": {
+      "A": "155",
+      "B": "154",
+      "C": "156",
+      "D": "151"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 155",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the section of The Code of Criminal Procedure, 1898 that mentions non-cognizable cases. They provided four options ((A) 155, (B) 154, (C) 156, (D) 151) and a list of relevant sections. I must use the provided law sections to answer.\n\n2.  **Evaluate the Options against the Law:**\n    *   The Code of Criminal Procedure, 1898, Section 155(1): This section discusses when information is given about non-cognizable offences. It mentions the police book and Magistrate. However, it doesn't define \"non-cognizable\" in itself as a primary definition of the category.\n    *   The Code of Criminal Procedure, 1898, Section 154: This section deals with the investigation of non-cognizable cases by officers. It states that an officer can investigate if they have information of a non-cognizable case from a Magistrate. It is a crucial section for the investigation phase of non-cognizable cases.\n    *   The Code of Criminal Procedure, 1898, Section 156: This section specifically defines cognizable cases. It states that an officer can investigate cognizable cases without a Magistrate's order. It explicitly contrasts with non-cognizable cases. Therefore, this is incorrect for the definition of non-cognizable.\n    *   The Code of Criminal Procedure, 1898, Section 151: This section is about arrest of a person in cognizable cases. Incorrect.\n\n3.  **Re-evaluating Section 154 vs Section 156:** Wait, I need to check the exact text for Section 154. Under The Code of Criminal Procedure, 1898, Section 154(2), it states that no police officer shall investigate a non-cognizable case without an order from a Magistrate. This section is about *non-cognizable* cases. It establishes the procedure for officers investigating these.\n    However, the question asks \"Under which section of the Code of Criminal Procedure, 1898 are non-cognizable cases mentioned?\"\n    Let's check Section 154, Subsection (2) again: \"No",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.155",
+        "score": 36.125
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.155(2)",
+        "score": 34.607
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.156",
+        "score": 32.613
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.151",
+        "score": 30.668
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.157",
+        "score": 30.532
+      }
+    ]
+  },
+  {
+    "question_no": "17",
+    "question_text": "Under section 144 of the Code of Criminal Procedure, 1898, who may issue an order?",
+    "options": {
+      "A": "Justice of the Peace",
+      "B": "District Magistrate",
+      "C": "Chief Judicial Magistrate",
+      "D": "First Class Magistrate"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) District Magistrate",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a specific legal question under The Code of Criminal Procedure, 1898, Section 144, based on provided sections. I need to answer using the provided law sections and select the correct option from (A) to (D).\n\n2.  **Recall/Search for Section 144:** I need to access my internal knowledge about The Code of Criminal Procedure, 1898, Section 144. This section deals with the powers of the District Magistrate.\n\n3.  **Analyze Section 144 (The Code of Criminal Procedure, 1898):**\n    *   Subsection (1): Defines the crime of disobeying an order.\n    *   Subsection (2): Discusses the power of the District Magistrate to issue a \"General Order\" or \"Special Order\".\n    *   Subsection (3): Deals with the execution of orders and imprisonment.\n    *   Key phrase: \"The District Magistrate may, on the application of the accused, order that the person be detained...\"\n    *   Wait, the specific question is about who issues an order under Section 144. The core function of section 144 is about the District Magistrate's powers regarding execution and detention orders. However, looking at the provided text, I need to check if there's a specific reference in the provided sections that mentions Section 144 or if the prompt implies a general legal principle.\n    *   Actually, The Code of Criminal Procedure, 1898, Section 144 is about the execution of orders. It allows the District Magistrate to issue an order for the arrest and detention of a person.\n    *   Let's check the options again: (A) Justice of the Peace, (B) District Magistrate, (C) Chief Judicial Magistrate, (D) First Class Magistrate.\n    *   Under The Code of Criminal Procedure, 1898, Section 144, Subsection (2), Clause (a), the District Magistrate is empowered to issue an order for arrest and detention. This order must be executed by a police officer.\n\n4.  **Wait, I need to be careful:** The Code of Criminal Procedure, 1898, Section 144, Subsection (2), Clause (",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 69.469
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.192",
+        "score": 63.976
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.407",
+        "score": 58.493
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.3(2)",
+        "score": 56.281
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.11",
+        "score": 55.99
+      }
+    ]
+  },
+  {
+    "question_no": "18",
+    "question_text": "Which of the following presented to a Magistrate is NOT included in a 'complaint'?",
+    "options": {
+      "A": "Naraji petition",
+      "B": "Written complaint",
+      "C": "Police officer's report",
+      "D": "Oral complaint"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Police officer's report",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 201, a complaint must be made in writing to a Magistrate. If it is oral or not written, the Magistrate must direct the complainant to file it at the proper court. Therefore, (B) Written complaint is incorrect.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.205D",
+        "score": 50.992
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.201",
+        "score": 41.638
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.202",
+        "score": 40.733
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 38.252
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.199",
+        "score": 36.653
+      }
+    ]
+  },
+  {
+    "question_no": "19",
+    "question_text": "Where must an appeal against a sentence imposed by a Second Class Magistrate be filed?",
+    "options": {
+      "A": "Chief Judicial Magistrate",
+      "B": "Sessions Judge",
+      "C": "Chief Metropolitan Magistrate",
+      "D": "High Court Division"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Chief Judicial Magistrate",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking about the jurisdiction for filing an appeal against a Second Class Magistrate's sentence. I need to refer to The Code of Criminal Procedure, 1898, Section 407. This section specifically addresses appeals from lower class magistrates.\n\nUnder The Code of Criminal Procedure, 1898, section 407, any person convicted by a Second Class Magistrate can appeal to the Chief Judicial Magistrate. Therefore, (A) Chief Judicial Magistrate is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.425",
+        "score": 63.68
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 61.223
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.407",
+        "score": 53.043
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.205CC",
+        "score": 51.5
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.436",
+        "score": 51.068
+      }
+    ]
+  },
+  {
+    "question_no": "20",
+    "question_text": "If the Public Prosecutor withdraws a case with the court's permission after framing of charge, the accused shall be entitled to ________.",
+    "options": {
+      "A": "Release",
+      "B": "Acquittal",
+      "C": "Discharge",
+      "D": "Exemption"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Acquittal",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 265J, Subsection (3), if the Public Prosecutor withdraws a case with the court's permission after the framing of charge, the accused is entitled to a discharge. This is because the prosecution has fully exhausted its legal options in that instance. Therefore, (C) Discharge is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265J",
+        "score": 43.941
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.417",
+        "score": 40.927
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.228",
+        "score": 39.167
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.417A",
+        "score": 38.657
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.191",
+        "score": 38.403
+      }
+    ]
+  },
+  {
+    "question_no": "21",
+    "question_text": "X contracts to sell a cow to Y but refuses to perform. Y sues. The appropriate remedy for Y is ________.",
+    "options": {
+      "A": "Specific Performance",
+      "B": "Declaration",
+      "C": "Partial Performance",
+      "D": "Compensation"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Compensation",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a legal question based on The Specific Relief Act, 1877, Section 15. The answer needs to be selected from four options (A, B, C, D) and must use the provided law sections.\n\n2.  **Identify the Relevant Law:** The specific relief act, 1877, section 15 is cited in the prompt.\n\n3.  **Analyze Section 15:**\n    *   It addresses situations where a party cannot perform their part of the contract fully or the remaining part is too small to be worth compensation.\n    *   The core principle: If performance is impossible for a whole, or the remainder is too small/insubstantial, the court won't order specific performance.\n    *   The exception: However, the court can direct partial performance and award compensation for the deficiency (loss).\n\n4.  **Evaluate the Question:** \"X contracts to sell a cow to Y but refuses to perform. Y sues. The appropriate remedy for Y is ________.\"\n    *   This scenario implies X cannot fulfill the contract due to inability or refusal, but the law section says the court can order partial performance.\n\n5.  **Evaluate Options:**\n    *   (A) Specific Performance: Section 15 states that if a party is unable to perform the whole part and the remaining part forms a considerable portion of the whole or doesn't admit compensation in money, they are not entitled to a decree for specific performance. However, the court may direct specific performance of so much of the contract as can be performed, provided the plaintiff relinquishes further claims.\n    *   (B) Declaration: Not mentioned in section 15.\n    *   (C) Partial Performance: Section 15 explicitly mentions the court may direct the party in default to perform specifically so much of their part as they can.\n    *   (D) Compensation: While compensation is awarded, the primary remedy sought by Y here is performance because it's a sale of an item. The law allows for specific performance with compensation, but the core request for Y is performance. However, looking at section 15, it specifically talks about partial performance and deficiency.\n\n    *Wait, re-reading Section 15 carefully:* \"The Court may, at the suit of the other party, direct the party in default to perform specifically so",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.15",
+        "score": 41.678
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.19",
+        "score": 41.394
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.14",
+        "score": 38.787
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.29",
+        "score": 30.86
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.22",
+        "score": 29.205
+      }
+    ]
+  },
+  {
+    "question_no": "22",
+    "question_text": "Under which section of the Specific Relief Act, 1877 is an unregistered contract for sale of immovable property not specifically enforceable?",
+    "options": {
+      "A": "17",
+      "B": "12",
+      "C": "15",
+      "D": "21A"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 21A",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Under The Specific Relief Act, 1877, section 21A, the court cannot enforce an unregistered contract for the sale of immovable property. This section establishes a mandatory rule that such contracts are not specifically enforceable unless registered in accordance with the Registration Act, 1908. Therefore, (D) 21A is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.21A",
+        "score": 61.837
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.17",
+        "score": 45.017
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.25",
+        "score": 43.896
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.16",
+        "score": 42.777
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.6",
+        "score": 41.417
+      }
+    ]
+  },
+  {
+    "question_no": "23",
+    "question_text": "X sells land to Y, knowing that others have a right of way over it but concealing this from Y. What can Y do with the contract?",
+    "options": {
+      "A": "Cancel",
+      "B": "Suspend",
+      "C": "Rescind",
+      "D": "Modify"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Rescind",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a legal question about contract law, specifically regarding a sale of land where one party conceals a right of way. I need to select the correct option from (A), (B), (C), or (D) using The Penal Code, 1860, Section 141. Wait, The Penal Code, 1860, Section 141 is about unlawful assemblies. This is about contract law. The Specific Relief Act, 1877, Section 15 is relevant here.\n\n2.  **Identify the Relevant Law:** The Specific Relief Act, 1877, Section 15 states that a court may direct a party in default to perform what they can perform and requires them to relinquish all further claim if they cannot do it. This is about equitable relief for non-performance.\n\n3.  **Evaluate the Question:** X sold land to Y, concealing a right of way. What can Y do with the contract? This looks like a case for \"rescinding\" or \"canceling\" the contract due to fraud/mistake. The Penal Code, 1860, Section 141 is about unlawful assemblies, which is incorrect.\n\n4.  **Check Options:**\n    *   (A) Cancel: This is synonymous with rescinding.\n    *   (B) Suspend: No legal basis for suspension in this context.\n    *   (C) Rescind: This means to cancel or undo a contract.\n    *   (D) Modify: Changing terms is modification, not cancellation.\n\n5.  **Refine the Search:** The Specific Relief Act, 1877, Section 15 is about performance of contracts. But there isn't an explicit section for \"rescission\" in the provided text. However, under The Penal Code, 1860, Section 141, Clause (Fourth), there is a mention of rights of way. Wait, The Penal Code, 1860, Section 141, Clause (Fourth) is about criminal force and rights of way. But the user's question is about a contract between private parties where information was concealed. This sounds like fraud or misrepresentation. Under The Penal Code, 1860, Section 141, Clause (Fourth), it says \"",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.339",
+        "score": 37.15
+      },
+      {
+        "section": "The Penal Code, 1860 S.141",
+        "score": 27.161
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.15",
+        "score": 26.257
+      },
+      {
+        "section": "The Penal Code, 1860 S.161",
+        "score": 25.93
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 25.779
+      }
+    ]
+  },
+  {
+    "question_no": "24",
+    "question_text": "Which of the following is NOT correct in a suit brought under section 9 of the Specific Relief Act, 1877?",
+    "options": {
+      "A": "No suit can be filed against the government",
+      "B": "The plaintiff is barred from establishing title",
+      "C": "It relates to immovable property",
+      "D": "The plaintiff has been dispossessed"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) The plaintiff is barred from establishing title",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a multiple-choice question about The Specific Relief Act, 1877, Section 9. I need to identify which statement is NOT correct based on the provided text. I must use the provided law sections.\n\n2.  **Analyze the Law (The specific Relief Act, 1877, Section 9):**\n    *   Subsection (1): Dispossessed person can sue for possession of immovable property without consent (dispossession by no other cause than due course of law). No other title is barred.\n    *   Subsection (2): Nothing in this section bars establishing title to recover possession.\n    *   Subsection (3) - Government Restriction: \"No suit under this section shall be brought against the Government.\" This makes (A) correct.\n    *   Subsection (4) - Limitations on Appeal/Review: No appeal or review allowed.\n\n3.  **Evaluate the Options:**\n    *   (A) No suit can be filed against the government. -> Matches Section 9, Subsection (3). Correct statement.\n    *   (B) The plaintiff is barred from establishing title. -> Section 9, Subsection (2) says: \"Nothing in this section shall bar any person from suing to establish his title\". Therefore, (B) is incorrect. This is the one NOT correct.\n    *   (C) It relates to immovable property. -> Matches Section 9, Subsection (1). Correct statement.\n    *   (D) The plaintiff has been dispossessed. -> Matches Section 9, Subsection (1). Correct statement.\n\n4.  **Conclusion:** Option (B) is incorrect because the law explicitly states it does not bar establishing title.\n\n5.  **Draft the Response:** State that (B) is correct and explain why based on the text of Section 9, Subsection (2).\n\n    *   Wait, the question asks \"Which of the following is NOT correct\".\n    *   So I need to select the false statement.\n    *   (B) says the plaintiff is barred from establishing title. The law says they are NOT barred. Therefore (B) is the answer.\n\n6.  **Final Check:** Does Section 9, Subsection (2) support this? Yes: \"Nothing in this section shall bar",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.9",
+        "score": 76.979
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.42",
+        "score": 70.966
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.80",
+        "score": 66.835
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.19",
+        "score": 66.488
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.53",
+        "score": 66.04
+      }
+    ]
+  },
+  {
+    "question_no": "25",
+    "question_text": "The concept that a contract is not specifically enforceable if it would cause 'Hardship' to the defendant is found in which section of the Specific Relief Act, 1877?",
+    "options": {
+      "A": "22",
+      "B": "15",
+      "C": "21",
+      "D": "14"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 22",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Specific Relief Act, 1877, section 21, a contract is not specifically enforceable if the performance of the whole would cause 'Hardship' to the defendant. However, the court can order partial performance if it can be done without causing such hardship. Therefore, (C) 21 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.15",
+        "score": 53.093
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.37",
+        "score": 51.53
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.22",
+        "score": 49.801
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.19",
+        "score": 47.956
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.16",
+        "score": 47.568
+      }
+    ]
+  },
+  {
+    "question_no": "26",
+    "question_text": "In which section of the Specific Relief Act, 1877 is 'Preventive relief' defined?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "56",
+      "D": "55"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 6",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Specific Relief Act, 1877, section 6 defines 'preventive relief.' Clause (c) of section 5 specifically grants the court the power to issue an injunction to prevent a breach of contract. Therefore, (A) 6 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.6",
+        "score": 66.677
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.52",
+        "score": 40.157
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.5",
+        "score": 39.541
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.55",
+        "score": 38.346
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.13",
+        "score": 35.627
+      }
+    ]
+  },
+  {
+    "question_no": "27",
+    "question_text": "Specific performance of a contract is not enforceable where compensation for breach of contract is ________.",
+    "options": {
+      "A": "Not adequate",
+      "B": "Cannot be ascertained",
+      "C": "Cannot be obtained",
+      "D": "Adequate"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Adequate",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Under The Specific Relief Act, 1877, section 24, Subsection (1), specific performance cannot be enforced if it is not adequate to satisfy the justice of the case. If compensation for breach is also available and necessary, it must be awarded instead. Therefore, (A) Not adequate is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.19",
+        "score": 53.908
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.24",
+        "score": 47.653
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.29",
+        "score": 46.895
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.16",
+        "score": 46.166
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.28",
+        "score": 45.831
+      }
+    ]
+  },
+  {
+    "question_no": "28",
+    "question_text": "X is the lawful possessor of land over which residents of a neighbouring village claim a right of way. What is X's remedy?",
+    "options": {
+      "A": "Mandatory injunction",
+      "B": "Declaration",
+      "C": "Perpetual injunction",
+      "D": "Temporary injunction"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Declaration",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Role: Bangladeshi legal assistant.\n    *   Task: Answer a legal question using provided sections from The Specific Relief Act, 1877.\n    *   Question: X is the lawful possessor of land over which residents of a neighbouring village claim a right of way. What is X's remedy?\n    *   Options: (A) Mandatory injunction, (B) Declaration, (C) Perpetual injunction, (D) Temporary injunction.\n\n2.  **Analyze the Law Section:**\n    *   The Specific Relief Act, 1877, Section 54, Clause (b) or similar provisions regarding land invasion.\n    *   Wait, I need to find the section about injunctions for invasion of rights.\n    *   Let's check The Specific Relief Act, 1877, Section 54. It says a perpetual injunction may be granted against a breach of obligation. Specifically, if someone invades or threatens to invade property rights, the court can grant a perpetual injunction.\n    *   Wait, there is also The Specific Relief Act, 1877, Section 53 regarding Temporary Injunctions.\n    *   Let's check The Specific Relief Act, 1877, Section 52. It talks about preventive relief at the court's discretion.\n    *   Actually, Section 54, Clause (b) is not exactly the right section for \"right of way\". However, The Specific Relief Act, 1877, Section 54, Clause (c) is about land invasion. Let me recall or infer based on standard legal principles under that Act.\n    *   Wait, I need to be precise with The Specific Relief Act, 1877, Section 54. It lists cases where a perpetual injunction can be granted. One of them is when the defendant invades or threatens to invade the plaintiff's right to property.\n    *   But wait, looking at The Specific Relief Act, 1877, Section 54, Clause (b) actually says \"Invasion or threatened invasion of the plaintiff's rights\". This section is about preventing a breach of an obligation.\n    *   Let's look for specific relief regarding land possession and neighbors.\n    *   The Specific Relief Act, 1877",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.52",
+        "score": 57.313
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.54",
+        "score": 52.269
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.53",
+        "score": 48.812
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.95",
+        "score": 44.229
+      },
+      {
+        "section": "The Penal Code, 1860 S.339",
+        "score": 41.313
+      }
+    ]
+  },
+  {
+    "question_no": "29",
+    "question_text": "Under section 12 of the Specific Relief Act, 1877, in how many circumstances is specific performance of a contract enforceable?",
+    "options": {
+      "A": "7",
+      "B": "5",
+      "C": "2",
+      "D": "4"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 4",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Under The Specific Relief Act, 1877, section 12, Subsection (1), the court has the discretion to enforce any contract. However, this power is limited by three specific exceptions outlined in clauses (a) through (c) of Section 5. Therefore, specific performance is enforceable in exactly 3 circumstances.",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.6",
+        "score": 54.611
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.12",
+        "score": 53.443
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.24",
+        "score": 48.975
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.17",
+        "score": 48.298
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.28",
+        "score": 47.825
+      }
+    ]
+  },
+  {
+    "question_no": "30",
+    "question_text": "X contracts to serve as an apprentice lawyer under Y for 2 years. Specific performance of the contract is ________.",
+    "options": {
+      "A": "Not enforceable",
+      "B": "Conditionally enforceable",
+      "C": "Enforceable",
+      "D": "Partially enforceable"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Not enforceable",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Specific Relief Act, 1877, section 3, the law recognizes that every duty enforceable by law is an 'obligation.' Therefore, a contract for the specific performance of an apprenticeship is legally enforceable.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.64",
+        "score": 42.189
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.3",
+        "score": 39.494
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.19",
+        "score": 31.489
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.22",
+        "score": 29.96
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.13",
+        "score": 29.666
+      }
+    ]
+  },
+  {
+    "question_no": "31",
+    "question_text": "If the total area of the plaintiff's land is incorrectly recorded in the decree, under which section of the Code of Civil Procedure, 1908 is there a remedy?",
+    "options": {
+      "A": "152",
+      "B": "151",
+      "C": "154",
+      "D": "153"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 152",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Specific Relief Act, 1877, section 22, Clause (b), if the total area of land is incorrectly recorded in a decree, the remedy lies in filing an application for a variation of the decree. This allows the court to correct the error and grant specific performance within its jurisdiction. Therefore, (C) 154 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.72",
+        "score": 52.885
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.22",
+        "score": 48.651
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.4",
+        "score": 48.337
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.18",
+        "score": 47.719
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.44A",
+        "score": 47.155
+      }
+    ]
+  },
+  {
+    "question_no": "32",
+    "question_text": "The provision regarding 'leave for revision' is mentioned in which section of the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "112",
+      "B": "114",
+      "C": "113",
+      "D": "115"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 115",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking for the section number in The Code of Civil Procedure, 1908 that mentions 'leave for revision'. I need to recall or search for the relevant section.\n\nUnder The Code of Civil Procedure, 1908, Section 113, Subsection (2), Clause (b) deals with leave for revision.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.115",
+        "score": 42.495
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 33.221
+      },
+      {
+        "section": "The Penal Code, 1860 S.40",
+        "score": 32.357
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 31.628
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.176",
+        "score": 31.494
+      }
+    ]
+  },
+  {
+    "question_no": "33",
+    "question_text": "Who can file a suit in the case of a public nuisance?",
+    "options": {
+      "A": "Government Pleader",
+      "B": "Aggrieved person",
+      "C": "Attorney General",
+      "D": "Any aggrieved person"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Attorney General",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a legal question about who can file a suit in a public nuisance case, based on provided sections of The Code of Criminal Procedure, 1898 and The Penal Code, 1860. The answer must be selected from the given options (A, B, C, D). The persona is a Bangladeshi legal assistant.\n\n2.  **Analyze the Law Sections:**\n    *   **The Penal Code, 1860, Section 268:** Defines public nuisance and states a person causing common injury/annoyance to the public is guilty. It doesn't explicitly define who files the suit in the penal code, but refers to the general nature of the case.\n    *   **The Penal Code, 1860, Section 269:** (Wait, I need to check if there's a specific section for incidental proceedings or filing suits). Actually, looking at The Penal Code, 1860, Section 269 is about prosecution. Wait, I need to look for \"Incidental Proceedings\".\n    *   **The Penal Code, 1860, Section 268:** Discusses the definition of public nuisance.\n    *   **The Penal Code, 1860, Section 269:** (Wait, I need to check the user's provided sections). The user provided: Part III, Section 91, The Penal Code, Section 268, Code of Criminal Procedure, Section 4, Code of Criminal Procedure, Section 198.\n    *   **The Penal Code, 1860, Section 269:** Wait, I don't see section 269 in the provided text. Let me re-read the provided text carefully.\n        *   [PART III: INCIDENTAL PROCEEDINGS, Section 91] - This is the key section. It explicitly states: \"In the case of a public nuisance the Attorney General, or two or more persons having obtained the consent in writing of the Attorney General, may institute a suit...\"\n    *   **The Penal Code, 1860, Section 269:** Not in text. Wait, let me check the section number provided in the prompt for Part III, Section 91. It says \"In the case of a public nuisance the",
+    "retrieved_sections": [
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.91",
+        "score": 40.946
+      },
+      {
+        "section": "The Penal Code, 1860 S.268",
+        "score": 33.89
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.4",
+        "score": 33.323
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.198",
+        "score": 31.058
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.92",
+        "score": 30.41
+      }
+    ]
+  },
+  {
+    "question_no": "34",
+    "question_text": "An application for 'discovery by interrogatories' must be filed within _______ days of framing of issues.",
+    "options": {
+      "A": "7",
+      "B": "10",
+      "C": "15",
+      "D": "21"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 10",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Code of Civil Procedure, 1908, section 442A, an application for discovery by interrogatories must be filed within 15 days of the framing of issues. Failure to file within this period renders the application inadmissible. Therefore, (C) 15 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.442A",
+        "score": 29.288
+      },
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 27.052
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.35B",
+        "score": 23.323
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.21",
+        "score": 23.166
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 20.757
+      }
+    ]
+  },
+  {
+    "question_no": "35",
+    "question_text": "The provision for taking cognizance of a suit of a civil nature is mentioned in which section of the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "9",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 9",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking for the section of The Code of Civil Procedure, 1908, that deals with taking cognizance of a civil suit. This is a jurisdictional question regarding original civil proceedings.\n\nUnder The Code of Civil Procedure, 1908, section 9, Clause (a), Subsection (1), the Courts shall have jurisdiction to try all civil suits except those where their cognizance is barred. However, the general principle is that a civil court can take cognizance. Section 9 specifically states that the Courts have jurisdiction to try all suits of a civil nature.\n\nLet's look at section 9, Clause (a), Subsection (1). It says the Courts shall have jurisdiction to try all suits of a civil nature excepting those whose cognizance is barred. This establishes the foundational principle for civil cognizance. Therefore, (C) 9 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.9",
+        "score": 57.105
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.5",
+        "score": 45.805
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 44.488
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 44.234
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.89E",
+        "score": 43.678
+      }
+    ]
+  },
+  {
+    "question_no": "36",
+    "question_text": "Which of the following is NOT related to 'mesne profits'?",
+    "options": {
+      "A": "Wrongful possessor",
+      "B": "Cost of suit",
+      "C": "Profits with interest",
+      "D": "Immovable property"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Cost of suit",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a multiple-choice question about 'mesne profits' under the Code of Civil Procedure, 1908 (CPC, 1908). I need to select the option that is NOT related to mesne profits and must use the provided sections.\n\n2.  **Define Mesne Profits:** Under CPC, section 60, Subsection (3), mesne profits are defined as the interest earned on property owned by a wrongful possessor, including the profit with interest. This applies to both immovable and movable property.\n\n3.  **Analyze the Options:**\n    *   (A) Wrongful possessor: Mesne profits are payable to the original owner against a person who held possession wrongfully. So, this is related.\n    *   (B) Cost of suit: This is usually part of the expenses of litigation. It is not part of mesne profits. Mesne profits are the interest/profits on property held in bad faith.\n    *   (C) Profits with interest: CPC section 60, Subsection (3) specifically mentions \"profits and interest\" earned by the wrongdoer. So, this is related.\n    *   (D) Immovable property: Mesne profits apply to both movable and immovable property owned by the wrongdoer. So, this is related.\n\n4.  **Consult Provided Sections:**\n    *   Code of Civil Procedure, 1908, Section 60, Subsection (3): \"...the following particulars shall not be liable to such attachment or sale, namely:- Nothing in this section shall be deemed to exempt houses and other buildings... from attachment or sale in execution of decrees for rent of any such house...\"\n    *   Code of Civil Procedure, 1908, Section 60, Subsection (3) also states: \"The following property is liable to attachment and sale in execution of a decree, namely, lands, houses or other buildings... and all other saleable property, moveable or immovable...\"\n    *   Wait, I need to find the definition of Mesne Profits. It is typically found in Section 60, Subsection (3) of the Code of Civil Procedure, 1908. Let me check the provided text for section 60.\n    *   Code of Civil Procedure,",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.60",
+        "score": 32.207
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.18",
+        "score": 29.34
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.17",
+        "score": 28.364
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.68",
+        "score": 28.282
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.35B",
+        "score": 27.596
+      }
+    ]
+  },
+  {
+    "question_no": "37",
+    "question_text": "The court may amend issues ______.",
+    "options": {
+      "A": "At any time before pronouncement of judgment",
+      "B": "Before taking evidence",
+      "C": "Before hearing of arguments",
+      "D": "At any time before passing the decree"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) At any time before passing the decree",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking about the Code of Civil Procedure, 1908, Section 21. Let me check what section says about amendment or alteration of issues.\n\nCode of Civil Procedure, 1908, Section 21, Clause (2) states: \"No objection as to the place of suing shall be allowed by any appellate or revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity and in all cases where issues are settled at or before such settlement...\"\n\nThis doesn't mention amendment of issues. Let me check The Code of Criminal Procedure, 1898, Section 227, Clause (2). It states that any court may alter or add to any charge at any time before judgment is pronounced.\n\nThe Code of Civil Procedure, 1908, Section 227, Clause (2) actually says: \"No objection as to the place of suing shall be allowed...\" This is not about amendment of issues.\n\nWait, I need to look more carefully at The Code of Criminal Procedure, 1898, Section 227, Clause (2). It states that any court may alter or add to any charge before judgment is pronounced. This is the most relevant amendment power for charges/issues.\n\nLooking at The Code of Civil Procedure, 1908, Section 55, Clause (3), it mentions that no dwelling shall be entered after sunset and before sunrise, but this is about arrest, not issue amendment.\n\nThe Code of Criminal Procedure, 1898, Section 227, Clause (2) is specifically about amendment of charges/issues before judgment is pronounced. This matches option (A).",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.227",
+        "score": 49.461
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.338",
+        "score": 44.425
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.21",
+        "score": 42.924
+      },
+      {
+        "section": "The Evidence Act, 1872 S.41",
+        "score": 41.456
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.55",
+        "score": 41.106
+      }
+    ]
+  },
+  {
+    "question_no": "38",
+    "question_text": "Under Order 12 Rule 6 of the Code of Civil Procedure, 1908, when can a 'Judgment on admissions' be given?",
+    "options": {
+      "A": "At any stage of the suit",
+      "B": "After completion of evidence of both parties",
+      "C": "Before filing of written statement",
+      "D": "After filing of written statement"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) At any stage of the suit",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking about Order 12, Rule 6 of the Code of Civil Procedure, 1908. This section deals with judgments on admissions. I need to find the correct timing for this judgment.\n\nUnder Order 12, Rule 6, a Judgment on Admissions can be given at any stage of the suit or proceeding. The law allows for admission of admissions to save the suit from further delay. Therefore, (A) At any stage of the suit is correct.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.35B",
+        "score": 75.731
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.89A",
+        "score": 71.498
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.24",
+        "score": 68.457
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.89D",
+        "score": 62.767
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.22",
+        "score": 61.632
+      }
+    ]
+  },
+  {
+    "question_no": "39",
+    "question_text": "Under section 89A of the Code of Civil Procedure, 1908, within how many days of the appointment of a mediator must mediation be completed?",
+    "options": {
+      "A": "10",
+      "B": "60",
+      "C": "7",
+      "D": "30"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 60",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Under Code of Civil Procedure, 1908, section 89A(1), the Court must mediate to settle a dispute after filing the written statement. The law mandates that this mediation process must be completed within sixty (60) days. Therefore, (B) 60 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.89E",
+        "score": 48.845
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.89A",
+        "score": 44.214
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.89D",
+        "score": 41.961
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 41.214
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.32",
+        "score": 40.872
+      }
+    ]
+  },
+  {
+    "question_no": "40",
+    "question_text": "The provision for 'representative suit' is mentioned in which Rule of Order 1 of the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 8",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking about the Code of Civil Procedure, 1908, specifically regarding the 'representative suit' provision. I need to identify which Rule of Order 1 contains this section and select the correct option from (A) 5, (B) 7, (C) 8, or (D) 6.\n\nThe Code of Civil Procedure, 1908, Order XI, Rule 8 is not applicable for this question as it's about representation of parties. Let me search for the representative suit rule in CPC. The Code of Civil Procedure, 1908, Order XI, Rule 8 covers representation of parties in certain cases. However, the specific provision for representative suits is found in Order I, Rule 6. Wait, Order I, Rule 6 actually deals with the general procedure for representation of parties. This section is about a suit where a person is authorized to represent another. Let me verify this. The Code of Civil Procedure, 1908, Order XI, Rule 8 deals with representation of parties in small cause courts. However, the representative suit is specifically mentioned in Order I, Rule 6. No, wait. Order I, Rule 6 is about the general procedure for representation. Actually, Order I, Rule 6 covers the case where a person is authorized to represent another person in a suit. The Code of Civil Procedure, 1908, Order I, Rule 6 is about 'representation'. But the user asks for Order I, Rule 6. Let me check CPC Order I, Rule 6. Yes, Order I, Rule 6 deals with representation. Therefore (D) 6 is correct. Wait, I need to be careful. The Code of Civil Procedure, 1908, Order I, Rule 6 covers the representation of parties. This section is titled 'Representation'. So the answer is (D). However, Order I, Rule 8 also deals with representation in small cause courts. But the general representative suit provision is in Order I, Rule 6. Let me verify. Order I, Rule 6, Subsection (1), Clause (a) - A person authorized to represent a party in a suit. This section is about 'representation'. So (D) 6 is correct. Wait, the user asks for 'representative suit' provision in Order I, Rule X. Actually, Order I, Rule 8 covers representation in small cause courts",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 41.818
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 39.915
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.8",
+        "score": 38.337
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.7",
+        "score": 38.332
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 38.296
+      }
+    ]
+  },
+  {
+    "question_no": "41",
+    "question_text": "In a civil suit, who shall receive the costs imposed in response to adjournment applications by both parties?",
+    "options": {
+      "A": "Defendant",
+      "B": "State",
+      "C": "Lawyer",
+      "D": "Plaintiff"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) State",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under The Limitation Act, 1908, section 22, Subsection (1), the costs imposed in a civil suit are awarded to the party that successfully applies for them. Therefore, (D) Plaintiff is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.22",
+        "score": 29.427
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.79",
+        "score": 27.614
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.22",
+        "score": 25.425
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.19",
+        "score": 24.28
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.19",
+        "score": 23.514
+      }
+    ]
+  },
+  {
+    "question_no": "42",
+    "question_text": "How many types of issues are there under the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "5",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 2",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under The Code of Civil Procedure, 1908, section 21, Clause (a), the Code is divided into four types of issues. These are the original issues, first instance issues, appeal issues, and revisional issues. Therefore, (D) 4 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.21",
+        "score": 30.171
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 29.438
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.2",
+        "score": 28.009
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.6",
+        "score": 26.567
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.5",
+        "score": 26.107
+      }
+    ]
+  },
+  {
+    "question_no": "43",
+    "question_text": "If a person fails to produce a document despite direction in a court summons, under which section of the Code of Civil Procedure, 1908 can the civil court take punitive action?",
+    "options": {
+      "A": "32",
+      "B": "30",
+      "C": "31",
+      "D": "29"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 32",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Code of Civil Procedure, 1908, section 31, the court can issue a summons to compel a person to produce documents or other material. If the person fails to comply despite a direction, the court may punish them for contempt of court. Therefore, (C) 31 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.32",
+        "score": 59.586
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.31",
+        "score": 47.412
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 47.353
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.43",
+        "score": 44.477
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.94",
+        "score": 44.32
+      }
+    ]
+  },
+  {
+    "question_no": "44",
+    "question_text": "What is the remedy against an order rejecting an application for amendment of a plaint?",
+    "options": {
+      "A": "Reference",
+      "B": "Appeal",
+      "C": "Revision",
+      "D": "Review"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Revision",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the legal remedy against an order rejecting an application for amendment of a plaint. The answer must be selected from (A) Reference, (B) Appeal, (C) Revision, or (D) Review, and must be based on The Limitation Act, 1908, Section 5.\n\n2.  **Identify the Relevant Law:** The Limitation Act, 1908, Section 5 is cited in the provided instructions.\n3.  **Analyze the Section:** The Limitation Act, 1908, Section 5, Clause (a) states that an application for a review of judgment may be admitted after the limitation period if there is sufficient cause. It specifically mentions \"Any appeal or application for a revision or a review of judgment...\".\n4.  **Evaluate Options:** The Limitation Act, 1908, Section 5, Clause (a) explicitly states that an application for a review of judgment can be admitted after the period expires if there is sufficient cause. It also mentions \"application for a revision or a review of judgment...\".\n5.  **Formulate Answer:** The Limitation Act, 1908, Section 5, Clause (a) allows admission of such an application. Therefore, (C) Revision is correct based on the provided text.\n\nWait, I need to check the Limitation Act, 1908, Section 5, Clause (a). It states: \"Any appeal or application for a revision or a review of judgment or for leave to appeal or any other application to which this section may be made applicable by or under any enactment for the time being in force may be admitted after the period of limitation prescribed therefor...\"\n\nThis section specifically covers applications for revision and review. Therefore, (C) Revision is correct.\n\n6.  **Final Verification:** The Limitation Act, 1908, Section 5, Clause (a) states that an application for a revision or a review of judgment can be admitted after the limitation period expires if there is sufficient cause. This matches option (C).\n\nWait, I should double-check the Limitation Act, 1908, Section 5, Clause (a) text again. It says: \"Any appeal or application for a revision or a review of judgment... may be admitted after the period of limitation",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 34.194
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.406A",
+        "score": 33.993
+      },
+      {
+        "section": "The Limitation Act, 1908 S.5",
+        "score": 31.629
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.89D",
+        "score": 27.554
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.115",
+        "score": 26.701
+      }
+    ]
+  },
+  {
+    "question_no": "45",
+    "question_text": "If a suit is filed without following Order 7 Rule 9(1A) of the Code of Civil Procedure, 1908, under which provision does the defendant have a remedy?",
+    "options": {
+      "A": "Order 7 Rule 11",
+      "B": "Order 47 Rule 1",
+      "C": "Order 7 Rule 10",
+      "D": "Order 39 Rule 1"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Order 7 Rule 11",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Code of Civil Procedure, 1908, Order 7, Rule 9, Subsection (1A), a defendant who has filed a suit without following the mandatory procedure for joining parties can still file an application to the court to have it done. This application is called a Supplement. Therefore, (C) Order 7 Rule 10 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.11",
+        "score": 73.161
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.134",
+        "score": 63.019
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.365",
+        "score": 60.646
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.123",
+        "score": 57.62
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 55.949
+      }
+    ]
+  },
+  {
+    "question_no": "46",
+    "question_text": "Under the Code of Civil Procedure, 1908, how many times can a party directly seek to set aside an ex-parte decree?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 1",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking about the Code of Civil Procedure, 1908, Section 69. This section deals with incidental proceedings and specifically mentions that no appeal shall lie from a decree passed ex parte. However, the question asks about how many times a party can seek to set aside an ex-parte decree. This is governed by Section 69(2).",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 32.53
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.96",
+        "score": 31.253
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.69",
+        "score": 30.589
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.386",
+        "score": 29.036
+      },
+      {
+        "section": "The Limitation Act, 1908 S.16",
+        "score": 28.853
+      }
+    ]
+  },
+  {
+    "question_no": "47",
+    "question_text": "In a civil suit, what is the maximum number of adjournments a party can receive before the final hearing?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "7",
+      "D": "12"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 6",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a specific legal question about civil procedure (maximum number of adjournments) in Bangladesh, citing Code of Civil Procedure, 1908, Section 35B. I need to answer using the provided sections. However, the provided sections do *not* mention the number of adjournments (Section 24A or 35B don't cover this). The prompt says \"Use the provided law sections\" for retrieval, but the specific section regarding adjournments isn't in the snippet. Wait, I need to check the Code of Civil Procedure, 1908, Section 35B. No, that's about costs. The question asks about adjournments. This is a trick or I might be missing a section in the text provided. Let me look closely at the provided text again.\n\n    Provided Text:\n    - The specific Relief Act, 1877, Section 53 (Injunctions)\n    - Code of Civil Procedure, 1908, Section 35B (Costs for late applications)\n    - General (Section 24A - Transfer)\n    - PART III: INCIDENTAL PROCEEDINGS, Section 110 (Value)\n\n    There is no section in the provided text that explicitly states the number of adjournments allowed. However, I must use the provided sections to answer. But wait, the instruction says \"Use the provided law sections\" for retrieval. If the information isn't there, I cannot invent it. However, standard legal knowledge says 6 or 12? In Code of Civil Procedure, 1908, Section 35B doesn't say that. Section 35A/35B usually don't have this.\n    Wait, let me check the Code of Civil Procedure, 1908, Section 35B again. It talks about costs.\n    Actually, Code of Civil Procedure, 1908, Section 24A does not mention adjournments.\n    There is a general rule in CPC, 1908, Section 35B which says: \"In each case of an application... if it is made late...\". This doesn't limit adjournments.\n    Wait, I need to check the Code of Civil Procedure, 1908, Section 3",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.53",
+        "score": 29.128
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.14",
+        "score": 28.97
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.35B",
+        "score": 28.782
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.24A",
+        "score": 28.582
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.110",
+        "score": 27.418
+      }
+    ]
+  },
+  {
+    "question_no": "48",
+    "question_text": "Regarding transfer of a case by the District Judge under section 24 of the Code of Civil Procedure, 1908, ___________.",
+    "options": {
+      "A": "Hearing is required but not notice",
+      "B": "Both notice and hearing are required",
+      "C": "Notice is required but not hearing",
+      "D": "Neither notice nor hearing is required"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Neither notice nor hearing is required",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Under The Code of Civil Procedure, 1908, section 24, Subsection (1), Clause (b), the District Court may transfer a case to the High Court Division. This transfer is subject to both a hearing and notice being given to the parties involved. Therefore, (B) Both notice and hearing are required is correct.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.24",
+        "score": 90.594
+      },
+      {
+        "section": "The Penal Code, 1860 S.176",
+        "score": 76.626
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.247",
+        "score": 71.415
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.356(3)",
+        "score": 58.255
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.378",
+        "score": 56.83
+      }
+    ]
+  },
+  {
+    "question_no": "49",
+    "question_text": "In the case of directly setting aside an ex-parte order, what is the maximum amount of costs (in Taka) the court can order to be paid?",
+    "options": {
+      "A": "3,000",
+      "B": "4,000",
+      "C": "1,000",
+      "D": "2,000"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 3,000",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Code of Civil Procedure, 1908, section 109, Subsection (2), Clause (a), the court is authorized to set aside an ex-parte order. For this to happen, the applicant must provide a security for costs. The maximum amount of money the court can order the applicant to pay in such a scenario is limited to 3,000 Taka. Therefore, (A) 3,000 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.110",
+        "score": 48.071
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.118",
+        "score": 45.835
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 45.279
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.417",
+        "score": 45.145
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.388",
+        "score": 42.871
+      }
+    ]
+  },
+  {
+    "question_no": "50",
+    "question_text": "In which of the following circumstances can the civil court NOT exercise its inherent powers?",
+    "options": {
+      "A": "To ensure justice",
+      "B": "To prevent abuse of court process",
+      "C": "To maintain status quo",
+      "D": "To overcome the bar of limitation"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) To overcome the bar of limitation",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Under The Code of Civil Procedure, 1908, section 35, Clause (2), the court is empowered to exercise its inherent powers even if it lacks territorial jurisdiction. This power allows the court to overcome any statutory bar of limitation. Therefore, (D) To overcome the bar of limitation is correct.",
+    "retrieved_sections": [
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.120",
+        "score": 44.335
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.35",
+        "score": 43.809
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 43.372
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.119",
+        "score": 41.567
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.18",
+        "score": 41.272
+      }
+    ]
+  },
+  {
+    "question_no": "51",
+    "question_text": "The burden of proving a 'Plea of alibi' lies on —",
+    "options": {
+      "A": "The accused",
+      "B": "The witness",
+      "C": "The police",
+      "D": "The complainant"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) The accused",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 244, Subsection (1), Clause (b), the accused is legally required to prove their plea of alibi. If they fail to provide a satisfactory explanation for their absence from the scene of the crime, the burden of proof shifts to the state to convince the Magistrate that the prosecution is correct. Therefore, (A) The accused is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.171",
+        "score": 44.063
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.244",
+        "score": 41.79
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.171",
+        "score": 38.776
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.200",
+        "score": 38.717
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 37.87
+      }
+    ]
+  },
+  {
+    "question_no": "52",
+    "question_text": "The exception to the rule that leading questions cannot be put to one's own witness is described in which section of the Evidence Act, 1872?",
+    "options": {
+      "A": "154",
+      "B": "156",
+      "C": "152",
+      "D": "151"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 154",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the section of The Evidence Act, 1872 that describes the exception to the rule against leading questions in cross-examination. I need to select from the given options (A, B, C, D) and use the provided law sections to support the answer.\n\n2.  **Recall/Search Legal Knowledge:** The Evidence Act, 1872, Section 151 is titled \"Leading Questions.\" It states that a question in cross-examination must be asked in a form other than leading, with specific exceptions (e.g., if there is no doubt about the truth of the facts, or if it's a summary of the whole case). Wait, I need to check Section 151 specifically.\n    *   The Evidence Act, 1872, Section 151: \"The exception to the rule that leading questions cannot be put to one's own witness is described in which section of the Evidence Act, 1872?\" This sounds like a trick question or a misinterpretation. Let me check the sections provided.\n    *   The Evidence Act, 1872, Section 156: \"The exception to the rule that leading questions cannot be put to one's own witness is described in which section of the Evidence Act, 1872?\" No, wait. Let's look at Section 156. It talks about leading questions being allowed if the fact in issue is not in dispute. Wait, no.\n    *   Actually, The Evidence Act, 1872, Section 156, Clause (b) or Clause (c)? No, let me recall. The general rule is section 151. But there's a specific exception in section 156? Or section 154?\n    *   Let's check The Evidence Act, 1872, Section 156. It states: \"The leading question may be asked of one's own witness if the fact in issue is not in dispute.\" No, that's not right.\n    *   Wait, The Evidence Act, 1872, Section 151, Clause (1) prohibits leading questions. Exception is section 156? Let me check The Code of Criminal Procedure, 1898, section 356(2).",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.33",
+        "score": 40.984
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.355",
+        "score": 32.959
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.356(3)",
+        "score": 32.958
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.360",
+        "score": 32.775
+      },
+      {
+        "section": "The Evidence Act, 1872 S.29",
+        "score": 32.657
+      }
+    ]
+  },
+  {
+    "question_no": "53",
+    "question_text": "The principle of 'Feeding the grant by estoppel' is related to which section of the Evidence Act, 1872?",
+    "options": {
+      "A": "114",
+      "B": "115",
+      "C": "118",
+      "D": "117"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 115",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking about the legal principle of 'Feeding the grant by estoppel' and which section of The Code of Criminal Procedure, 1898, Section 115, Clause (a) or (b) relates to it. However, this question is actually from The Code of Criminal Procedure, 1898, Section 115.\n\nUnder The Code of Criminal Procedure, 1898, section 115, clause (a), a grant obtained under section 114 is presumed valid unless proved otherwise. This principle is called 'Feeding the grant by estoppel' or 'Proper feeding'. It means that if you obtain a warrant under section 114, it is presumed to be valid.\n\nThe Code of Criminal Procedure, 1898, Section 115, Clause (a) states that every summons or warrant issued under section 114 shall be accompanied by a copy of the order made under section 112, and such order shall be deemed to be valid.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.115",
+        "score": 36.031
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 32.393
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.176",
+        "score": 32.197
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 31.921
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.191",
+        "score": 30.471
+      }
+    ]
+  },
+  {
+    "question_no": "54",
+    "question_text": "Under the Evidence Act, 1872, which of the following is NOT a public document?",
+    "options": {
+      "A": "Statement recorded by a Magistrate in a departmental inquiry",
+      "B": "Survey and Settlement Report",
+      "C": "Birth certificate",
+      "D": "Plaint"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Statement recorded by a Magistrate in a departmental inquiry",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking a question about The Evidence Act, 1872, Section 39. This section defines public documents. I need to identify which of the options is NOT a public document under this act.",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.39",
+        "score": 39.058
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.164",
+        "score": 38.805
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.205D",
+        "score": 38.054
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.350",
+        "score": 37.213
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.176",
+        "score": 35.85
+      }
+    ]
+  },
+  {
+    "question_no": "55",
+    "question_text": "Under the Evidence Act, 1872, which of the following is NOT an electronic record?",
+    "options": {
+      "A": "DNA data",
+      "B": "Drone data",
+      "C": "CCTV footage",
+      "D": "Soft data"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) DNA data",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under The Evidence Act, 1872, section 32, Clause (a), electronic records are defined as data that is recorded on a computer or stored in digital format. This includes CCTV footage and drone data. DNA data is also recognized as an electronic record because it is digitized from biological samples. Soft data is not an electronic record because it is information stored physically in non-digital formats like tapes or paper files. Therefore, (D) Soft data is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.176",
+        "score": 27.304
+      },
+      {
+        "section": "The Evidence Act, 1872 S.17",
+        "score": 26.963
+      },
+      {
+        "section": "The Evidence Act, 1872 S.32",
+        "score": 26.614
+      },
+      {
+        "section": "The Evidence Act, 1872 S.22A",
+        "score": 26.021
+      },
+      {
+        "section": "The Evidence Act, 1872 S.23",
+        "score": 25.977
+      }
+    ]
+  },
+  {
+    "question_no": "56",
+    "question_text": "Under which section of the Evidence Act, 1872 is a Judge not compelled to answer questions concerning matters that came to his knowledge without an order from a superior court?",
+    "options": {
+      "A": "127",
+      "B": "121",
+      "C": "133",
+      "D": "119"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 121",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for a specific section of The Evidence Act, 1872 regarding a Judge's immunity from answering questions about matters they learned without an order. The user wants me to retrieve relevant sections and answer from the provided list (A, B, C, D).\n\n2.  **Scan Provided Sections:** I need to look for Section numbers that deal with judicial immunity, questioning, or non-disclosure.\n    *   Section 29: Deals with confessions obtained by deception, drunk confession, etc. Not about questions asked without order.\n    *   Section 359: Deals with question and answer recording in court. Not about immunity.\n    *   Section 115: Deals with revision of orders by District Judges. Not relevant.\n    *   Section 121: Need to check this one. The Code of Criminal Procedure, 1898, Section 121 (Note: The Evidence Act, 1872 has its own sections). Wait, the Evidence Act, 1872, Section 121 is about a Judge's immunity from questions. Let me verify the content mentally based on general legal knowledge if needed, but I must use the provided text. Actually, looking at The Evidence Act, 1872, Section 121, Clause (a) states that a Judge shall not be compelled to answer any question which he is not able to answer. However, the specific immunity for matters known to him is Section 121. Let me re-read the provided text carefully.\n    *   Wait, I don't see Section 121 in the provided list of evidence sections in the prompt? Let me check again.\n    *   The Evidence Act, 1872, Section 29 is there.\n    *   The Code of Criminal Procedure, 1898, Section 359 is there.\n    *   The Evidence Act, 1872, Section 23 is there.\n    *   The Code of Criminal Procedure, 1898, Section 195 is there.\n    *   The Evidence Act, 1872, Section 121 is NOT in the provided text.\n    *   Wait, let me re-read the prompt's provided Sections list. It lists: The Evidence",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.29",
+        "score": 37.232
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 34.607
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.359",
+        "score": 33.611
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.115",
+        "score": 33.286
+      },
+      {
+        "section": "The Evidence Act, 1872 S.23",
+        "score": 32.895
+      }
+    ]
+  },
+  {
+    "question_no": "57",
+    "question_text": "'No new trial for improper admission or rejection of evidence' — this provision of the Evidence Act, 1872 applies to ________.",
+    "options": {
+      "A": "Civil proceedings only",
+      "B": "Administrative proceedings",
+      "C": "Criminal proceedings only",
+      "D": "All judicial proceedings"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) All judicial proceedings",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Under The Evidence Act, 1872, section 1, Clause (1), the provision regarding no new trial for improper evidence applies to all judicial proceedings in or before any Court. This includes criminal cases and civil suits. Therefore, (D) All judicial proceedings is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.1",
+        "score": 50.483
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.116",
+        "score": 45.366
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.5",
+        "score": 40.041
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.340",
+        "score": 37.202
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.86A",
+        "score": 36.55
+      }
+    ]
+  },
+  {
+    "question_no": "58",
+    "question_text": "Who can prohibit putting of indecent or annoying questions to a witness?",
+    "options": {
+      "A": "The witness himself",
+      "B": "The lawyer",
+      "C": "The Court",
+      "D": "All of the above"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) The Court",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 356(3), the Court has the power to prohibit the use of questions that are indecent or annoying. If a question is found to be improper, the judge can stop it. Therefore, (C) The Court is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.355",
+        "score": 43.062
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265G",
+        "score": 41.54
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.231",
+        "score": 39.321
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.356(3)",
+        "score": 38.234
+      },
+      {
+        "section": "The Evidence Act, 1872 S.33",
+        "score": 37.922
+      }
+    ]
+  },
+  {
+    "question_no": "59",
+    "question_text": "Under section 145 of the Evidence Act, 1872, the purpose of cross-examining a witness about a previous written statement is to ______.",
+    "options": {
+      "A": "Contradict it",
+      "B": "Corroborate it",
+      "C": "Test its admissibility",
+      "D": "Verify its authenticity"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Contradict it",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 162, Subsection (1), the law requires that any statement made by a witness to a police officer be reduced into writing. When this statement is later used in court, the prosecution must refer to it. Any part of the statement not directly relevant can then be cross-examined to contradict the witness. Therefore, (A) Contradict it is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.162",
+        "score": 50.012
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265G",
+        "score": 40.833
+      },
+      {
+        "section": "The Evidence Act, 1872 S.33",
+        "score": 39.689
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.39",
+        "score": 37.962
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.221(7)",
+        "score": 37.853
+      }
+    ]
+  },
+  {
+    "question_no": "60",
+    "question_text": "Under section 59 of the Evidence Act, 1872, all facts except ______ may be proved by oral evidence.",
+    "options": {
+      "A": "Contents of documents",
+      "B": "Documents",
+      "C": "Opinions on custom",
+      "D": "Relationship between persons"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Contents of documents",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Evidence Act, 1872, section 59, oral evidence is admissible for all facts except the contents of documents. This is because documents are presumed to be true and require secondary evidence if they cannot be produced in court. Therefore, (A) Contents of documents is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.22",
+        "score": 40.528
+      },
+      {
+        "section": "The Evidence Act, 1872 S.22A",
+        "score": 38.447
+      },
+      {
+        "section": "The Evidence Act, 1872 S.13",
+        "score": 38.306
+      },
+      {
+        "section": "The Evidence Act, 1872 S.32(5)",
+        "score": 36.53
+      },
+      {
+        "section": "The Limitation Act, 1908 S.19",
+        "score": 35.156
+      }
+    ]
+  },
+  {
+    "question_no": "61",
+    "question_text": "Under section 63 of the Evidence Act, 1872, which of the following is NOT 'secondary evidence'?",
+    "options": {
+      "A": "Certified copy",
+      "B": "Attested photocopy of original document",
+      "C": "Carbon copy of original document",
+      "D": "Oral account of a person who has seen the document"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Carbon copy of original document",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under The Evidence Act, 1872, section 63, secondary evidence is allowed for documents that have been altered or destroyed. Certified copies, attested photocopies, and carbon copies are all admissible. However, an oral account is not secondary evidence unless the party proves they are entitled to do so. Therefore, (D) Oral account of a person who has seen the document is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.22",
+        "score": 79.749
+      },
+      {
+        "section": "The Evidence Act, 1872 S.39",
+        "score": 62.337
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.14",
+        "score": 59.784
+      },
+      {
+        "section": "The Penal Code, 1860 S.464",
+        "score": 59.59
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.94",
+        "score": 58.457
+      }
+    ]
+  },
+  {
+    "question_no": "62",
+    "question_text": "Under the Evidence Act, 1872, regarding the execution of a Mukharnama (power of attorney), the court shall ___________.",
+    "options": {
+      "A": "Shall presume",
+      "B": "Consider it conclusively proved",
+      "C": "Make no presumption",
+      "D": "May presume"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Shall presume",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under The Evidence Act, 1872, section 4, Subsection (1), Clause (a), the court is directed to presume that a Mukharnama is genuine. This is expressed as a 'Shall presume' instruction, meaning the fact must be regarded as proved unless disproved by evidence. Therefore, (A) Shall presume is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.4",
+        "score": 61.181
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.14",
+        "score": 46.494
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 36.792
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.386",
+        "score": 35.56
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 35.31
+      }
+    ]
+  },
+  {
+    "question_no": "63",
+    "question_text": "Under section 28 of the Evidence Act, 1872, a confession made after removal of the impression caused by promise, threat or inducement is ______.",
+    "options": {
+      "A": "Irrelevant",
+      "B": "Illegal",
+      "C": "Inadmissible",
+      "D": "Relevant"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Relevant",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Role: Bangladeshi legal assistant.\n    *   Task: Answer a multiple-choice legal question based on The Evidence Act, 1872, Section 28.\n    *   Constraint: Use the provided law sections.\n    *   Question: Under section 28 of the Evidence Act, 1872, a confession made after removal of the impression caused by promise, threat or inducement is ______.\n\n2.  **Retrieve Relevant Law:**\n    *   The Evidence Act, 1872, Section 24 defines \"irrelevant\" confessions due to inducement/threats.\n    *   The Evidence Act, 1872, Section 28 states: \"If such a confession as is referred to in section 24 is made after the impression caused by any such inducement, threat or promise has, in the opinion of the Court, been fully removed, it is relevant.\"\n\n3.  **Evaluate Options:**\n    *   (A) Irrelevant: Incorrect. Section 28 makes it relevant.\n    *   (B) Illegal: Incorrect. This section addresses evidentiary admissibility, not legality of the act itself (though inducements are illegal per Code of Criminal Procedure).\n    *   (C) Inadmissible: Incorrect. The text says \"it is relevant.\" Irrelevant confessions are inadmissible in criminal proceedings under Section 24, but Section 28 makes them relevant after removal. Wait, the question asks about the nature of the confession. Relevant vs Irrelevant.\n    *   (D) Relevant: Correct. Section 28 explicitly states that if the impression is removed, it is relevant.\n\n4.  **Formulate Answer:**\n    *   Select (D).\n    *   Quote Section 28 text to support the answer.\n\n5.  **Final Check:**\n    *   Does The Evidence Act, 1872, Section 28 say it is relevant? Yes (\"it is relevant\").\n    *   Is the role correct? Yes, legal assistant answering under the provided law.\n\n6.  **Construct Output:** (Keep it concise and direct). Under The Evidence Act, 1872, section 28, a confession made after the impression has been removed is relevant. Therefore",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.28",
+        "score": 87.659
+      },
+      {
+        "section": "The Evidence Act, 1872 S.24",
+        "score": 57.605
+      },
+      {
+        "section": "The Evidence Act, 1872 S.29",
+        "score": 48.521
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.163",
+        "score": 41.598
+      },
+      {
+        "section": "The Evidence Act, 1872 S.32",
+        "score": 35.91
+      }
+    ]
+  },
+  {
+    "question_no": "64",
+    "question_text": "Under the Evidence Act, 1872, an admission is _________ regarding the matter admitted.",
+    "options": {
+      "A": "Not conclusive proof",
+      "B": "Conclusive proof",
+      "C": "Not documentary proof",
+      "D": "General proof"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Not conclusive proof",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking a legal question under The Evidence Act, 1872, Section 31.\nI need to select the correct option based on that section.\n\nSection 31, Subsection (1) states: Admissions are not conclusive proof of the matters admitted but they may operate as estoppels under the provisions hereinafter contained.\n\nTherefore, (A) Not conclusive proof is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Evidence Act, 1872 S.31",
+        "score": 78.934
+      },
+      {
+        "section": "The Evidence Act, 1872 S.4",
+        "score": 68.797
+      },
+      {
+        "section": "The Penal Code, 1860 S.51",
+        "score": 40.132
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.361",
+        "score": 35.83
+      },
+      {
+        "section": "The Evidence Act, 1872 S.17",
+        "score": 34.242
+      }
+    ]
+  },
+  {
+    "question_no": "65",
+    "question_text": "In which section of the Evidence Act, 1872 is the competency of witnesses discussed?",
+    "options": {
+      "A": "107",
+      "B": "120",
+      "C": "91",
+      "D": "101"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 120",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking for the section of The Code of Criminal Procedure, 1898, or The Evidence Act, 1872, that discusses witness competency. However, the provided text snippets are all from The Code of Criminal Procedure, 1898, Section 101. Let me check the actual law sections for The Evidence Act, 1872 first to be accurate.\n\nUnder The Code of Criminal Procedure, 1898, section 101, Clause (a) deals with witnesses. This section states that a witness who is competent in any other court shall also be competent in this court. It also mentions that a witness cannot be disqualified on the ground of bias. Therefore, (D) 101 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 28.539
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.176",
+        "score": 28.344
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 27.583
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.120",
+        "score": 26.307
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.472",
+        "score": 25.809
+      }
+    ]
+  },
+  {
+    "question_no": "66",
+    "question_text": "How many ways of making a false document are mentioned in the Penal Code, 1860?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 3",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 470, the law defines a false document as one made wholly or in part by forgery. This definition encompasses three distinct methods: forging an existing document, fabricating a new one, and altering an old document to make it false. Therefore, (B) 3 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 24.998
+      },
+      {
+        "section": "The Penal Code, 1860 S.470",
+        "score": 21.943
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.176",
+        "score": 21.851
+      },
+      {
+        "section": "The Penal Code, 1860 S.474",
+        "score": 21.733
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.6",
+        "score": 21.312
+      }
+    ]
+  },
+  {
+    "question_no": "67",
+    "question_text": "For which offence shall imprisonment be without hard labour?",
+    "options": {
+      "A": "Murder",
+      "B": "Robbery",
+      "C": "Wrongful restraint",
+      "D": "Kidnapping"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Wrongful restraint",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 440, the offence of wrongful restraint is punishable by imprisonment of either description for up to five years. This means the court has the discretion to impose either hard labour or imprisonment without hard labour, depending on the circumstances. Therefore, (C) Wrongful restraint is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.440",
+        "score": 22.474
+      },
+      {
+        "section": "The Penal Code, 1860 S.390",
+        "score": 22.215
+      },
+      {
+        "section": "The Penal Code, 1860 S.338A",
+        "score": 18.611
+      },
+      {
+        "section": "The Penal Code, 1860 S.452",
+        "score": 17.501
+      },
+      {
+        "section": "The Penal Code, 1860 S.455",
+        "score": 17.117
+      }
+    ]
+  },
+  {
+    "question_no": "68",
+    "question_text": "Under the Penal Code, 1860, a mark used on goods to indicate they were produced by a specific person is called a ______.",
+    "options": {
+      "A": "trade mark",
+      "B": "patents and property mark",
+      "C": "property mark",
+      "D": "patents"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) trade mark",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for a specific legal definition under The Penal Code, 1860, Section 478. The term for a mark indicating goods are produced by a specific person needs to be selected from the given options (A, B, C, D).\n\n2.  **Retrieve Relevant Law:** I need to access The Penal Code, 1860, Section 478.\n    *   Search query: The Penal Code, 1860, Section 478.\n    *   Content: \"A mark used for denoting that goods are the manufacture or merchandise of a particular person is called a trade mark, and for the purposes of this Code the expression 'trade mark' includes any trade [...] mark which is registered in the register of trade marks kept under the Patents, Designs and Trade Marks Act, 1883, and any trade mark which, either with or without registration, is protected by law in any British possession or Foreign State to which the provisions of the one hundred and third section of the Patents, Designs and Trade Marks Act, 1883, are, under Order-in-Council, for the time being applicable.\"\n\n3.  **Evaluate Options:**\n    *   (A) trade mark: Section 478 explicitly defines this term as a mark used to denote that goods are of a particular person. This matches perfectly.\n    *   (B) patents and property mark: Not defined in Section 478. Section 479 covers property marks.\n    *   (C) property mark: Section 479 defines this as a mark denoting ownership of moveable property.\n    *   (D) patents: Section 478 mentions Patents, Designs and Trade Marks Act, but the specific term for the mark on goods is 'trade mark'.\n\n4.  **Formulate Answer:** The Penal Code, 1860, Section 478 states that a mark used for denoting that goods are the manufacture of a particular person is called a trade mark. Therefore, (A) is correct.\n\n5.  **Final Check:** Does the explanation align with the law? Yes. The Penal Code, 1860, section 478 defines \"trade mark\" in this context. Option (A).\n\n6.  **Construct Output",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.478",
+        "score": 89.765
+      },
+      {
+        "section": "The Penal Code, 1860 S.479",
+        "score": 69.776
+      },
+      {
+        "section": "The Penal Code, 1860 S.485",
+        "score": 67.955
+      },
+      {
+        "section": "The Penal Code, 1860 S.481",
+        "score": 60.251
+      },
+      {
+        "section": "The Penal Code, 1860 S.483",
+        "score": 60.031
+      }
+    ]
+  },
+  {
+    "question_no": "69",
+    "question_text": "In which section of the Penal Code, 1860 is the definition of unlawful assembly found?",
+    "options": {
+      "A": "146",
+      "B": "141",
+      "C": "147",
+      "D": "447"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 141",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Penal Code, 1860, section 147 defines an unlawful assembly. It states that any assembly of five or more persons who have a common object and intend to use force or violence to achieve it is legally called an unlawful assembly. Therefore, (C) 147 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.146",
+        "score": 43.511
+      },
+      {
+        "section": "The Penal Code, 1860 S.142",
+        "score": 37.083
+      },
+      {
+        "section": "The Penal Code, 1860 S.149",
+        "score": 34.654
+      },
+      {
+        "section": "The Penal Code, 1860 S.150",
+        "score": 34.231
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.127",
+        "score": 31.24
+      }
+    ]
+  },
+  {
+    "question_no": "70",
+    "question_text": "If a person forges a document knowing it will be used for fraud, the maximum imprisonment is ______ years.",
+    "options": {
+      "A": "14",
+      "B": "7",
+      "C": "10",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 7",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 474, a person who possesses a forged document with the intent to use it for fraud is punishable by up to seven years in prison. Therefore, (B) 7 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.474",
+        "score": 27.583
+      },
+      {
+        "section": "The Penal Code, 1860 S.469",
+        "score": 26.848
+      },
+      {
+        "section": "The Penal Code, 1860 S.373",
+        "score": 25.325
+      },
+      {
+        "section": "The Penal Code, 1860 S.467",
+        "score": 25.232
+      },
+      {
+        "section": "The Penal Code, 1860 S.372",
+        "score": 25.221
+      }
+    ]
+  },
+  {
+    "question_no": "71",
+    "question_text": "The maximum imprisonment for voluntarily causing grievous hurt by dangerous weapons is ______.",
+    "options": {
+      "A": "3 years",
+      "B": "7 years",
+      "C": "10 years",
+      "D": "5 years"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 10 years",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 322, the maximum imprisonment for voluntarily causing grievous hurt is ten years. This penalty applies when a person intentionally causes serious injury using dangerous weapons or means that are likely to cause death. Therefore, (C) 10 years is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.335",
+        "score": 30.628
+      },
+      {
+        "section": "The Penal Code, 1860 S.322",
+        "score": 28.121
+      },
+      {
+        "section": "The Penal Code, 1860 S.459",
+        "score": 27.936
+      },
+      {
+        "section": "The Penal Code, 1860 S.364A",
+        "score": 27.925
+      },
+      {
+        "section": "The Penal Code, 1860 S.329",
+        "score": 27.727
+      }
+    ]
+  },
+  {
+    "question_no": "72",
+    "question_text": "The maximum imprisonment for giving false evidence in a judicial proceeding is _______.",
+    "options": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "10 years",
+      "D": "7 years"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 7 years",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 193, the maximum punishment for giving false evidence in a judicial proceeding is seven years in prison. Therefore, (D) 7 years is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.193",
+        "score": 33.473
+      },
+      {
+        "section": "The Penal Code, 1860 S.192",
+        "score": 27.103
+      },
+      {
+        "section": "The Evidence Act, 1872 S.33",
+        "score": 26.499
+      },
+      {
+        "section": "The Penal Code, 1860 S.228",
+        "score": 24.652
+      },
+      {
+        "section": "The Penal Code, 1860 S.73",
+        "score": 23.73
+      }
+    ]
+  },
+  {
+    "question_no": "73",
+    "question_text": "Under the Penal Code, 1860, for which offence is no specific amount of fine mentioned?",
+    "options": {
+      "A": "Wrongful restraint",
+      "B": "Voluntarily causing hurt",
+      "C": "Affray",
+      "D": "Rioting"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Rioting",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Under The Penal Code, 1860, section 452, the offence of wrongfully restraining a person is punishable by imprisonment and a fine. However, unlike other offences in this section that specify a monetary amount, there is no specific limit mentioned for the fine. Therefore, (A) Wrongful restraint is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.440",
+        "score": 38.725
+      },
+      {
+        "section": "The Penal Code, 1860 S.452",
+        "score": 32.858
+      },
+      {
+        "section": "The Penal Code, 1860 S.455",
+        "score": 32.171
+      },
+      {
+        "section": "The Penal Code, 1860 S.390",
+        "score": 31.516
+      },
+      {
+        "section": "The Penal Code, 1860 S.458",
+        "score": 31.424
+      }
+    ]
+  },
+  {
+    "question_no": "74",
+    "question_text": "Under the Penal Code, 1860, what is the maximum term of imprisonment for criminal breach of trust by a public servant?",
+    "options": {
+      "A": "10 years",
+      "B": "7 years",
+      "C": "Life imprisonment",
+      "D": "14 years"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Life imprisonment",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the maximum term of imprisonment for criminal breach of trust by a public servant under The Penal Code, 1860, Section 409. They want me to use the provided sections to answer.\n\n2.  **Locate Relevant Law:** I need to find The Penal Code, 1860, Section 409.\n    *   Scanning the provided text: \"The Penal Code, 1860, Section 409 - Whoever, being in any manner entrusted with property, or with any dominion over property in his capacity of a public servant... commits criminal breach of trust... shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years...\"\n\n3.  **Evaluate the Options:**\n    *   (A) 10 years: The law says up to ten years OR life. Ten years is part of the range.\n    *   (B) 7 years: Section 408 deals with this.\n    *   (C) Life imprisonment: The law says imprisonment for life is an option.\n    *   (D) 14 years: Section 222 deals with this.\n\n4.  **Analyze the Maximum Term:** The statute provides two types of punishments: \"imprisonment for life\" OR a term which may extend to ten years. Therefore, life imprisonment is technically the maximum possible punishment under this specific section. However, looking at the options, (A) and (C) are both present. Usually, in multiple-choice questions about The Penal Code, 1860, section 409, the distinction is often between 10 years and life. Let's re-read the text carefully: \"shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years\". This implies Life is the maximum. However, in many legal contexts (and often in simplified multiple choice), if life isn't an option but 10 years is, 10 years is the statutory maximum *if* life isn't available or if the question implies the non-life penalty. But wait, (C) is Life imprisonment. Let's check standard interpretations of this specific question.\n    *   Section 409: Imprisonment for life OR up to ten years.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.409",
+        "score": 47.13
+      },
+      {
+        "section": "The Penal Code, 1860 S.406",
+        "score": 43.915
+      },
+      {
+        "section": "The Penal Code, 1860 S.222",
+        "score": 43.667
+      },
+      {
+        "section": "The Penal Code, 1860 S.408",
+        "score": 41.294
+      },
+      {
+        "section": "The Penal Code, 1860 S.128",
+        "score": 40.254
+      }
+    ]
+  },
+  {
+    "question_no": "75",
+    "question_text": "Under the Penal Code, 1860, theft relates to ________ property.",
+    "options": {
+      "A": "Movable only",
+      "B": "Immovable only",
+      "C": "Both movable and immovable",
+      "D": "Intellectual"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Movable only",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Penal Code, 1860, section 97, the law defines theft as an offense affecting property that is either moveable or immovable. Therefore, (C) Both movable and immovable is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.152",
+        "score": 35.343
+      },
+      {
+        "section": "The Penal Code, 1860 S.97",
+        "score": 28.38
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.68",
+        "score": 25.472
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.65",
+        "score": 25.393
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.88",
+        "score": 25.109
+      }
+    ]
+  },
+  {
+    "question_no": "76",
+    "question_text": "For falsely using another person's name to make a declaration in a civil matter, the maximum imprisonment is ________ years.",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 3",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Under The Penal Code, 1860, section 169, Clause (b), a person who falsely uses another's name in a civil matter is guilty of perjury. The maximum punishment for this offense is imprisonment for a term that may extend to two years. Therefore, (A) 2 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 26.734
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 24.355
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.3(1)",
+        "score": 22.588
+      },
+      {
+        "section": "The Penal Code, 1860 S.169",
+        "score": 22.322
+      },
+      {
+        "section": "The specific Relief Act, 1877 S.42",
+        "score": 22.117
+      }
+    ]
+  },
+  {
+    "question_no": "77",
+    "question_text": "Which offence carries the highest maximum term of imprisonment?",
+    "options": {
+      "A": "Voluntarily causing hurt",
+      "B": "Mischief",
+      "C": "Wrongful restraint",
+      "D": "Unlawful assembly"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Voluntarily causing hurt",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under The Penal Code, 1860, section 458, unlawful assembly by night is punishable by imprisonment for up to fourteen years. This is the highest maximum term among the listed options. Therefore, (D) Unlawful assembly is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.440",
+        "score": 41.964
+      },
+      {
+        "section": "The Penal Code, 1860 S.452",
+        "score": 30.719
+      },
+      {
+        "section": "The Penal Code, 1860 S.455",
+        "score": 30.057
+      },
+      {
+        "section": "The Penal Code, 1860 S.458",
+        "score": 29.328
+      },
+      {
+        "section": "The Penal Code, 1860 S.390",
+        "score": 27.653
+      }
+    ]
+  },
+  {
+    "question_no": "78",
+    "question_text": "Under the Penal Code, 1860, in how many ways can the offence of 'House-breaking' be committed?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 6",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 445, the offence of house-breaking is defined by six specific ways an offender can enter or exit a dwelling. These include using passages opened by oneself, climbing over walls, opening locks, and using criminal force. Therefore, (D) 6 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.6",
+        "score": 34.161
+      },
+      {
+        "section": "The Penal Code, 1860 S.454",
+        "score": 31.887
+      },
+      {
+        "section": "The Penal Code, 1860 S.457",
+        "score": 31.324
+      },
+      {
+        "section": "The Penal Code, 1860 S.445",
+        "score": 31.235
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 29.584
+      }
+    ]
+  },
+  {
+    "question_no": "79",
+    "question_text": "Under the Penal Code, 1860, compelling a person by force to move from a place is called ________.",
+    "options": {
+      "A": "Kidnapping",
+      "B": "Abduction",
+      "C": "Wrongful restraint",
+      "D": "Criminal force"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Abduction",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a legal question based on The Penal Code, 1860. They want to know what it is called when someone is compelled by force to move from a place. The answer should be chosen from four options (A, B, C, D) and must use the provided sections.\n\n2.  **Scan the Provided Law Sections:**\n    *   The Penal Code, 1860, Section 362: \"Whoever by force compels, or by any deceitful means induces, any person to go from any place, is said to abduct that person.\"\n    *   The Penal Code, 1860, Section 124: Deals with President restraint.\n    *   The Penal Code, 1860, Section 350: Defines criminal force.\n    *   The Penal Code, 1860, Section 359: Discusses kidnapping types.\n\n3.  **Evaluate the Options:**\n    *   (A) Kidnapping: Section 359 talks about kidnapping, but Section 362 specifically defines abducting a person. While related, the specific legal definition in section 362 is \"abduction\".\n    *   (B) Abduction: Section 362 explicitly states that compelling a person to go from any place by force is called abduction.\n    *   (C) Wrongful restraint: Section 124 talks about the President, not general movement.\n    *   (D) Criminal force: Section 350 defines criminal force (using force for a specific purpose), but the specific act of moving someone from a place is defined as abduction.\n\n4.  **Confirm with Law:** The Penal Code, 1860, Section 362(1) clearly defines abduction. Therefore, (B) Abduction is correct.\n\n5.  **Formulate Output:** State the answer based on Section 362.\n\n6.  **Final Check:** Does The Penal Code, 1860, section 362 match the definition? Yes. Whoever by force compels a person to go from any place is said to abduct that person. Therefore, (B) Abduction is correct.\n\n7.  **Draft Response:** Under The Penal Code, 18",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.362",
+        "score": 28.666
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.181(4)",
+        "score": 27.725
+      },
+      {
+        "section": "The Penal Code, 1860 S.124",
+        "score": 25.918
+      },
+      {
+        "section": "The Penal Code, 1860 S.350",
+        "score": 25.256
+      },
+      {
+        "section": "The Penal Code, 1860 S.359",
+        "score": 25.055
+      }
+    ]
+  },
+  {
+    "question_no": "80",
+    "question_text": "Which of the following is NOT culpable homicide?",
+    "options": {
+      "A": "Death resulting from bodily injury",
+      "B": "Act done with intention of causing death",
+      "C": "Act done knowing death is likely",
+      "D": "Death of an unborn child"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Death of an unborn child",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a multiple-choice legal question based on The Penal Code, 1860, Section 300. I need to identify which option is NOT culpable homicide using the provided sections. I must answer using the retrieved law.\n\n2.  **Analyze the Law (The Penal Code, 1860, Section 300):**\n    *   The Penal Code, 1860, Section 300, Subsection (1) defines culpable homicide as murder if the death is caused by an act done with:\n        *   Intention to cause death.\n        *   Intention to cause injury known to be likely to cause death.\n        *   Intention to cause injury that is sufficient to cause death in ordinary nature.\n        *   Knowing the act is so dangerous it must cause death (in all probability).\n    *   Section 300, Subsection (2) states culpable homicide is murder if the death is caused with the knowledge that it is likely to cause death.\n    *   The Penal Code, 1860, Section 299 confirms culpable homicide requires a mental state (intention or knowledge).\n    *   The Penal Code, 1860, Section 304 deals with punishment for non-murderous culpable homicide.\n    *   **Crucial Exception:** The Penal Code, 1860, Section 316 provides a specific exception. Whoever causes the death of an unborn child by doing an act that would be culpable homicide is punished with imprisonment. This implies it is treated as culpable homicide but excludes the death of a quick unborn child in the context of the definition of murder (Section 299/300). Wait, Section 316 says \"Whoever does any act under such circumstances... and does by such act cause the death of a quick unborn child, shall be punished with imprisonment...\" It doesn't say it is *not* culpable homicide. It implies it *is*. However, I need to find what is NOT culpable homicide.\n\n3.  **Evaluate the Options:**\n    *   (A) Death resulting from bodily injury: Section 300, Subsection (1), Clause Fourthly, states that if an act is dangerous enough that it must cause death in",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.300",
+        "score": 92.898
+      },
+      {
+        "section": "The Penal Code, 1860 S.299",
+        "score": 90.253
+      },
+      {
+        "section": "The Penal Code, 1860 S.304",
+        "score": 90.178
+      },
+      {
+        "section": "The Penal Code, 1860 S.301",
+        "score": 66.429
+      },
+      {
+        "section": "The Penal Code, 1860 S.316",
+        "score": 61.705
+      }
+    ]
+  },
+  {
+    "question_no": "81",
+    "question_text": "Under the Penal Code, 1860, sedition is _________.",
+    "options": {
+      "A": "Contempt towards the President",
+      "B": "Hatred or contempt towards the Government",
+      "C": "Conspiracy against the State",
+      "D": "Contempt towards the State"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Hatred or contempt towards the Government",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 124A, sedition is defined as bringing or attempting to bring into hatred or contempt the Government established by law. Therefore, (B) Hatred or contempt towards the Government is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.124A",
+        "score": 64.504
+      },
+      {
+        "section": "The Evidence Act, 1872 S.14",
+        "score": 51.818
+      },
+      {
+        "section": "The Penal Code, 1860 S.309",
+        "score": 41.357
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.84",
+        "score": 38.46
+      },
+      {
+        "section": "The Penal Code, 1860 S.511",
+        "score": 37.918
+      }
+    ]
+  },
+  {
+    "question_no": "82",
+    "question_text": "In which section of the Penal Code, 1860 is the punishment for criminal intimidation found?",
+    "options": {
+      "A": "427",
+      "B": "326",
+      "C": "307",
+      "D": "506"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 506",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the section number in The Penal Code, 1860 where criminal intimidation is punished. I need to select from the given options (A, B, C, D) and use the provided law sections to support the answer.\n\n2.  **Scan Provided Law Sections:**\n    *   Section 507: Discusses anonymous communication of threats (cognizance of criminal intimidation by this method).\n    *   Section 109: Discusses abetment.\n    *   Section 72: Discusses punishment for doubtful cases involving multiple offenses.\n    *   Section 307, 326, 506 are not in the provided text list. Wait, I need to check The Penal Code, 1860 sections. The prompt provides specific sections: [The Penal Code, 1860, Section 507], [The Code of Criminal Procedure, 1898, Section 190], [The Penal Code, 1860, Section 72], [The Penal Code, 1860, Section 109], [The Code of Criminal Procedure, 1898, Section 195(c)].\n    *   Wait, I need to recall or search for the Penal Code, 1860 section on criminal intimidation. The prompt asks me to use the provided law sections. However, section 507 is about anonymous communication, but section 506 is usually about malicious injury. Section 326 is about defamation (under Penal Code, 1860). Section 307 is not there.\n    *   Actually, The Penal Code, 1860, Section 506 is about criminal intimidation by anonymous communication? No, Section 506 is about malicious injury to the person. Section 326 is defamation. Wait, I need to be careful. The Penal Code, 1860, section 507 specifically mentions criminal intimidation.\n    *   Let's re-read The Penal Code, 1860, Section 507. It says: \"Whoever commits the offence of criminal intimidation by an anonymous communication...\". This is about the method of intimidation.\n    *   Is there a section for general criminal intimidation?",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.507",
+        "score": 29.55
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 28.767
+      },
+      {
+        "section": "The Penal Code, 1860 S.72",
+        "score": 26.957
+      },
+      {
+        "section": "The Penal Code, 1860 S.109",
+        "score": 26.535
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 26.429
+      }
+    ]
+  },
+  {
+    "question_no": "83",
+    "question_text": "Under section 97 of the Penal Code, 1860, for which offence does a person have the right to defend property?",
+    "options": {
+      "A": "Cheating",
+      "B": "Misappropriation",
+      "C": "Theft",
+      "D": "Criminal breach of trust"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Theft",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 97, a person has the right to defend their own property against theft. The law specifically lists theft as an offence for which private defense is permitted, alongside robbery, mischief, and criminal trespass. Therefore, (C) Theft is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.97",
+        "score": 52.933
+      },
+      {
+        "section": "The Penal Code, 1860 S.410",
+        "score": 48.514
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.181(2)",
+        "score": 46.823
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.222",
+        "score": 39.424
+      },
+      {
+        "section": "The Penal Code, 1860 S.104",
+        "score": 38.269
+      }
+    ]
+  },
+  {
+    "question_no": "84",
+    "question_text": "Which section of the Penal Code, 1860 deals with dishonestly retaining property knowing it to be stolen?",
+    "options": {
+      "A": "410",
+      "B": "411",
+      "C": "380",
+      "D": "379"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 411",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 411 addresses the crime of dishonestly receiving or retaining stolen property. Whoever retains stolen goods with knowledge that they are stolen is punishable by up to three years in prison, a fine, or both. Therefore, (B) 411 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Penal Code, 1860 S.411",
+        "score": 44.935
+      },
+      {
+        "section": "The Penal Code, 1860 S.410",
+        "score": 33.021
+      },
+      {
+        "section": "The Penal Code, 1860 S.413",
+        "score": 32.275
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.181(3)",
+        "score": 31.069
+      },
+      {
+        "section": "The Penal Code, 1860 S.412",
+        "score": 29.71
+      }
+    ]
+  },
+  {
+    "question_no": "85",
+    "question_text": "According to the Penal Code, 1860, how many types of kidnapping are there?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 2",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Under The Penal Code, 1860, section 359, kidnapping is classified into two distinct types: kidnapping from Bangladesh and kidnapping from lawful guardianship. Therefore, (B) 2 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 24.087
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.5(2)",
+        "score": 22.812
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.181(4)",
+        "score": 22.569
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.5",
+        "score": 22.308
+      },
+      {
+        "section": "The Penal Code, 1860 S.359",
+        "score": 21.544
+      }
+    ]
+  },
+  {
+    "question_no": "86",
+    "question_text": "'A lawyer who performed any work while holding a public office cannot engage in the same matter after retirement.' — This reflects a lawyer's duty of conduct towards whom?",
+    "options": {
+      "A": "Court",
+      "B": "Other lawyers",
+      "C": "Client",
+      "D": "Public"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Public",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Role: Bangladeshi legal assistant.\n    *   Task: Answer a legal question using provided law sections.\n    *   Constraint: Use The Code of Criminal Procedure, 1898, Section 197 (implied context from previous similar tasks, though the prompt doesn't explicitly state this section, it is in the provided text). Wait, I need to check which section discusses the duty of a lawyer.\n    *   Input Law: The Code of Criminal Procedure, 1898, Section 197 - No, wait, that section is about public officials accused of offences. The Penal Code, 1860, Section 21 defines public servants. There isn't a specific section in the provided text that discusses lawyers' duties of conduct towards clients.\n    *   Wait, I need to check if there's any relevant section in The Code of Criminal Procedure, 1898, Part III, Section 80? No.\n    *   Let's re-read the prompt's instruction: \"Answer the legal question using the provided law sections.\"\n    *   The prompt asks about a lawyer's duty of conduct (implied from The Code of Conduct of Advocates). However, the provided text only includes The Code of Criminal Procedure, 1898, Section 197, Penal Code, Section 21, and Part III, Section 80.\n    *   Wait, I must look closely at the provided text again.\n    *   Text: [The Code of Criminal Procedure, 1898, Section 197] - About Judges/Magistrates accused.\n    *   Text: [The Penal Code, 1860, Section 21] - Defines public servant.\n    *   Text: [The Code of Criminal Procedure, 1898, Section 40] - Transfer of duties.\n    *   Text: [The Code of Criminal Procedure, 1898, Section 176] - Inquiry into death.\n    *   There is no section in the provided text about The Code of Conduct of Advocates or lawyer's duty of conduct towards clients after retirement.\n    *   Wait, is this a trick? Or did I miss something?\n    *   Let me search my internal knowledge for \"The",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.197",
+        "score": 35.571
+      },
+      {
+        "section": "The Penal Code, 1860 S.21",
+        "score": 33.381
+      },
+      {
+        "section": "PART III: INCIDENTAL PROCEEDINGS S.80",
+        "score": 31.844
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.40",
+        "score": 31.758
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.176",
+        "score": 31.688
+      }
+    ]
+  },
+  {
+    "question_no": "87",
+    "question_text": "Which Article of the Bangladesh Legal Practitioners and Bar Council Order, 1972 is 'anti-gender discrimination'?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "27",
+      "D": "28"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 28",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "<think>\nThe user is asking for the specific Article of The Legal Practitioners and Bar Council Order, 1972 that addresses anti-gender discrimination. I need to recall or infer which section of this order contains this provision based on general legal knowledge about Bangladesh's legal codes.\n\nUnder The Legal Practitioners and Bar Council Order, 1972, section 32, Clause (c), Subsection (2), the Bar Council is empowered to pass orders against any practice or custom that is discriminatory based on gender. This provision specifically prohibits discrimination in legal matters. Therefore, (B) 32 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "Code of Civil Procedure, 1908 S.32",
+        "score": 22.415
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 22.151
+      },
+      {
+        "section": "Code of Civil Procedure, 1908 S.31",
+        "score": 21.513
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 21.223
+      },
+      {
+        "section": "The Penal Code, 1860 S.30",
+        "score": 20.861
+      }
+    ]
+  },
+  {
+    "question_no": "88",
+    "question_text": "Who nominates the Chairman of the 'Enrolment Committee'?",
+    "options": {
+      "A": "Government",
+      "B": "President",
+      "C": "Chief Justice",
+      "D": "Prime Minister"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Chief Justice",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a specific legal question about the nomination of the Chairman of the 'Enrolment Committee' under The Code of Criminal Procedure, 1898. The answer must be derived from the provided sections.\n\n2.  **Scan Provided Sections:** I need to look through The Code of Criminal Procedure, 1898, Section 180 (Wait, section numbers are not provided in the prompt text, but the user mentioned The Code of Criminal Procedure, 1898, Section 190).\n    *   Wait, the prompt includes The Code of Criminal Procedure, 1898, Section 190. This section is about Magistrates and cognizance of offences. It doesn't mention the Enrolment Committee.\n    *   There is no section in the provided text explicitly about the Enrolment Committee. However, I must rely on general knowledge or check if there's a missing section in the provided text that I should know? No, the instruction says \"Retrieved Sections\". This implies I must use the provided law sections.\n    *   Wait, looking at The Code of Criminal Procedure, 1898, Section 190. It talks about magistrates and cognizance. It doesn't mention the Enrolment Committee.\n    *   There is a missing section in the prompt text? The Code of Criminal Procedure, 1898, Section 180 deals with Magistrates. Section 190 deals with cognizance.\n    *   Wait, I need to check if there's a section about the Enrolment Committee. Under The Code of Criminal Procedure, 1898, Section 180, Subsection (2), Clause (a) or Clause (b) - this is for criminal cognizance.\n    *   Actually, under The Code of Criminal Procedure, 1898, Section 190, Subsection (2), Clause (a) or Clause (b) - this is for criminal cognizance.\n    *   There is no section in the provided text about the Enrolment Committee. This is a trick. The Code of Criminal Procedure, 1898, Section 190 is about Magistrates and cognizance.\n    *   However, I must search for the Enrolment Committee definition",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 29.539
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.11",
+        "score": 23.911
+      },
+      {
+        "section": "The Penal Code, 1860 S.124",
+        "score": 23.552
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.402A",
+        "score": 21.837
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.18",
+        "score": 21.503
+      }
+    ]
+  },
+  {
+    "question_no": "89",
+    "question_text": "If a lawyer becomes a witness on non-formal matters in a case for his client, the lawyer shall ___________ the case.",
+    "options": {
+      "A": "Retain but not testify",
+      "B": "Withdraw but testify",
+      "C": "Retain and testify",
+      "D": "Transfer the conduct to another lawyer"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Transfer the conduct to another lawyer",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 339C, Subsection (2), a lawyer who is a witness on non-formal matters in a case for his client must withdraw from the case. Therefore, (B) Withdraw but testify is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.339C",
+        "score": 37.404
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.172",
+        "score": 36.696
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.195(c)",
+        "score": 36.189
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.248",
+        "score": 35.959
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.157",
+        "score": 35.609
+      }
+    ]
+  },
+  {
+    "question_no": "90",
+    "question_text": "What is the primary duty of a Public Prosecutor?",
+    "options": {
+      "A": "Suppressing facts favourable to the accused",
+      "B": "Always ensuring victory for the state",
+      "C": "Ensuring justice",
+      "D": "Securing conviction of the accused"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Ensuring justice",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under The Code of Criminal Procedure, 1898, section 265B, the Public Prosecutor's primary duty is to present evidence and describe the charge brought against the accused. While their role is to prove guilt based on the law, this duty is strictly limited to what is supported by legal evidence. Therefore, (C) Ensuring justice is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265B",
+        "score": 45.29
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.417A",
+        "score": 42.328
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.367(3)",
+        "score": 40.196
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.232",
+        "score": 38.533
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.265L",
+        "score": 38.327
+      }
+    ]
+  },
+  {
+    "question_no": "91",
+    "question_text": "The provision regarding 'legal disability' in the Limitation Act, 1908 does not apply to which type of suit?",
+    "options": {
+      "A": "Declaration of title",
+      "B": "Pre-emption",
+      "C": "Partition",
+      "D": "Recovery of possession"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Pre-emption",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "<think>\nThe user is asking about The Limitation Act, 1908, Section 17. This section specifically addresses legal disability and how it affects the computation of limitation periods for different types of suits. It excludes certain categories of suits from this general rule.\n\nSection 17, Subsection (2) of The Limitation Act, 1908, explicitly states: \"Nothing in sub-sections (1) and (2) applied to suits to enforce rights of pre-emption or to suits for the possession of immoveable property or of an hereditary office.\"\n\nLet's check the options:\n(A) Declaration of title - Not excluded by Section 17.\n(B) Pre-emption - The section excludes this.\n(C) Partition - Partition is covered in Section 6, but section 17 does not exclude it from the general disability rule (though it mentions possession of hereditary office).\n(D) Recovery of possession - Section 17 excludes suits for possession of immovable property.\n\nSection 17, Subsection (2) specifically states that nothing applied to suits for pre-emption or possession of immoveable property or hereditary office. Therefore, (B) Pre-emption is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 51.09
+      },
+      {
+        "section": "The Limitation Act, 1908 S.17",
+        "score": 47.289
+      },
+      {
+        "section": "The Limitation Act, 1908 S.6",
+        "score": 42.177
+      },
+      {
+        "section": "The Limitation Act, 1908 S.29",
+        "score": 41.516
+      },
+      {
+        "section": "The Limitation Act, 1908 S.24",
+        "score": 39.278
+      }
+    ]
+  },
+  {
+    "question_no": "92",
+    "question_text": "The limitation for a suit for cancellation of a document is described in which Article of the First Schedule of the Limitation Act, 1908?",
+    "options": {
+      "A": "51",
+      "B": "120",
+      "C": "91",
+      "D": "113"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 91",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Under The Limitation Act, 1908, Schedule I, Article 51, a suit for the cancellation of a document (cancellation of a registered instrument) must be filed within six years. This is a standard limitation period for such legal actions. Therefore, (A) is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.29",
+        "score": 49.387
+      },
+      {
+        "section": "The Limitation Act, 1908 S.3",
+        "score": 47.646
+      },
+      {
+        "section": "The Limitation Act, 1908 S.14",
+        "score": 47.182
+      },
+      {
+        "section": "The Limitation Act, 1908 S.24",
+        "score": 46.575
+      },
+      {
+        "section": "The Limitation Act, 1908 S.15",
+        "score": 46.228
+      }
+    ]
+  },
+  {
+    "question_no": "93",
+    "question_text": "Which section of the Limitation Act, 1908 contains the provision for computing the time mentioned in an instrument?",
+    "options": {
+      "A": "25",
+      "B": "24",
+      "C": "23",
+      "D": "26"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 25",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Limitation Act, 1908, section 23, the time mentioned in an instrument is computed by excluding the day of the transaction and counting forward. Therefore, (C) 23 is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.29",
+        "score": 42.244
+      },
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 41.651
+      },
+      {
+        "section": "The Limitation Act, 1908 S.24",
+        "score": 41.364
+      },
+      {
+        "section": "The Limitation Act, 1908 S.13",
+        "score": 39.436
+      },
+      {
+        "section": "The Limitation Act, 1908 S.16",
+        "score": 39.392
+      }
+    ]
+  },
+  {
+    "question_no": "94",
+    "question_text": "X, aged 14, acquires the right to sue for enforcement of a contract in 2014. X's limitation period will expire in the year __________.",
+    "options": {
+      "A": "2019",
+      "B": "2017",
+      "C": "2018",
+      "D": "2015"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 2019",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking a legal question about limitation periods under The Limitation Act, 1908, Section 23, specifically for a minor (under 18). I need to select the correct year from the options provided. I must use the provided law sections to answer.\n\n2.  **Identify Relevant Law:** The Limitation Act, 1908, Section 23.\n\n3.  **Read Section 23:** \"In the case of a continuing breach of contract and in the case of a continuing wrong independent of contract, a fresh period of limitation begins to run at every moment of the time during which the breach or the wrong, as the case may be, continues.\"\n    *   This section is about continuing breaches. It's not the one for simple contractual rights unless the breach is ongoing. However, usually, specific performance rights are treated differently in The Limitation Act. Let me check The Limitation Act, 1908, Section 23 again. Actually, looking at The Limitation Act, 1908, Section 23, it specifically deals with continuing breaches.\n    *   Wait, I need to find the section regarding a right to sue for enforcement. Is there a specific section about \"right to sue\"?\n    *   Let's check The Limitation Act, 1908, Section 17 or similar. No.\n    *   Let's look at The Limitation Act, 1908, Section 23 again. It says a fresh period begins for every moment of the time during which the breach continues. This is for continuing wrongs.\n    *   Wait, I need to check if there is a section about \"rights to sue\". There is The Limitation Act, 1908, Section 23, Subsection (1).\n    *   Actually, I might be misremembering or there is a specific rule for minors. Let me search my internal knowledge base for The Limitation Act, 1908, Section 23.\n    *   Wait, the prompt says \"In the case of a continuing breach...\".\n    *   Let's look at The Limitation Act, 1908, Section 23, Subsection (1). It states that for a continuing breach, a fresh period begins for every moment",
+    "retrieved_sections": [
+      {
+        "section": "The specific Relief Act, 1877 S.29",
+        "score": 37.579
+      },
+      {
+        "section": "The Limitation Act, 1908 S.23",
+        "score": 31.936
+      },
+      {
+        "section": "The Limitation Act, 1908 S.11",
+        "score": 30.289
+      },
+      {
+        "section": "The Limitation Act, 1908 S.29",
+        "score": 29.597
+      },
+      {
+        "section": "The Limitation Act, 1908 S.17",
+        "score": 29.218
+      }
+    ]
+  },
+  {
+    "question_no": "95",
+    "question_text": "What is the limitation period for filing a suit for declaration of title?",
+    "options": {
+      "A": "3 years",
+      "B": "6 years",
+      "C": "1 year",
+      "D": "12 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 6 years",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Under The Limitation Act, 1908, section 26, Clause (1), a suit for declaration of title must be filed within two years after the twenty-year period of peaceful enjoyment of an easement. Therefore, (A) 3 years is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.26",
+        "score": 34.841
+      },
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 32.851
+      },
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 31.316
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 29.315
+      },
+      {
+        "section": "The Limitation Act, 1908 S.6",
+        "score": 29.017
+      }
+    ]
+  },
+  {
+    "question_no": "96",
+    "question_text": "What is the limitation period for a suit for damages due to malicious prosecution?",
+    "options": {
+      "A": "6 years",
+      "B": "1 year",
+      "C": "12 years",
+      "D": "3 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 1 year",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under The Limitation Act, 1908, section 8, Subsection (2), a suit for malicious prosecution must be instituted within three years. This period is calculated from the date the disability or death of the person affected thereby ceases. Therefore, (D) 3 years is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 30.518
+      },
+      {
+        "section": "The Limitation Act, 1908 S.26",
+        "score": 29.003
+      },
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 28.729
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 26.811
+      },
+      {
+        "section": "The Limitation Act, 1908 S.6",
+        "score": 26.628
+      }
+    ]
+  },
+  {
+    "question_no": "97",
+    "question_text": "What is the limitation period for filing an application to restore an appeal dismissed for non-prosecution?",
+    "options": {
+      "A": "30 days",
+      "B": "7 days",
+      "C": "60 days",
+      "D": "20 days"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 30 days",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the limitation period to file an application to restore an appeal dismissed for non-prosecution, based on The Code of Criminal Procedure, 1898, Section 442A. The options are (A) 30 days, (B) 7 days, (C) 60 days, (D) 20 days. I need to retrieve The Code of Criminal Procedure, 1898, section 442A and provide the correct answer.\n\n2.  **Retrieve Relevant Law:** I need to look up The Code of Criminal Procedure, 1898, Section 442A.\n    *   Section 442A, Clause (3) states that no appeal shall lie against an order of acquittal after sixty days from the date of the order. Wait, this is about acquittal. The user's question is specifically about restoring an appeal dismissed for non-prosecution.\n    *   Let's check The Code of Criminal Procedure, 1898, Section 442A, Clause (3). It says: \"An appeal against an order of acquittal... after the expiry of sixty days...\" This doesn't match the question.\n    *   Wait, is there a section 442A about restoration? Let me recall The Code of Criminal Procedure, 1898, Section 442A. Actually, Section 442A is about appeal against acquittal. There isn't a restoration clause in 442A for non-prosecution. However, the question specifically asks about The Code of Criminal Procedure, 1898, section 442A. Let me re-read the prompt.\n    *   Prompt says: \"The Code of Criminal Procedure, 1898, Section 442A - An Appellate Court shall dispose of an appeal filed before it within ninety days from the date of service of notice upon respondents.\" This is about the time limit for filing an appeal, not restoration.\n    *   Wait, I might be misinterpreting the section. Let me search my internal knowledge base for The Code of Criminal Procedure, 1898, Section 442A regarding restoration of non-prosecution appeal.\n    *   Actually, there is a section 442A in The",
+    "retrieved_sections": [
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.442A",
+        "score": 44.196
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.344",
+        "score": 38.298
+      },
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 38.1
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.417",
+        "score": 33.311
+      },
+      {
+        "section": "The Limitation Act, 1908 S.3",
+        "score": 32.57
+      }
+    ]
+  },
+  {
+    "question_no": "98",
+    "question_text": "What is the limitation period for a suit to set aside a fraudulent decree?",
+    "options": {
+      "A": "12 years",
+      "B": "3 years",
+      "C": "1 year",
+      "D": "6 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 3 years",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the limitation period to set aside a fraudulent decree, citing specific sections of The Limitation Act, 1908. I need to select the correct option from (A), (B), (C), or (D).\n\n2.  **Scan the Provided Sections:**\n    *   Section 16: Deals with execution sale proceedings.\n    *   Section 12: Deals with computing limitation periods for various legal actions, including appeals and applications where a decree is involved. It mentions excluding days from judgments/decrees.\n    *   Section 3: General dismissal of suits late.\n    *   Section 8: Pre-emption and disability issues.\n    *   Section 6: Minor/Insane individuals.\n\n3.  **Identify the Relevant Law:** The Limitation Act, 1908, Section 12, Subsection (1) seems relevant. However, looking at the general interpretation of limitation for setting aside a decree, there's a specific section about fraud or fraudulent decrees. Let me check The Limitation Act, 1908, Section 16 again... wait, Section 16 is about exclusion in execution sales.\n\n    Actually, I need to check The Limitation Act, 1908, Section 12, Subsection (1). Wait, the prompt only gives me these sections. Let me re-read Section 12 carefully. \"In computing the period of limitation prescribed for any suit...\". It doesn't explicitly state fraud in the text provided.\n\n    Wait, The Limitation Act, 1908, Section 16 states that proceedings to set aside a sale are excluded. But is there a specific section for *fraud*? The Limitation Act, 1908, Section 34 is about fraud in the execution of a decree. But that's not in the provided list.\n\n    Let me check The Limitation Act, 1908, Section 12, Subsection (1). It says \"In computing the period of limitation prescribed for any suit...\". This is general.\n    Is there another section? The Limitation Act, 1908, Section 34: Where a person institutes a suit to set aside a decree by reason of fraud in its formation or execution... the limitation shall be 1",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.16",
+        "score": 41.109
+      },
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 39.513
+      },
+      {
+        "section": "The Limitation Act, 1908 S.3",
+        "score": 31.714
+      },
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 29.511
+      },
+      {
+        "section": "The Limitation Act, 1908 S.6",
+        "score": 28.772
+      }
+    ]
+  },
+  {
+    "question_no": "99",
+    "question_text": "What is the limitation period for a suit to recover a lawyer's fees in any case?",
+    "options": {
+      "A": "6 years",
+      "B": "12 years",
+      "C": "3 years",
+      "D": "1 year"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 6 years",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Under The Limitation Act, 1908, section 8, Subsection (2), a suit to recover lawyer's fees must be instituted within three years from the cessation of the disability or death. Therefore, (C) 3 years is correct.",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 31.292
+      },
+      {
+        "section": "The Limitation Act, 1908 S.26",
+        "score": 29.279
+      },
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 29.24
+      },
+      {
+        "section": "The Code of Criminal Procedure, 1898 S.190",
+        "score": 28.136
+      },
+      {
+        "section": "The Limitation Act, 1908 S.6",
+        "score": 27.925
+      }
+    ]
+  },
+  {
+    "question_no": "100",
+    "question_text": "What is the limitation period for a suit for relief on the ground of mistake?",
+    "options": {
+      "A": "1 year",
+      "B": "12 years",
+      "C": "6 years",
+      "D": "3 years"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 3 years",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "<think>\nThinking Process:\n\n1.  **Analyze the Request:** The user is asking for the limitation period for a suit based on the ground of mistake, citing specific sections of The Limitation Act, 1908. The options are (A) 1 year, (B) 12 years, (C) 6 years, (D) 3 years.\n\n2.  **Identify Relevant Law:** The Limitation Act, 1908, Section 26 is not relevant here. I need to look for the section on mistake. Actually, The Limitation Act, 1908, Section 8 applies to pre-emption and disability. Wait, I recall The Limitation Act, 1908, Section 4 deals with specific contexts. Let me search my internal knowledge about The Limitation Act, 1908, Section 26. Wait, the user provided Section 26 in the prompt but I need to check for Section 26 regarding mistake. Actually, The Limitation Act, 1908, Section 26 is about land rights and watercourses. That doesn't seem right for a general suit for relief on mistake.\n\nWait, I must rely *only* on the provided sections. Let me re-read the provided text carefully.\nThe Limitation Act, 1908, Section 12: General computation of periods.\nThe Limitation Act, 1908, Section 4: Suit expiration day.\nThe Limitation Act, 1908, Section 8: Pre-emption and disability.\nThe Limitation Act, 1908, Section 26: Easement rights.\n\nWait, The Limitation Act, 1908, Section 26 is about land and watercourses. The Limitation Act, 1908, Section 26, Subsection (1) says \"twenty years\". Subsection (2) is not provided but I need to check Section 26 regarding mistake. Actually, The Limitation Act, 1908, Section 26 is about easements. Wait, there is no section for mistake in the provided text? This is a trick or I am missing something. Let me re-read the prompt sections again.\n\nThe Limitation Act, 1908, Section 26 - Where the access and use of light",
+    "retrieved_sections": [
+      {
+        "section": "The Limitation Act, 1908 S.12",
+        "score": 37.28
+      },
+      {
+        "section": "The Limitation Act, 1908 S.8",
+        "score": 36.245
+      },
+      {
+        "section": "The Limitation Act, 1908 S.26",
+        "score": 34.857
+      },
+      {
+        "section": "The Limitation Act, 1908 S.4",
+        "score": 34.063
+      },
+      {
+        "section": "The Limitation Act, 1908 S.15",
+        "score": 33.431
+      }
+    ]
+  }
+]

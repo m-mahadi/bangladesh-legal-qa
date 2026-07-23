@@ -1,0 +1,1502 @@
+[
+  {
+    "question_no": "1",
+    "question_text": "If the accused pleads guilty, the punishment shall be ______.",
+    "options": {
+      "A": "Equal to the maximum punishment",
+      "B": "One-fourth of the maximum punishment",
+      "C": "Half of the maximum punishment",
+      "D": "At the discretion of the Court"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) At the discretion of the Court",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Answer: (C) Half of the maximum punishment"
+  },
+  {
+    "question_no": "2",
+    "question_text": "Under which section of the Code of Criminal Procedure, 1898 can a Magistrate personally arrest a person?",
+    "options": {
+      "A": "63",
+      "B": "66",
+      "C": "54",
+      "D": "65"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 65",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Section 63 of the Code of Criminal Procedure (CrPC) 1898 specifically empowers a Magistrate to arrest a person personally in certain situations, such as when the person is suspected of having committed a cognizable offence and there are no other sufficient grounds for arrest.\nAnswer: (A) 63"
+  },
+  {
+    "question_no": "3",
+    "question_text": "A charge framed by the Court shall be written in the ________ language.",
+    "options": {
+      "A": "Accused's",
+      "B": "Local",
+      "C": "Bangla",
+      "D": "Court's"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Court's",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Answer: (B) Local"
+  },
+  {
+    "question_no": "4",
+    "question_text": "How many classes of Judges shall there be in each Sessions Division?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "3",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 3",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "According to the Code of Criminal Procedure (Section 15), there shall be three classes of judges in each Sessions Division. Answer: (C) 3"
+  },
+  {
+    "question_no": "5",
+    "question_text": "When a police officer arrests a person by warrant, the person must be produced before the Court ________.",
+    "options": {
+      "A": "Without unnecessary delay",
+      "B": "Within 24 hours",
+      "C": "As soon as possible",
+      "D": "Within 48 hours"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Without unnecessary delay",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) Without unnecessary delay"
+  },
+  {
+    "question_no": "6",
+    "question_text": "If the Government confers special powers, what is the maximum term of imprisonment a Metropolitan Magistrate can impose?",
+    "options": {
+      "A": "7 years",
+      "B": "Any",
+      "C": "10 years",
+      "D": "14 years"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 7 years",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under the Code of Criminal Procedure (CrPC) in Bangladesh, a Metropolitan Magistrate has the jurisdiction to try offences punishable with imprisonment up to 10 years. When special powers are conferred by the Government, this limit can be extended. Specifically, under Section 452 of the CrPC, 1973, if the Government confers special powers, a Metropolitan Magistrate may impose a sentence of imprisonment for a term not exceeding 10 years (Option C), or in specific contexts involving special tribunals or enhanced powers under newer amendments or specific acts, it can go higher. However, the standard statutory limit without specific enhancement is 10 years. But checking Section 452 specifically, it states that if the Government confers special powers, a Metropolitan Magistrate may try cases punishable with imprisonment up to 14 years.\n\nAnswer: (D) 14 years"
+  },
+  {
+    "question_no": "7",
+    "question_text": "Which of the following is NOT a power of an appellate court in a criminal appeal?",
+    "options": {
+      "A": "Judicial inquiry",
+      "B": "Taking evidence",
+      "C": "Disposing of the appeal",
+      "D": "Enhancement of sentence"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Judicial inquiry",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "The power of judicial inquiry, taking evidence, and disposing of the appeal are generally granted to appellate courts. However, the power to enhance the sentence is specifically restricted in criminal appeals under the Code of Criminal Procedure, 1898 (as amended).\n\nAnswer: (D) Enhancement of sentence"
+  },
+  {
+    "question_no": "8",
+    "question_text": "Which of the following shall NOT be mentioned in the written directions of a warrant?",
+    "options": {
+      "A": "Quantum of punishment for the offence",
+      "B": "Date of appearance before the Court",
+      "C": "Number of sureties",
+      "D": "Financial liability of the surety"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Quantum of punishment for the offence",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": ""
+  },
+  {
+    "question_no": "9",
+    "question_text": "Death may be caused in arresting a person if he is accused of an offence punishable with ________ imprisonment.",
+    "options": {
+      "A": "Any",
+      "B": "Life",
+      "C": "7 years",
+      "D": "10 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Life",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Answer: (C) 7 years"
+  },
+  {
+    "question_no": "10",
+    "question_text": "Who can conduct a 'Local Inquiry' under the Code of Criminal Procedure, 1898?",
+    "options": {
+      "A": "Executive Magistrate",
+      "B": "Judicial Magistrate",
+      "C": "Advocate Commissioner",
+      "D": "Metropolitan Magistrate"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Executive Magistrate",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Section 207 of the Code of Criminal Procedure (CrPC), 1898, stipulates that a Local Inquiry may be conducted by an Executive Magistrate who is not a Metropolitan Magistrate."
+  },
+  {
+    "question_no": "11",
+    "question_text": "After framing of charge against the accused, what is NOT done?",
+    "options": {
+      "A": "Reading out the charge",
+      "B": "Asking whether the accused pleads guilty",
+      "C": "Asking the accused about defence evidence",
+      "D": "Explaining the charge"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Asking the accused about defence evidence",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": ""
+  },
+  {
+    "question_no": "12",
+    "question_text": "Which section of the Penal Code, 1860 cannot be tried summarily?",
+    "options": {
+      "A": "426",
+      "B": "406",
+      "C": "323",
+      "D": "326"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 326",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Section 426 (Robbery) of the Penal Code, 1860 cannot be tried summarily. It requires a trial in a court of ordinary jurisdiction as it is a serious offense involving violence and theft. Sections 323 (Voluntarily causing hurt), 326 (Voluntarily causing grievous hurt by dangerous weapons or means), and 406 (Criminal Breach of Trust) can be tried summarily under certain conditions.\n\nAnswer: (A) 426"
+  },
+  {
+    "question_no": "13",
+    "question_text": "Under section 145 of the Code of Criminal Procedure, 1898, if a party to the proceedings dies —",
+    "options": {
+      "A": "The proceedings are stayed",
+      "B": "The proceedings abate",
+      "C": "Representatives of the deceased may become parties",
+      "D": "The proceedings are filed"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Representatives of the deceased may become parties",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Section 145 of the Code of Criminal Procedure, 1898 (CrPC), relates to proceedings in respect of public nuisance. However, the question seems to be referring to Section 27 of CrPC which deals with the abatement of criminal proceedings due to death of a party, or potentially Section 356 regarding public nuisance cases where death does not automatically stop the suit but affects it.\n\nWait, actually looking at specific provisions regarding public nuisance under CrPC:\nSection 145 deals with prevention of breach of peace.\nHowever, if we look at general principles or specific sections like Section 27 (for suits and proceedings) or Section 356 (Public Nuisance). Let's re-evaluate based on standard legal questions regarding death of a party in criminal cases.\n\nActually, there is a specific judicial interpretation regarding Section 145 CrPC. In cases under Section 145 CrPC (Prevention of breach of peace), the death of a party does not abate the proceedings because it is a quasi-criminal or civil nature dispute over land or property that has already been determined or is likely to be determined. But wait, usually in criminal cases death abates.\n\nLet's check the specific phrasing \"Under section 145\".\nSection 145 CrPC: \"Provisions as to prevention of breach of peace.\"\nThere is a specific provision regarding death in this context? No, Section 145 itself doesn't have a clause about death.\nPerhaps the question refers to the effect of death in *civil* cases or a specific interpretation.\n\nLet's reconsider standard options for \"death of party\" in criminal proceedings.\nUnder general principles (Section 27 CrPC is not exactly right for death), Section 356 CrPC deals with Public Nuisance.\nHowever, if the question specifically asks about Section 145 CrPC:\nCase law often distinguishes between civil and criminal. If a party dies in a proceeding under Section 145 (which is criminal in nature regarding breach of peace), does it abate?\nActually, many sources suggest that proceedings under Section 145 CrPC do not abate on the death of a party because the dispute is about possession or prevention of breach of peace which can continue.\nBUT, standard rule: In criminal cases, death of an accused abates the proceedings (Section 302 IPC etc)."
+  },
+  {
+    "question_no": "14",
+    "question_text": "What is the maximum fine a Second Class Magistrate can impose (in Taka)?",
+    "options": {
+      "A": "10,000",
+      "B": "2,000",
+      "C": "7,000",
+      "D": "5,000"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 5,000",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) 5,000"
+  },
+  {
+    "question_no": "15",
+    "question_text": "If a case is settled through compromise, it shall be treated as the accused's ________.",
+    "options": {
+      "A": "Acquittal",
+      "B": "Discharge",
+      "C": "Release",
+      "D": "Exemption"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Acquittal",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Answer: (B) Discharge"
+  },
+  {
+    "question_no": "16",
+    "question_text": "Under which section of the Code of Criminal Procedure, 1898 are non-cognizable cases mentioned?",
+    "options": {
+      "A": "155",
+      "B": "154",
+      "C": "156",
+      "D": "151"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 155",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Answer: (B) Section 154 of the Code of Criminal Procedure, 1898 mentions non-cognizable cases"
+  },
+  {
+    "question_no": "17",
+    "question_text": "Under section 144 of the Code of Criminal Procedure, 1898, who may issue an order?",
+    "options": {
+      "A": "Justice of the Peace",
+      "B": "District Magistrate",
+      "C": "Chief Judicial Magistrate",
+      "D": "First Class Magistrate"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) District Magistrate",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Answer: (B) District Magistrate"
+  },
+  {
+    "question_no": "18",
+    "question_text": "Which of the following presented to a Magistrate is NOT included in a 'complaint'?",
+    "options": {
+      "A": "Naraji petition",
+      "B": "Written complaint",
+      "C": "Police officer's report",
+      "D": "Oral complaint"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Police officer's report",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Answer: (C) Police officer's report"
+  },
+  {
+    "question_no": "19",
+    "question_text": "Where must an appeal against a sentence imposed by a Second Class Magistrate be filed?",
+    "options": {
+      "A": "Chief Judicial Magistrate",
+      "B": "Sessions Judge",
+      "C": "Chief Metropolitan Magistrate",
+      "D": "High Court Division"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Chief Judicial Magistrate",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) Chief Judicial Magistrate"
+  },
+  {
+    "question_no": "20",
+    "question_text": "If the Public Prosecutor withdraws a case with the court's permission after framing of charge, the accused shall be entitled to ________.",
+    "options": {
+      "A": "Release",
+      "B": "Acquittal",
+      "C": "Discharge",
+      "D": "Exemption"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Acquittal",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Answer: (C) Discharge"
+  },
+  {
+    "question_no": "21",
+    "question_text": "X contracts to sell a cow to Y but refuses to perform. Y sues. The appropriate remedy for Y is ________.",
+    "options": {
+      "A": "Specific Performance",
+      "B": "Declaration",
+      "C": "Partial Performance",
+      "D": "Compensation"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Compensation",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) Compensation"
+  },
+  {
+    "question_no": "22",
+    "question_text": "Under which section of the Specific Relief Act, 1877 is an unregistered contract for sale of immovable property not specifically enforceable?",
+    "options": {
+      "A": "17",
+      "B": "12",
+      "C": "15",
+      "D": "21A"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 21A",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Section 17 of the Specific Relief Act, 1877, stipulates that an agreement in writing for the sale of immovable property is specifically enforceable only if it has been registered. If it is unregistered, it cannot be specifically enforced.\nAnswer: (A) 17"
+  },
+  {
+    "question_no": "23",
+    "question_text": "X sells land to Y, knowing that others have a right of way over it but concealing this from Y. What can Y do with the contract?",
+    "options": {
+      "A": "Cancel",
+      "B": "Suspend",
+      "C": "Rescind",
+      "D": "Modify"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Rescind",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "When a seller knowingly conceals a defect in the subject matter that affects the contract, such as failing to disclose a third-party right of way, the buyer is entitled to treat the contract as voidable. The appropriate legal remedy for the buyer in this scenario is to rescind the contract.\n\nAnswer: (C) Rescind"
+  },
+  {
+    "question_no": "24",
+    "question_text": "Which of the following is NOT correct in a suit brought under section 9 of the Specific Relief Act, 1877?",
+    "options": {
+      "A": "No suit can be filed against the government",
+      "B": "The plaintiff is barred from establishing title",
+      "C": "It relates to immovable property",
+      "D": "The plaintiff has been dispossessed"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) The plaintiff is barred from establishing title",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) No suit can be filed against the government"
+  },
+  {
+    "question_no": "25",
+    "question_text": "The concept that a contract is not specifically enforceable if it would cause 'Hardship' to the defendant is found in which section of the Specific Relief Act, 1877?",
+    "options": {
+      "A": "22",
+      "B": "15",
+      "C": "21",
+      "D": "14"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 22",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Section 21 of the Specific Relief Act, 1877 (Bengal), states that specific performance shall not be granted if it would cause \"hardship\" to the defendant. This section outlines the conditions under which equity will not enforce a contract specifically.\n\nAnswer: (C) 21"
+  },
+  {
+    "question_no": "26",
+    "question_text": "In which section of the Specific Relief Act, 1877 is 'Preventive relief' defined?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "56",
+      "D": "55"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 6",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": ""
+  },
+  {
+    "question_no": "27",
+    "question_text": "Specific performance of a contract is not enforceable where compensation for breach of contract is ________.",
+    "options": {
+      "A": "Not adequate",
+      "B": "Cannot be ascertained",
+      "C": "Cannot be obtained",
+      "D": "Adequate"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Adequate",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Specific performance is an equitable remedy available when monetary damages (compensation) are not sufficient to compensate the non-breaching party. Therefore, it is not enforced where adequate compensation can be obtained.\nAnswer: (D) Adequate"
+  },
+  {
+    "question_no": "28",
+    "question_text": "X is the lawful possessor of land over which residents of a neighbouring village claim a right of way. What is X's remedy?",
+    "options": {
+      "A": "Mandatory injunction",
+      "B": "Declaration",
+      "C": "Perpetual injunction",
+      "D": "Temporary injunction"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Declaration",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "When a lawful possessor is faced with a claim that does not involve an immediate threat or unlawful entry but rather a dispute over rights (like a right of way), the appropriate remedy is typically a declaration of title or right. An injunction would be used if there was an ongoing nuisance or unlawful encroachment. A declaration clarifies the legal status without stopping any specific act immediately, which suits a dispute where the possessor is already lawfully in possession but faces a claim.\n\nAnswer: (B) Declaration"
+  },
+  {
+    "question_no": "29",
+    "question_text": "Under section 12 of the Specific Relief Act, 1877, in how many circumstances is specific performance of a contract enforceable?",
+    "options": {
+      "A": "7",
+      "B": "5",
+      "C": "2",
+      "D": "4"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 4",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Section 12 of the Specific Relief Act, 1877, lists circumstances where specific performance is enforceable. It covers contracts for sale of immovable property, contracts for the sale or purchase of specific or ascertained movable property, and contracts for execution of documents. The act generally outlines these scenarios without explicitly enumerating a fixed number like 5, 4, 2, or 7 in its introductory text alone, but legal interpretation typically identifies three primary categories or more detailed sub-circumstances depending on the version of the Act (1877 vs 1963). However, under the specific wording of Section 12 of the 1877 Act regarding enforceable contracts, it is often taught that there are 5 distinct circumstances listed for specific performance in various legal textbooks and commentaries associated with this section. These typically include: (1) Contracts for sale of immovable property, (2) Contracts for sale or purchase of specific or ascertained movable property, (3) Contracts for execution of documents, (4) Contracts for delivery of goods, and (5) Contracts for the transfer of shares. While the exact count can vary based on interpretation, standard legal examination questions regarding this section in Bangladesh often cite 5 circumstances.\n\nAnswer: (B) 5"
+  },
+  {
+    "question_no": "30",
+    "question_text": "X contracts to serve as an apprentice lawyer under Y for 2 years. Specific performance of the contract is ________.",
+    "options": {
+      "A": "Not enforceable",
+      "B": "Conditionally enforceable",
+      "C": "Enforceable",
+      "D": "Partially enforceable"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Not enforceable",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) Not enforceable"
+  },
+  {
+    "question_no": "31",
+    "question_text": "If the total area of the plaintiff's land is incorrectly recorded in the decree, under which section of the Code of Civil Procedure, 1908 is there a remedy?",
+    "options": {
+      "A": "152",
+      "B": "151",
+      "C": "154",
+      "D": "153"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 152",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) 152"
+  },
+  {
+    "question_no": "32",
+    "question_text": "The provision regarding 'leave for revision' is mentioned in which section of the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "112",
+      "B": "114",
+      "C": "113",
+      "D": "115"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 115",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) 112"
+  },
+  {
+    "question_no": "33",
+    "question_text": "Who can file a suit in the case of a public nuisance?",
+    "options": {
+      "A": "Government Pleader",
+      "B": "Aggrieved person",
+      "C": "Attorney General",
+      "D": "Any aggrieved person"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Attorney General",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "A suit for public nuisance can be instituted by the Attorney General or a State Pleader on behalf of the State, and also by any person who has been aggrieved by such nuisance.\nAnswer: (D) Any aggrieved person"
+  },
+  {
+    "question_no": "34",
+    "question_text": "An application for 'discovery by interrogatories' must be filed within _______ days of framing of issues.",
+    "options": {
+      "A": "7",
+      "B": "10",
+      "C": "15",
+      "D": "21"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 10",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Answer: (B) 10"
+  },
+  {
+    "question_no": "35",
+    "question_text": "The provision for taking cognizance of a suit of a civil nature is mentioned in which section of the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "9",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 9",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Section 6 of the Code of Civil Procedure, 1908 (CPC), provides for the taking of cognizance of a suit of a civil nature. Specifically, it outlines that a court shall take cognizance of a suit when an original summons is issued or a complaint is filed, depending on the circumstances and jurisdiction."
+  },
+  {
+    "question_no": "36",
+    "question_text": "Which of the following is NOT related to 'mesne profits'?",
+    "options": {
+      "A": "Wrongful possessor",
+      "B": "Cost of suit",
+      "C": "Profits with interest",
+      "D": "Immovable property"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Cost of suit",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Mesne profits refer to the profits earned by a person who lawfully or unlawfully possesses land or immovable property between the time they were wrongfully dispossessed and the time of the suit. They are calculated as profits with interest and relate to the wrongful possessor. The cost of the suit itself is not considered part of mesne profits.\n\nAnswer: (B) Cost of suit"
+  },
+  {
+    "question_no": "37",
+    "question_text": "The court may amend issues ______.",
+    "options": {
+      "A": "At any time before pronouncement of judgment",
+      "B": "Before taking evidence",
+      "C": "Before hearing of arguments",
+      "D": "At any time before passing the decree"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) At any time before passing the decree",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) At any time before pronouncement of judgment"
+  },
+  {
+    "question_no": "38",
+    "question_text": "Under Order 12 Rule 6 of the Code of Civil Procedure, 1908, when can a 'Judgment on admissions' be given?",
+    "options": {
+      "A": "At any stage of the suit",
+      "B": "After completion of evidence of both parties",
+      "C": "Before filing of written statement",
+      "D": "After filing of written statement"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) At any stage of the suit",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Order 12 Rule 6 of the Code of Civil Procedure, 1908 allows a court to pronounce judgment on admissions if no written statement is filed by the defendant within the prescribed time limit.\nAnswer: (C) Before filing of written statement"
+  },
+  {
+    "question_no": "39",
+    "question_text": "Under section 89A of the Code of Civil Procedure, 1908, within how many days of the appointment of a mediator must mediation be completed?",
+    "options": {
+      "A": "10",
+      "B": "60",
+      "C": "7",
+      "D": "30"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 60",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Section 89A of the Code of Civil Procedure, 1908, stipulates that if the parties agree to mediation and a mediator is appointed, the mediation proceedings must be completed within 60 days from the date of the appointment of the mediator.\n\nAnswer: (B) 60"
+  },
+  {
+    "question_no": "40",
+    "question_text": "The provision for 'representative suit' is mentioned in which Rule of Order 1 of the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 8",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "The provision for 'representative suit' is found in Order I, Rule 8 of the Code of Civil Procedure, 1908.\n\nAnswer: (C) 8"
+  },
+  {
+    "question_no": "41",
+    "question_text": "In a civil suit, who shall receive the costs imposed in response to adjournment applications by both parties?",
+    "options": {
+      "A": "Defendant",
+      "B": "State",
+      "C": "Lawyer",
+      "D": "Plaintiff"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) State",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "In civil litigation in Bangladesh, if a court adjourns a case due to the negligence or default of a party, the costs associated with that adjournment are typically imposed on the party responsible for the delay. When both parties apply for an adjournment and both are found at fault or equally responsible, the costs are generally borne by the losing party or those found liable. However, if the question implies who *receives* (is paid) these costs in a scenario where one party is penalized, it usually refers to the party being penalized paying the other. If the context suggests general legal practice regarding who bears the burden when both sides are involved, often the court decides based on conduct.\n\nHowever, looking at specific legal provisions or exam contexts (like Bar exams), there is a specific rule regarding \"costs imposed in response to adjournment applications\". In many jurisdictions, including Bangladesh, if a party applies for an adjournment and it is granted, they may be liable for costs. If *both* parties apply and are both penalized, the court might order costs against the applicant or split them.\n\nA common specific legal principle tested in this context (often related to the Civil Procedure Code or rules of court) is that if a party applies for an adjournment and it is granted, they may be ordered to pay costs. If the question asks who receives the costs *imposed*, it implies the recipient of the payment order. Usually, if one party is penalized, the other (the plaintiff or defendant depending on the specific scenario) receives them.\n\nLet's re-evaluate based on standard multiple-choice questions found in Bangladeshi legal examinations regarding this specific phrasing. This question likely refers to a specific rule where if an adjournment is granted, the applicant may be ordered to pay costs. If *both* parties apply and are penalized, the standard practice often defaults to the defendant being liable for certain costs or vice versa depending on the stage.\n\nHowever, there is a specific interpretation in some legal texts suggesting that when costs are imposed regarding adjournment applications by both parties, the **Defendant** is often the one who receives these costs (meaning the Defendant pays them) if the Plaintiff is deemed responsible, OR it refers to the party who is ordered to pay.\n\nWait, let's look at the wording \"who shall receive\". If I am penalized, I *pay*. If I am not penalized, I *receive* (am paid). If costs"
+  },
+  {
+    "question_no": "42",
+    "question_text": "How many types of issues are there under the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "5",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 2",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "The Code of Civil Procedure, 1908, categorizes issues or matters primarily into two types: those that require a full trial (issues of fact and law) and summary procedures or specific types of suits like money disputes under the Limitation Act. However, in the context of general legal classifications often taught in Bangladesh regarding the structure of civil litigation under the Code, the primary division is between \"Suit\" and \"Proceedings\". If we consider the nature of issues arising in a suit, they are generally divided into substantive issues (claims) and procedural issues. But looking at standard multiple-choice questions on this specific topic in Bangladeshi legal exams, the question usually refers to the classification of suits themselves or the types of disputes.\n\nA common interpretation in this context distinguishes between \"Suit\" and \"Interlocutory Proceedings\". However, a more direct answer often expected for \"types of issues\" in the context of the CPC 1908 structure relates to the classification of causes of action or the nature of relief sought.\n\nLet's reconsider the standard question format. In many Bangladeshi law textbooks regarding the CPC, issues are broadly categorized into:\n1. Issues of Law\n2. Issues of Fact\n\nHowever, if the question refers to the types of *cases* or *suits*, it might be different. Let's look at the options (3, 2, 5, 4).\n\nIf we look at the \"types of issues\" in terms of the nature of the dispute:\n1. Suit for declaration\n2. Suit for injunction\n3. Suit for possession\n4. Suit for money decree\n\nThis is too specific.\n\nLet's consider the classification of \"Suits\" under the CPC. The CPC deals with civil suits. There are generally 2 main types of litigation: Suits and Proceedings. But \"issues\" usually refers to facts or law.\n\nActually, there is a specific concept in Bangladeshi legal education regarding the \"types of issues\" which might refer to the classification of disputes into:\n1. Private disputes\n2. Public disputes\n(This doesn't fit well).\n\nLet's try a different angle. Is it referring to the types of judgments? No.\n\nPerhaps it refers to the three main heads of the CPC? No, that's Orders 1-40 etc.\n\nLet's assume the question refers to the classification of \"Issues\" in the context of trial management or specific legal theory often tested."
+  },
+  {
+    "question_no": "43",
+    "question_text": "If a person fails to produce a document despite direction in a court summons, under which section of the Code of Civil Procedure, 1908 can the civil court take punitive action?",
+    "options": {
+      "A": "32",
+      "B": "30",
+      "C": "31",
+      "D": "29"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 32",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Section 32 of the Code of Civil Procedure, 1908 (CPC), deals with the consequences of disobedience to a decree or order passed by the court. Specifically, if a person fails to produce a document despite direction in a court summons, the court can take punitive action under Section 32.\n\nAnswer: (A) 32"
+  },
+  {
+    "question_no": "44",
+    "question_text": "What is the remedy against an order rejecting an application for amendment of a plaint?",
+    "options": {
+      "A": "Reference",
+      "B": "Appeal",
+      "C": "Revision",
+      "D": "Review"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Revision",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under the Code of Civil Procedure, 1908 (Section 49A), a party aggrieved by an order rejecting an application for amendment of the plaint can seek a review of that order.\n\nAnswer: (D) Review"
+  },
+  {
+    "question_no": "45",
+    "question_text": "If a suit is filed without following Order 7 Rule 9(1A) of the Code of Civil Procedure, 1908, under which provision does the defendant have a remedy?",
+    "options": {
+      "A": "Order 7 Rule 11",
+      "B": "Order 47 Rule 1",
+      "C": "Order 7 Rule 10",
+      "D": "Order 39 Rule 1"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Order 7 Rule 11",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Order 7 Rule 9(1A) requires a copy of the plaint to be served on the defendant. If this procedural requirement is violated, the court may dismiss the suit under Order 7 Rule 10 or strike out the pleadings under Order 7 Rule 11. However, if the defect is in the service of the copy of the plaint (Order 7 Rule 9(1A)), it is a procedural defect that can be cured by compliance within 30 days, and failure to do so allows the defendant to have the suit struck out or dismissed under Order 7 Rule 11. However, the specific remedy for non-compliance with Order 7 Rule 9(1A) regarding service of notice is often linked to Order 7 Rule 10 (failure to appear/pleading) or Order 7 Rule 11 (failure to prove title). Wait, let's re-evaluate. Order 7 Rule 9(1A) mandates that the defendant be served with a copy of the plaint and notice of the cause of action. If the suit is filed without following this, it is a procedural defect. The defendant can file an application under Order VII Rule 10 or Order VII Rule 11. But specifically, if the plaintiff fails to prove title or if the cause of action is not disclosed properly, Order 7 Rule 11 applies. If the suit is filed without following Order 7 Rule 9(1A) (service), the defendant can have the suit struck out under Order 7 Rule 11 if they fail to comply within 30 days. However, the most direct remedy for procedural defects like this is often cited as Order 7 Rule 11.\n\nAnswer: (A) Order 7 Rule 11"
+  },
+  {
+    "question_no": "46",
+    "question_text": "Under the Code of Civil Procedure, 1908, how many times can a party directly seek to set aside an ex-parte decree?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 1",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under the Code of Civil Procedure, 1908 (Section 47), an ex-parte decree can be set aside by a party only once.\nAnswer: (A) 1"
+  },
+  {
+    "question_no": "47",
+    "question_text": "In a civil suit, what is the maximum number of adjournments a party can receive before the final hearing?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "7",
+      "D": "12"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 6",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) 3"
+  },
+  {
+    "question_no": "48",
+    "question_text": "Regarding transfer of a case by the District Judge under section 24 of the Code of Civil Procedure, 1908, ___________.",
+    "options": {
+      "A": "Hearing is required but not notice",
+      "B": "Both notice and hearing are required",
+      "C": "Notice is required but not hearing",
+      "D": "Neither notice nor hearing is required"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Neither notice nor hearing is required",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Section 24 of the Code of Civil Procedure, 1908 (CPC) relates to the transfer of a suit from one court to another. The proviso to Section 24 specifically states that no order of transfer shall be made without giving notice to the parties and affording them an opportunity to be heard. Therefore, both notice and hearing are required before a transfer can be effected.\n\nAnswer: (B) Both notice and hearing are required"
+  },
+  {
+    "question_no": "49",
+    "question_text": "In the case of directly setting aside an ex-parte order, what is the maximum amount of costs (in Taka) the court can order to be paid?",
+    "options": {
+      "A": "3,000",
+      "B": "4,000",
+      "C": "1,000",
+      "D": "2,000"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 3,000",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Answer: (D) 2,000"
+  },
+  {
+    "question_no": "50",
+    "question_text": "In which of the following circumstances can the civil court NOT exercise its inherent powers?",
+    "options": {
+      "A": "To ensure justice",
+      "B": "To prevent abuse of court process",
+      "C": "To maintain status quo",
+      "D": "To overcome the bar of limitation"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) To overcome the bar of limitation",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "The inherent powers of a civil court under Article 102(1) of the Code of Civil Procedure, 1908 are primarily designed to secure the ends of justice and prevent abuse of the process of the court. These powers include maintaining the status quo and ensuring that the law is applied fairly. However, these powers cannot be used to overcome the bar of limitation. The limitation period is a substantive rule of law intended to provide legal certainty and repose to the defendant. While courts have inherent jurisdiction to ensure justice and prevent abuse of process, they do not possess the power to revive a time-barred claim solely through their inherent powers.\n\nAnswer: (D) To overcome the bar of limitation"
+  },
+  {
+    "question_no": "51",
+    "question_text": "The burden of proving a 'Plea of alibi' lies on —",
+    "options": {
+      "A": "The accused",
+      "B": "The witness",
+      "C": "The police",
+      "D": "The complainant"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) The accused",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "In criminal law, specifically regarding the plea of alibi, the burden of proof rests with the accused. The accused must prove that they were not present at the scene of the crime at the relevant time by producing evidence (witnesses or documents) establishing their location elsewhere.\nAnswer: (A) The accused"
+  },
+  {
+    "question_no": "52",
+    "question_text": "The exception to the rule that leading questions cannot be put to one's own witness is described in which section of the Evidence Act, 1872?",
+    "options": {
+      "A": "154",
+      "B": "156",
+      "C": "152",
+      "D": "151"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 154",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Section 154 of the Evidence Act, 1872 allows the use of leading questions against one's own witness when it is necessary for the proper conduct of the examination.\nAnswer: (A) Section 154"
+  },
+  {
+    "question_no": "53",
+    "question_text": "The principle of 'Feeding the grant by estoppel' is related to which section of the Evidence Act, 1872?",
+    "options": {
+      "A": "114",
+      "B": "115",
+      "C": "118",
+      "D": "117"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 115",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Answer: (C) 118 — Feeding the grant by estoppel is related to Section 118 of the Evidence Act, 1872."
+  },
+  {
+    "question_no": "54",
+    "question_text": "Under the Evidence Act, 1872, which of the following is NOT a public document?",
+    "options": {
+      "A": "Statement recorded by a Magistrate in a departmental inquiry",
+      "B": "Survey and Settlement Report",
+      "C": "Birth certificate",
+      "D": "Plaint"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Statement recorded by a Magistrate in a departmental inquiry",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Answer: (D) Plaint"
+  },
+  {
+    "question_no": "55",
+    "question_text": "Under the Evidence Act, 1872, which of the following is NOT an electronic record?",
+    "options": {
+      "A": "DNA data",
+      "B": "Drone data",
+      "C": "CCTV footage",
+      "D": "Soft data"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) DNA data",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Answer: (D) Soft data"
+  },
+  {
+    "question_no": "56",
+    "question_text": "Under which section of the Evidence Act, 1872 is a Judge not compelled to answer questions concerning matters that came to his knowledge without an order from a superior court?",
+    "options": {
+      "A": "127",
+      "B": "121",
+      "C": "133",
+      "D": "119"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 121",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Section 127 of the Indian Evidence Act, 1872, states that a Judge or Magistrate is not competent to be an examiner in any proceedings before him and shall not be compelled to answer questions concerning matters that came to his knowledge without an order from a superior court.\n\nAnswer: (A) 127"
+  },
+  {
+    "question_no": "57",
+    "question_text": "'No new trial for improper admission or rejection of evidence' — this provision of the Evidence Act, 1872 applies to ________.",
+    "options": {
+      "A": "Civil proceedings only",
+      "B": "Administrative proceedings",
+      "C": "Criminal proceedings only",
+      "D": "All judicial proceedings"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) All judicial proceedings",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) Civil proceedings only"
+  },
+  {
+    "question_no": "58",
+    "question_text": "Who can prohibit putting of indecent or annoying questions to a witness?",
+    "options": {
+      "A": "The witness himself",
+      "B": "The lawyer",
+      "C": "The Court",
+      "D": "All of the above"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) The Court",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Answer: (C) The Court"
+  },
+  {
+    "question_no": "59",
+    "question_text": "Under section 145 of the Evidence Act, 1872, the purpose of cross-examining a witness about a previous written statement is to ______.",
+    "options": {
+      "A": "Contradict it",
+      "B": "Corroborate it",
+      "C": "Test its admissibility",
+      "D": "Verify its authenticity"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Contradict it",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Section 145 of the Evidence Act, 1872, specifically governs cross-examination regarding a witness's previous written statement. The primary objective in this context is to challenge the consistency and accuracy of that statement by showing discrepancies between what was previously stated and what is currently being testified to. This process is known as contradicting the witness. While corroborating or verifying may occur in different contexts, the specific purpose under this section for a prior written statement during cross-examination is to point out inconsistencies to undermine its credibility.\n\nAnswer: (A) Contradict it"
+  },
+  {
+    "question_no": "60",
+    "question_text": "Under section 59 of the Evidence Act, 1872, all facts except ______ may be proved by oral evidence.",
+    "options": {
+      "A": "Contents of documents",
+      "B": "Documents",
+      "C": "Opinions on custom",
+      "D": "Relationship between persons"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Contents of documents",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) Contents of documents"
+  },
+  {
+    "question_no": "61",
+    "question_text": "Under section 63 of the Evidence Act, 1872, which of the following is NOT 'secondary evidence'?",
+    "options": {
+      "A": "Certified copy",
+      "B": "Attested photocopy of original document",
+      "C": "Carbon copy of original document",
+      "D": "Oral account of a person who has seen the document"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Carbon copy of original document",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Answer: (D) Oral account of a person who has seen the document"
+  },
+  {
+    "question_no": "62",
+    "question_text": "Under the Evidence Act, 1872, regarding the execution of a Mukharnama (power of attorney), the court shall ___________.",
+    "options": {
+      "A": "Shall presume",
+      "B": "Consider it conclusively proved",
+      "C": "Make no presumption",
+      "D": "May presume"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Shall presume",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Section 70 of the Evidence Act, 1872, prescribes that a Mukharnama (power of attorney) shall be deemed to have been executed by the person in whose favour it is made, unless the contrary is proved. Therefore, the court shall presume its execution.\n\nAnswer: (A) Shall presume"
+  },
+  {
+    "question_no": "63",
+    "question_text": "Under section 28 of the Evidence Act, 1872, a confession made after removal of the impression caused by promise, threat or inducement is ______.",
+    "options": {
+      "A": "Irrelevant",
+      "B": "Illegal",
+      "C": "Inadmissible",
+      "D": "Relevant"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Relevant",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) Relevant"
+  },
+  {
+    "question_no": "64",
+    "question_text": "Under the Evidence Act, 1872, an admission is _________ regarding the matter admitted.",
+    "options": {
+      "A": "Not conclusive proof",
+      "B": "Conclusive proof",
+      "C": "Not documentary proof",
+      "D": "General proof"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Not conclusive proof",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Answer: (B) Conclusive proof"
+  },
+  {
+    "question_no": "65",
+    "question_text": "In which section of the Evidence Act, 1872 is the competency of witnesses discussed?",
+    "options": {
+      "A": "107",
+      "B": "120",
+      "C": "91",
+      "D": "101"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 120",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "The competency of witnesses is discussed in Section 118, which is not listed. However, among the given options, Section 91 deals with the competency of parties to a suit or proceedings and their agents. While the specific section for general witness competency (Section 118) is missing, Section 107 relates to persons who are competent to give evidence.\n\nWait, let me correct myself. Section 107 in the Indian Evidence Act 1872 defines who is a competent witness. It states that every person is competent to be a witness except as otherwise provided by this Act or by any other law for the time being in force.\n\nAnswer: (A) 107"
+  },
+  {
+    "question_no": "66",
+    "question_text": "How many ways of making a false document are mentioned in the Penal Code, 1860?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 3",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "The Penal Code, 1860 (Section 465) specifies three distinct ways in which a document can be forged:\n1. By making a false document.\n2. By altering a document.\n3. By making a false document with the intention of altering it.\n\nHowever, strictly speaking regarding \"making\" a false document as defined under Section 463 (Section 465 defines forging), the specific ways are categorized. Let's look at Section 463 which defines \"forging\". It states that a person is said to forge a document when he does any of the following acts:\n1. Making a false document;\n2. Altering a document, so as to affect the evidence thereof or the legal validity thereof;\n3. Making a false document with the intention of altering it.\n\nWait, the question asks specifically about \"making\" a false document. In the context of Section 465 (Definition of Forgery), it lists acts. The specific definition of \"forging\" includes:\n1. Making a false document.\n2. Altering a document.\n3. Making a false document with the intention of altering it.\n\nActually, looking at Section 463 of the Indian Penal Code (which is the same as Bangladesh's), it lists three ways an act constitutes forging:\n1. Making a false document;\n2. Altering a document...\n3. Making a false document with the intention of altering it.\n\nSo there are 3 distinct clauses listed under the definition of forgery that involve \"making\" or \"altering\". The question asks \"How many ways of making a false document are mentioned...\".\nThe text of Section 463 says:\n\"A person is said to forge a document when he does any of the following acts:\n(a) Making a false document;\n(b) Altering a document, so as to affect the evidence thereof or the legal validity thereof;\n(c) Making a false document with the intention of altering it.\"\n\nWhile (a) and (c) both involve \"making\", they are distinct modes defined in the statute. However, often legal questions refer to the specific clauses defining forgery. The three ways listed in Section 463 are:\n1. Making a false document.\n2. Altering a document.\n3. Making a false document with the intention of altering it.\n\nIf the question implies \"How many modes of"
+  },
+  {
+    "question_no": "67",
+    "question_text": "For which offence shall imprisonment be without hard labour?",
+    "options": {
+      "A": "Murder",
+      "B": "Robbery",
+      "C": "Wrongful restraint",
+      "D": "Kidnapping"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Wrongful restraint",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under the Penal Code of Bangladesh (1911), imprisonment without hard labour is the standard punishment for specific offences where the nature of the crime does not involve violence or severe physical danger to the public, unlike murder, robbery, or kidnapping. Wrongful restraint (Section 340) typically carries a sentence of simple imprisonment without hard labour.\n\nAnswer: (C) Wrongful restraint"
+  },
+  {
+    "question_no": "68",
+    "question_text": "Under the Penal Code, 1860, a mark used on goods to indicate they were produced by a specific person is called a ______.",
+    "options": {
+      "A": "trade mark",
+      "B": "patents and property mark",
+      "C": "property mark",
+      "D": "patents"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) trade mark",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) trade mark"
+  },
+  {
+    "question_no": "69",
+    "question_text": "In which section of the Penal Code, 1860 is the definition of unlawful assembly found?",
+    "options": {
+      "A": "146",
+      "B": "141",
+      "C": "147",
+      "D": "447"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 141",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Answer: (B) 141"
+  },
+  {
+    "question_no": "70",
+    "question_text": "If a person forges a document knowing it will be used for fraud, the maximum imprisonment is ______ years.",
+    "options": {
+      "A": "14",
+      "B": "7",
+      "C": "10",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 7",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Answer: (C) 10"
+  },
+  {
+    "question_no": "71",
+    "question_text": "The maximum imprisonment for voluntarily causing grievous hurt by dangerous weapons is ______.",
+    "options": {
+      "A": "3 years",
+      "B": "7 years",
+      "C": "10 years",
+      "D": "5 years"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 10 years",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Answer: (C) 10 years"
+  },
+  {
+    "question_no": "72",
+    "question_text": "The maximum imprisonment for giving false evidence in a judicial proceeding is _______.",
+    "options": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "10 years",
+      "D": "7 years"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 7 years",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) 7 years"
+  },
+  {
+    "question_no": "73",
+    "question_text": "Under the Penal Code, 1860, for which offence is no specific amount of fine mentioned?",
+    "options": {
+      "A": "Wrongful restraint",
+      "B": "Voluntarily causing hurt",
+      "C": "Affray",
+      "D": "Rioting"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Rioting",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Under the Penal Code, 1860, specific fine amounts are prescribed for some offences like Affray (Section 123) and Rioting (Section 140), whereas Wrongful Restraint (Section 341) and Voluntarily causing hurt (Section 319) have different provisions. However, the general rule is that no specific fine amount is mentioned in the text of the Penal Code itself for certain offences; it falls under general principles of sentencing unless a section specifies it. In this context, Affray and Rioting have specific fine amounts mentioned in their respective sections (Section 123: up to Rs. 500; Section 140: up to Rs. 250), while Wrongful Restraint (Section 341) does not specify a fixed fine amount but allows for imprisonment and/or fine at the discretion of the court. Voluntarily causing hurt (Section 319) also specifies a fine. Among these, Affray and Rioting have specific amounts mentioned in their sections.\n\nActually, looking closer:\n- Section 123 (Affray): \"with whomsoever... shall be punished with imprisonment... and with a fine not exceeding one hundred rupees.\" — Specific amount mentioned.\n- Section 140 (Rioting): \"shall be punished with imprisonment... and with a fine not exceeding two hundred and fifty rupees.\" — Specific amount mentioned.\n- Section 341 (Wrongful Restraint): \"shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.\" — Wait, this also mentions a specific amount.\n\nLet's re-evaluate the question based on standard legal interpretation in Bangladesh. The question asks where *no* specific amount is mentioned.\n- Section 123 (Affray): Fine not exceeding Rs. 100.\n- Section 140 (Rioting): Fine not exceeding Rs. 250.\n- Section 341 (Wrongful Restraint): Fine not exceeding Rs. 1000? No, Section 341 is \"with imprisonment... or with fine which may extend to one thousand rupees\". So specific amount is mentioned.\n- Section 319 (Voluntarily causing hurt): Fine not exceeding Rs. 500."
+  },
+  {
+    "question_no": "74",
+    "question_text": "Under the Penal Code, 1860, what is the maximum term of imprisonment for criminal breach of trust by a public servant?",
+    "options": {
+      "A": "10 years",
+      "B": "7 years",
+      "C": "Life imprisonment",
+      "D": "14 years"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Life imprisonment",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under the Penal Code, 1860 (specifically Section 405 regarding criminal breach of trust), if a public servant commits the offense in the course of their duties, the punishment is severe. For a public servant committing criminal breach of trust, the maximum term of imprisonment is life imprisonment.\n\nAnswer: (C) Life imprisonment"
+  },
+  {
+    "question_no": "75",
+    "question_text": "Under the Penal Code, 1860, theft relates to ________ property.",
+    "options": {
+      "A": "Movable only",
+      "B": "Immovable only",
+      "C": "Both movable and immovable",
+      "D": "Intellectual"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Movable only",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Under the Penal Code, 1860 (Section 379), theft is defined as the cheating of movable property. It does not apply to immovable property like land or buildings.\nAnswer: (A) Movable only"
+  },
+  {
+    "question_no": "76",
+    "question_text": "For falsely using another person's name to make a declaration in a civil matter, the maximum imprisonment is ________ years.",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "3",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 3",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Answer: (C) 3"
+  },
+  {
+    "question_no": "77",
+    "question_text": "Which offence carries the highest maximum term of imprisonment?",
+    "options": {
+      "A": "Voluntarily causing hurt",
+      "B": "Mischief",
+      "C": "Wrongful restraint",
+      "D": "Unlawful assembly"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Voluntarily causing hurt",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Answer: (D) Unlawful assembly"
+  },
+  {
+    "question_no": "78",
+    "question_text": "Under the Penal Code, 1860, in how many ways can the offence of 'House-breaking' be committed?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 6",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Under the Penal Code, 1860, the offence of House-breaking is defined under Section 445 and can be committed in two distinct ways:\n1. By breaking into a house with the intention to commit theft, mischief, or mischief.\n2. By entering a house without permission at night (or during day if it is not a dwelling-house) for any unlawful purpose.\nHowever, the most standard legal interpretation for general house-breaking in Bangladesh distinguishes between breaking into a house and entering without permission. The specific question likely refers to the modes of entry or the classification of the offence under Sections 445 to 447.\n\nActually, Section 445 defines the offence. Section 446 deals with punishment for breaking into a house. Section 447 deals with punishment for entering without permission. The question asks in how many *ways* it can be committed.\n\nLet's re-evaluate based on standard legal MCQs in Bangladesh.\nThe offence of House-breaking (Section 445) is defined as: \"Whoever breaks into a house...\".\nThere are also provisions for entering without permission.\nHowever, often these questions refer to the specific modes mentioned in the definition or related sections.\nWait, let's look at Section 445 again. It mentions breaking into a house with intent.\nIs there a specific number associated with this question in Bangladesh legal exams?\nCommonly, House-breaking is said to be committed in **two** ways:\n1. Breaking into a house.\n2. Entering without permission (often treated as a separate offence under Section 447, but sometimes grouped).\n\nLet's check the options provided: (A) 3, (B) 4, (C) 5, (D) 6.\nNone of these are \"2\". This suggests I need to look deeper into the specific sub-clauses or interpretations used in Bangladeshi legal textbooks for this specific MCQ.\n\nPerhaps it refers to the modes of entry defined in Section 445? No, that's just breaking.\nMaybe it refers to the different *intentions*? Theft, Mischief, etc.\nLet's reconsider the question context. Is it possible the question implies the number of *modes of entry* or specific circumstances listed in the law?\n\nActually, there is a known legal question in Bangladesh regarding \"House-breaking\".\nUnder Section 44"
+  },
+  {
+    "question_no": "79",
+    "question_text": "Under the Penal Code, 1860, compelling a person by force to move from a place is called ________.",
+    "options": {
+      "A": "Kidnapping",
+      "B": "Abduction",
+      "C": "Wrongful restraint",
+      "D": "Criminal force"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Abduction",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Compelling a person by force to move from a place constitutes criminal force or an offence against personal liberty. However, in the specific context of Penal Code terminology regarding movement, moving someone from one place to another is abduction, while preventing them from moving is restraint. The question specifically mentions compelling a person to \"move from a place,\" which aligns with the definition of abduction (taking a person without their consent by force).\n\nAnswer: (B) Abduction"
+  },
+  {
+    "question_no": "80",
+    "question_text": "Which of the following is NOT culpable homicide?",
+    "options": {
+      "A": "Death resulting from bodily injury",
+      "B": "Act done with intention of causing death",
+      "C": "Act done knowing death is likely",
+      "D": "Death of an unborn child"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Death of an unborn child",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) Death of an unborn child"
+  },
+  {
+    "question_no": "81",
+    "question_text": "Under the Penal Code, 1860, sedition is _________.",
+    "options": {
+      "A": "Contempt towards the President",
+      "B": "Hatred or contempt towards the Government",
+      "C": "Conspiracy against the State",
+      "D": "Contempt towards the State"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Hatred or contempt towards the Government",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Section 124A of the Penal Code, 1860 (Indian Penal Code) defines sedition as bringing or attempting to bring into hatred, contempt, or annoyance towards the Government of India. While \"Government\" is the precise legal term in the statute, it is often colloquially understood to represent the State apparatus. Comparing the options:\n(A) refers to Contempt of Court or specific constitutional protections.\n(B) accurately captures the statutory language \"hatred or contempt towards the Government\".\n(C) is vague and does not match the definition.\n(D) is similar but lacks the specific element of \"hatred\" which is part of the definition.\n\nAnswer: (B) Hatred or contempt towards the Government"
+  },
+  {
+    "question_no": "82",
+    "question_text": "In which section of the Penal Code, 1860 is the punishment for criminal intimidation found?",
+    "options": {
+      "A": "427",
+      "B": "326",
+      "C": "307",
+      "D": "506"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 506",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) 506"
+  },
+  {
+    "question_no": "83",
+    "question_text": "Under section 97 of the Penal Code, 1860, for which offence does a person have the right to defend property?",
+    "options": {
+      "A": "Cheating",
+      "B": "Misappropriation",
+      "C": "Theft",
+      "D": "Criminal breach of trust"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Theft",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Answer: (C) Theft"
+  },
+  {
+    "question_no": "84",
+    "question_text": "Which section of the Penal Code, 1860 deals with dishonestly retaining property knowing it to be stolen?",
+    "options": {
+      "A": "410",
+      "B": "411",
+      "C": "380",
+      "D": "379"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 411",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Section 410 of the Penal Code, 1860 specifically deals with \"Dishonestly retaining property knowing it to be stolen.\"\n\nAnswer: (A) 410"
+  },
+  {
+    "question_no": "85",
+    "question_text": "According to the Penal Code, 1860, how many types of kidnapping are there?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 2",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "The Penal Code, 1860 of Bangladesh defines kidnapping primarily under Section 363 (Abduction) and Section 359 (Kidnapping for the purpose of abducting a person). However, in terms of specific classifications or distinct types of kidnapping often cited in legal discussions and case law within the jurisdiction, it is generally categorized into two main forms: Kidnapping by abduction and Kidnapping for the purpose of abduction.\n\nAnswer: (B) 2"
+  },
+  {
+    "question_no": "86",
+    "question_text": "'A lawyer who performed any work while holding a public office cannot engage in the same matter after retirement.' — This reflects a lawyer's duty of conduct towards whom?",
+    "options": {
+      "A": "Court",
+      "B": "Other lawyers",
+      "C": "Client",
+      "D": "Public"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Public",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) Public"
+  },
+  {
+    "question_no": "87",
+    "question_text": "Which Article of the Bangladesh Legal Practitioners and Bar Council Order, 1972 is 'anti-gender discrimination'?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "27",
+      "D": "28"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 28",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Answer: (B) 32 — The Legal Practitioners and Bar Council Order, 1972, Article 32 explicitly prohibits gender discrimination in admission to the Bar."
+  },
+  {
+    "question_no": "88",
+    "question_text": "Who nominates the Chairman of the 'Enrolment Committee'?",
+    "options": {
+      "A": "Government",
+      "B": "President",
+      "C": "Chief Justice",
+      "D": "Prime Minister"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Chief Justice",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "The Enrolment Committee is a statutory body established under the Bar Council Act, 1972 to oversee the registration of advocates. According to Section 35(1) of the Bar Council Act, 1972, the Chairman of the Enrolment Committee is nominated by the Government of Bangladesh.\n\nAnswer: (A) Government"
+  },
+  {
+    "question_no": "89",
+    "question_text": "If a lawyer becomes a witness on non-formal matters in a case for his client, the lawyer shall ___________ the case.",
+    "options": {
+      "A": "Retain but not testify",
+      "B": "Withdraw but testify",
+      "C": "Retain and testify",
+      "D": "Transfer the conduct to another lawyer"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Transfer the conduct to another lawyer",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) Retain but not testify"
+  },
+  {
+    "question_no": "90",
+    "question_text": "What is the primary duty of a Public Prosecutor?",
+    "options": {
+      "A": "Suppressing facts favourable to the accused",
+      "B": "Always ensuring victory for the state",
+      "C": "Ensuring justice",
+      "D": "Securing conviction of the accused"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Ensuring justice",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "The primary duty of a Public Prosecutor is to ensure justice by presenting the case fairly, rather than acting as a mere tool for conviction or suppressing evidence.\n\nAnswer: (C) Ensuring justice"
+  },
+  {
+    "question_no": "91",
+    "question_text": "The provision regarding 'legal disability' in the Limitation Act, 1908 does not apply to which type of suit?",
+    "options": {
+      "A": "Declaration of title",
+      "B": "Pre-emption",
+      "C": "Partition",
+      "D": "Recovery of possession"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Pre-emption",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Section 23 of the Limitation Act, 1908 provides specific limitation periods for different types of suits. However, it also stipulates that this section does not apply to certain categories of suits, including pre-emption suits, which are governed by the Bengal Tenancy and Pre-emption Act, 1908, or similar state-specific laws. While legal disability under Section 23 is relevant for calculating limitation in general civil suits like partition or declaration of title if specific provisions exist, the question specifically targets the exclusion of a particular suit type from the general rule regarding legal disability found in that context. The provision explicitly excludes pre-emption suits from being governed by the Limitation Act's general rules in this manner.\n\nAnswer: (B) Pre-emption"
+  },
+  {
+    "question_no": "92",
+    "question_text": "The limitation for a suit for cancellation of a document is described in which Article of the First Schedule of the Limitation Act, 1908?",
+    "options": {
+      "A": "51",
+      "B": "120",
+      "C": "91",
+      "D": "113"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 91",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "The limitation period for a suit for the cancellation of a document is covered under Article 120 of the First Schedule of the Limitation Act, 1908. This article specifies that such a suit shall be instituted within three years from the date on which the party entitled to institute the suit had knowledge of the facts constituting the cause of action.\n\nAnswer: (B) 120"
+  },
+  {
+    "question_no": "93",
+    "question_text": "Which section of the Limitation Act, 1908 contains the provision for computing the time mentioned in an instrument?",
+    "options": {
+      "A": "25",
+      "B": "24",
+      "C": "23",
+      "D": "26"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 25",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) 25 —"
+  },
+  {
+    "question_no": "94",
+    "question_text": "X, aged 14, acquires the right to sue for enforcement of a contract in 2014. X's limitation period will expire in the year __________.",
+    "options": {
+      "A": "2019",
+      "B": "2017",
+      "C": "2018",
+      "D": "2015"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 2019",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) 2019"
+  },
+  {
+    "question_no": "95",
+    "question_text": "What is the limitation period for filing a suit for declaration of title?",
+    "options": {
+      "A": "3 years",
+      "B": "6 years",
+      "C": "1 year",
+      "D": "12 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 6 years",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Answer: (D) 12 years"
+  },
+  {
+    "question_no": "96",
+    "question_text": "What is the limitation period for a suit for damages due to malicious prosecution?",
+    "options": {
+      "A": "6 years",
+      "B": "1 year",
+      "C": "12 years",
+      "D": "3 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 1 year",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) 6 years"
+  },
+  {
+    "question_no": "97",
+    "question_text": "What is the limitation period for filing an application to restore an appeal dismissed for non-prosecution?",
+    "options": {
+      "A": "30 days",
+      "B": "7 days",
+      "C": "60 days",
+      "D": "20 days"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 30 days",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) 30 days"
+  },
+  {
+    "question_no": "98",
+    "question_text": "What is the limitation period for a suit to set aside a fraudulent decree?",
+    "options": {
+      "A": "12 years",
+      "B": "3 years",
+      "C": "1 year",
+      "D": "6 years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 3 years",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Answer: (D) 6 years"
+  },
+  {
+    "question_no": "99",
+    "question_text": "What is the limitation period for a suit to recover a lawyer's fees in any case?",
+    "options": {
+      "A": "6 years",
+      "B": "12 years",
+      "C": "3 years",
+      "D": "1 year"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 6 years",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) 6 years"
+  },
+  {
+    "question_no": "100",
+    "question_text": "What is the limitation period for a suit for relief on the ground of mistake?",
+    "options": {
+      "A": "1 year",
+      "B": "12 years",
+      "C": "6 years",
+      "D": "3 years"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 3 years",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) 1 year"
+  }
+]

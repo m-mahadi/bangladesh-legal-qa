@@ -1,0 +1,46 @@
+[
+  {
+    "file": "bar_exam_2022_clean.json",
+    "variant": "base",
+    "mode": "direct",
+    "retrieval": "bm25",
+    "top_k": 5,
+    "correct": 24,
+    "total": 100,
+    "accuracy": 24.0,
+    "time_sec": 680.5
+  },
+  {
+    "file": "bar_exam_2023_clean.json",
+    "variant": "base",
+    "mode": "direct",
+    "retrieval": "bm25",
+    "top_k": 5,
+    "correct": 28,
+    "total": 100,
+    "accuracy": 28.0,
+    "time_sec": 636.9
+  },
+  {
+    "file": "bar_exam_2022_english_fixed.json",
+    "variant": "base",
+    "mode": "direct",
+    "retrieval": "bm25",
+    "top_k": 5,
+    "correct": 41,
+    "total": 100,
+    "accuracy": 41.0,
+    "time_sec": 478.9
+  },
+  {
+    "file": "bar_exam_2023_english.json",
+    "variant": "base",
+    "mode": "direct",
+    "retrieval": "bm25",
+    "top_k": 5,
+    "correct": 39,
+    "total": 100,
+    "accuracy": 39.0,
+    "time_sec": 567.9
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "question_no": "1",
+    "question_text": "A suit of a civil nature means a suit involving rights to ___________.",
+    "options": {
+      "A": "Property or office",
+      "B": "Property and offices",
+      "C": "Property only",
+      "D": "Office only"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Property or office",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "According to the Civil Procedure Code of Bangladesh, a suit of civil nature is defined as a suit involving rights to property or office.\n\nAnswer: (A) Property or office"
+  },
+  {
+    "question_no": "2",
+    "question_text": "Section ________ of the Code of Civil Procedure, 1908 prohibits multiple litigations between the same parties on the same matter (Res Judicata).",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "15",
+      "D": "151"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 11",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe Code of Civil Procedure, 1908 (CPC) in Bangladesh has specific sections governing the doctrine of res judicata. Section 151 specifically defines and prohibits multiple litigations between the same parties on the same matter, ensuring that a final judgment on the merits cannot be relitigated. While some sources might associate it with other sections regarding enforcement or appeal, the primary provision is found in Section 151.\nAnswer: (D) 151"
+  },
+  {
+    "question_no": "3",
+    "question_text": "Every suit shall be instituted in the Court of the ________ grade competent to try it.",
+    "options": {
+      "A": "District Judge",
+      "B": "Highest",
+      "C": "Lowest",
+      "D": "Any"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Lowest",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "According to the Code of Civil Procedure, 1908 (and the Code of Criminal Procedure, 1973), every suit shall be instituted in the Court of the ________ grade competent to try it.\nThe correct provision is found in Section 4 of the Code of Civil Procedure, which states that every suit shall be instituted in the Court of the _______ competent to try it."
+  },
+  {
+    "question_no": "4",
+    "question_text": "In the Code of Civil Procedure, 1908, the provision for a representative suit is found in ___________.",
+    "options": {
+      "A": "Order 1, Rule 8",
+      "B": "Order 1, Rule 13",
+      "C": "Order 5, Rule 7",
+      "D": "Order 6, Rule 3"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Order 1, Rule 8",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "To answer this question, I need to recall the specific provisions of the Code of Civil Procedure, 1908.\n\nThe Code of Civil Procedure, 1908, is the governing law for civil litigation in Bangladesh. The question asks about a \"representative suit\" or a \"sui generis class suit,\" which is typically handled under specific rules of the code.\n\nUpon recalling:\n- Order 1 of the Code of Civil Procedure deals with general provisions and jurisdiction.\n- Rule 8 of Order 1 is known for the provision regarding representative suits (or sui generis class suits) in Bangladesh.\n- Order 5, Rule 7 is about appeals.\n- Order 6, Rule 3 is about notices.\n\nTherefore, the correct answer should be (A).\n\nAnswer: (A) Order 1, Rule 8"
+  },
+  {
+    "question_no": "5",
+    "question_text": "Which of the following is strictly a 'Procedural Law'?",
+    "options": {
+      "A": "The Limitation Act, 1908",
+      "B": "The Evidence Act, 1872",
+      "C": "The Specific Relief Act, 1877",
+      "D": "The Code of Civil Procedure, 1908"
+    },
+    "correct_answer": "Cancelled",
+    "correct_text": "Cancelled/বাতিল",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Bangladeshi legal assistant persona. Concise analysis.\n\nThe Limitation Act, 1908 deals with the time limits for filing suits, which is a substantive rule governing rights and obligations in dispute resolution. The Evidence Act, 1872 pertains to the admissibility and weight of evidence, again a substantive matter. The Specific Relief Act, 1877 governs remedies and specific types of relief in civil disputes. In contrast, the Code of Civil Procedure, 1908 (CPC) primarily deals with the procedural aspects of litigation, including jurisdiction, filing of suits, trial process, and enforcement mechanisms. While it has some substantive elements, its core function is to govern the procedure itself.\n\nAnswer: (D) The Code of Civil Procedure, 1908"
+  },
+  {
+    "question_no": "6",
+    "question_text": "In accordance with the CPC 1908, what is the remedy against an order granting a 'Review' petition?",
+    "options": {
+      "A": "Revision",
+      "B": "Appeal",
+      "C": "Reference",
+      "D": "No remedy"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Appeal",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Based on the Code of Civil Procedure (CPC) 1908, a 'Review' petition is an appeal against an order passed by a lower court or a court below. The remedy against such an order granting a Review petition is to file a Reference for the Higher Court.\n\nAnswer: (C) Reference —"
+  },
+  {
+    "question_no": "7",
+    "question_text": "Which section of the Code of Civil Procedure, 1908 provides for inherent powers to do justice and prevent abuse of process?",
+    "options": {
+      "A": "Section 51",
+      "B": "Section 151",
+      "C": "Section 152",
+      "D": "Section 154"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 151",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe Code of Civil Procedure, 1908 (CPC) contains several sections dealing with inherent powers. Section 51 is the section that specifically grants courts the power to do justice and prevent abuse of process. Section 151 relates to execution, 152 to appeals in criminal cases, and 154 to limitation of suits.\n\nAnswer: (A) Section 51"
+  },
+  {
+    "question_no": "8",
+    "question_text": "According to Order 17, Rule 1 of the CPC 1908, what is the maximum cost for an adjournment?",
+    "options": {
+      "A": "1,000 BDT",
+      "B": "2,000 BDT",
+      "C": "3,000 BDT",
+      "D": "5,000 BDT"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 2,000 BDT",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe question asks about the maximum cost for an adjournment under Order 17, Rule 1 of the Civil Procedure Code (CPC) 1908.\nUnder this provision, a party can apply for an adjournment in addition to the costs already paid by them. The cost limit is fixed at 3,000 Bangladeshi Taka.\nAnswer: (C) 3,000 BDT"
+  },
+  {
+    "question_no": "9",
+    "question_text": "Who constitutes the 'Panel of Mediators' under Section 89A (10) of the Code of Civil Procedure, 1908?",
+    "options": {
+      "A": "District Judge",
+      "B": "Ministry of Law",
+      "C": "Deputy Commissioner",
+      "D": "High Court Division"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) District Judge",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Bangladeshi legal assistant. Concise analysis: The 'Panel of Mediators' under Section 89A (10) of the Code of Civil Procedure, 1908 is constituted by the High Court Division.\n\nAnswer: (D) High Court Division — High Court Division"
+  },
+  {
+    "question_no": "10",
+    "question_text": "According to the CPC 1908, every decree shall be signed by the __________.",
+    "options": {
+      "A": "Court",
+      "B": "Judge",
+      "C": "Seristadar",
+      "D": "District Nazir"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Judge",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "CPC 1908 refers to the Code of Civil Procedure Act, 1908. The question asks about who signs every decree under this act.\nUnder the Code of Civil Procedure Act, 1908, every decree shall be signed by the Court.\nAnswer: (A) Court — The Court is responsible for signing all decrees."
+  },
+  {
+    "question_no": "11",
+    "question_text": "What is the maximum duration a defendant can be detained in Civil Prison?",
+    "options": {
+      "A": "Six months",
+      "B": "90 days",
+      "C": "Three months",
+      "D": "60 days"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Six months",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Civil Prison in Bangladesh is governed by the Criminal Procedure Code (CrPC).\nUnder Section 13 of the CrPC, a defendant can be detained for not more than six months.\nThis is the maximum duration before transfer to another form of detention or remission.\nTherefore, the correct option is (A).\nAnswer: (A) Six months"
+  },
+  {
+    "question_no": "12",
+    "question_text": "Under Order 33, Rule 1 of the CPC 1908, a person is a pauper (indigent) if they lack property worth ________ excluding case property and wearing apparel.",
+    "options": {
+      "A": "15,000 BDT",
+      "B": "12,000 BDT",
+      "C": "1,000 BDT",
+      "D": "5,000 BDT"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 5,000 BDT",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Analysis:\nUnder Order 33, Rule 1 of the Code of Civil Procedure (CPC) 1908, a person is considered a pauper or indigent if they lack property worth less than 15,000 BDT, excluding case property and wearing apparel. This is a standard threshold for civil cases in Bangladesh.\nAnswer: (A) 15,000 BDT"
+  },
+  {
+    "question_no": "13",
+    "question_text": "Under Order 39, Rule 2 of the CPC 1908, what is the maximum duration of detention for breach of an injunction order?",
+    "options": {
+      "A": "Not exceeding 6 months",
+      "B": "1 year",
+      "C": "90 days",
+      "D": "180 days"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Not exceeding 6 months",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Bangladeshi legal assistant.\nUnder Order 39, Rule 2 of the Civil Procedure Code (CPC) 1908, an injunction order can be made by a court for the purpose of preserving any interest in the subject matter or preventing any injury to any party.\nAccording to this provision, an injunction order shall not remain in force for more than 6 months from the date of the order. If the injunction order is not complied with within this period, the court may impose further penalties.\n\nAnswer: (A) Not exceeding 6 months"
+  },
+  {
+    "question_no": "14",
+    "question_text": "Which Order of the CPC 1908 deals with the Joinder of Parties?",
+    "options": {
+      "A": "Order 1",
+      "B": "Order 2",
+      "C": "Order 5",
+      "D": "Order 10"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Order 1",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "In the Code of Civil Procedure (CPC) 1908, the Order dealing with the joinder of parties is Order 5.\nAnswer: (C) Order 5"
+  },
+  {
+    "question_no": "15",
+    "question_text": "At any stage of the proceedings, the court may conduct a ___________ of property or objects in question.",
+    "options": {
+      "A": "Local Inspection",
+      "B": "Search",
+      "C": "Investigation",
+      "D": "Attachment"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Local Inspection",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Based on the context of Bangladeshi law, specifically regarding civil proceedings and the powers of a court to examine property or objects involved in the dispute, the correct term is \"Local Inspection.\"\n\nAnswer: (A) Local Inspection —"
+  },
+  {
+    "question_no": "16",
+    "question_text": "The principle of Res Judicata is a ________.",
+    "options": {
+      "A": "Question of Law",
+      "B": "Question of Fact",
+      "C": "Mixed question of law and fact",
+      "D": "Discretion of court"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Mixed question of law and fact",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": ""
+  },
+  {
+    "question_no": "17",
+    "question_text": "Who cannot be arrested or detained in Civil Prison in execution of a money decree?",
+    "options": {
+      "A": "Men over sixty-six",
+      "B": "Women",
+      "C": "Disabled persons",
+      "D": "Indigent persons"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Women",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "According to the Bangladesh Civil Procedure Code, specifically Section 154, a decree of a civil court may be executed in civil prison. However, there are restrictions on who can be arrested or detained. Specifically, Article 126 of the relevant regulations states that no man over sixty-six years of age shall be arrested or detained in civil prison. Additionally, women are generally not arrested for detention in civil prison under this specific provision, but the key restriction mentioned in the options is regarding men over sixty-six. Disabled persons and indigent persons do not have such an exclusion. Therefore, the correct answer based on the provided options is men over sixty-six.\n\nAnswer: (A) Men over sixty-six"
+  },
+  {
+    "question_no": "18",
+    "question_text": "If a suit is dismissed under Order 9, Rule 4 of the CPC 1908, the plaintiff ________.",
+    "options": {
+      "A": "May bring a fresh suit",
+      "B": "Must file an appeal",
+      "C": "May seek review",
+      "D": "Must apply for restoration within 60 days"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) May bring a fresh suit",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Based on the Code of Civil Procedure (CPC) 1908, Order 9, Rule 4 deals with the dismissal of a suit. Specifically, when a suit is dismissed under this rule, it typically occurs due to the plaintiff's failure to comply with certain procedural requirements or an objection by the court. Under Section 128 of the CPC 1908, which corresponds to Order 9, Rule 4 in the context of this question, if a suit is dismissed on these grounds, the plaintiff is required to file an appeal within a specific timeframe (usually 60 days) to seek restoration or a fresh suit.\n\nHowever, under Order 9, Rule 4, the specific provision states that the plaintiff must file an appeal within 60 days of the order of dismissal to seek restoration of the suit. If not done so, the plaintiff loses the right to apply for restoration. Therefore, the correct answer is that the plaintiff must apply for restoration within 60 days.\n\nAnswer: (D) Must apply for restoration within 60 days"
+  },
+  {
+    "question_no": "19",
+    "question_text": "Which section of the CPC 1908 provides that the High Court Division may transfer any suit from a subordinate court?",
+    "options": {
+      "A": "Section 21",
+      "B": "Section 22",
+      "C": "Section 23",
+      "D": "Section 24"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 24",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Based on the Code of Civil Procedure (CPC) 1908, Section 23 specifically provides for the transfer of suits from subordinate courts to the High Court Division.\n\nAnswer: (C) Section 23"
+  },
+  {
+    "question_no": "20",
+    "question_text": "Under what section of the CPC 1908 does the Appellate Court have the power to Remand a case?",
+    "options": {
+      "A": "Section 96",
+      "B": "Section 105",
+      "C": "Section 107",
+      "D": "Section 109"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 107",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Section 107 of the Code of Civil Procedure, 1908 empowers the Appellate Court to remand a case.\nAnswer: (C) Section 107"
+  },
+  {
+    "question_no": "21",
+    "question_text": "The remedy of Specific Performance is a ________.",
+    "options": {
+      "A": "Legal Right",
+      "B": "Discretionary Power of the Court",
+      "C": "Constitutional Right",
+      "D": "Absolute Right"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Discretionary Power of the Court",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Bangladeshi legal context: Specific Performance is an equitable remedy where the court orders a party to perform their contractual obligations. It is not a statutory or constitutional right, nor is it an absolute right (can be refused by court). The key feature of Specific Performance in Bangladesh under the Contract Act and Civil Procedure Code is that the power lies with the court, which decides based on circumstances whether performance can be enforced. Therefore, it falls under Discretionary Power of the Court.\n\nAnswer: (B) Discretionary Power of the Court"
+  },
+  {
+    "question_no": "22",
+    "question_text": "Under which section of the Specific Relief Act, 1877 can the court refuse an Injunction?",
+    "options": {
+      "A": "Section 54",
+      "B": "Section 55",
+      "C": "Section 56",
+      "D": "Section 57"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 56",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "To answer this question, I need to recall the relevant sections of the Specific Relief Act, 1877. The act governs civil suits for specific relief in Bangladesh.\n\nSection 54 deals with the power of the court to grant an injunction and under what conditions. Section 54 is about granting the injunction.\nSection 55 deals with when a suit cannot be maintained. It states that a suit cannot be maintained if it is for recovery of money, which is not allowed.\nSection 56 is about the court's power to refuse an injunction.\nSection 57 deals with the power of the court to grant an injunction in favour of the plaintiff or defendant.\n\nThe question asks when the court can refuse an Injunction. This is typically done under Section 56, which states that the court may refuse to grant an injunction if it is not necessary for the purpose of the suit or if it is against public interest.\nAnswer: (C) Section 56"
+  },
+  {
+    "question_no": "23",
+    "question_text": "Which section of the Specific Relief Act, 1877 provides for the recovery of specific immovable property?",
+    "options": {
+      "A": "Section 8",
+      "B": "Section 9",
+      "C": "Section 42",
+      "D": "Section 54"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 8",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Bangladeshi legal assistant.\nThe Specific Relief Act, 1877 is a landmark law in Bangladesh governing the recovery of property and other rights.\n\nSection 54 specifically deals with the recovery of specific immovable property. It outlines the procedure for recovering such property when there is a dispute or an order against a person to do so.\n\nTherefore, the correct answer is Section 54.\nAnswer: (D) Section 54"
+  },
+  {
+    "question_no": "24",
+    "question_text": "Under Section 9 of the Specific Relief Act, 1877, no suit can be brought against ________.",
+    "options": {
+      "A": "A Corporation",
+      "B": "The Government",
+      "C": "An Individual",
+      "D": "Foreigner"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) The Government",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Answer: (B) The Government — Under Section 9 of the Specific Relief Act, 1877, no suit can be brought against the Government."
+  },
+  {
+    "question_no": "25",
+    "question_text": "Under Section 21 of the Specific Relief Act, 1877, which contracts are not specifically enforceable?",
+    "options": {
+      "A": "Clause 5",
+      "B": "Clause 7",
+      "C": "Clause 8 (Non-enforceable contracts)",
+      "D": "Clause 10"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Clause 8",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Question Analysis:\nThe question asks about Section 21 of the Specific Relief Act, 1877. This section deals with specific performance and the enforceability of contracts.\nClause 5 (A) is a valid clause.\nClause 7 (B) is a valid clause.\nClause 8 (C) refers to Non-enforceable contracts.\nUnder Section 21 of the Specific Relief Act, 1877, specific performance is granted only for certain types of contracts. The act explicitly excludes certain clauses and circumstances from this provision.\nClause 10 (D) refers to a clause that might be enforceable under other sections.\nThe question asks which contracts are not specifically enforceable.\nBased on the Specific Relief Act, 1877, certain clauses are specifically excluded from specific performance.\nThe correct answer is Clause 8.\n\nAnswer: (C) Non-enforceable contracts"
+  },
+  {
+    "question_no": "26",
+    "question_text": "If a contract is voidable, the remedy available under the Specific Relief Act, 1877 is ________.",
+    "options": {
+      "A": "Rectification",
+      "B": "Rescission",
+      "C": "Cancellation",
+      "D": "Variation"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Rescission",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Question Analysis:\nThe Specific Relief Act, 1877 governs the recovery of property and remedies for specific relief in civil disputes.\n\nFor a voidable contract, the remedy is to set it aside, thereby restoring the parties to their pre-contractual position or annulling the contract.\n\nRectification is for correcting an incorrect document, not voidable contracts.\nCancellation is for terminating the contract without affecting future obligations, which is typically applicable to voidable contracts but is not the primary remedy defined in the Specific Relief Act.\nVariation involves changing terms of the contract, which is not the standard remedy for voidable contracts.\nRescission specifically refers to the act of undoing or revoking a contract, which is the correct legal remedy for a voidable contract under the Specific Relief Act, 1877.\n\nAnswer: (B) Rescission — Rescission"
+  },
+  {
+    "question_no": "27",
+    "question_text": "Under which section of the Specific Relief Act, 1877 does a suit fail if a Declaratory Decree is sought without seeking further relief?",
+    "options": {
+      "A": "Section 39",
+      "B": "Section 42",
+      "C": "Section 44",
+      "D": "Section 45"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 42",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "To answer this question, I need to recall the provisions of the Specific Relief Act, 1877. The question asks about the section under which a suit fails if a Declaratory Decree is sought without seeking further relief. This is a specific legal provision in the Act. Section 39 deals with the limitation of actions. Section 42 relates to the court's power to grant declaratory decrees. However, the core principle that a suit for declaratory decree must be accompanied by a request for further relief if sought without it is often associated with Section 45 in some contexts, but I need to verify this carefully. Wait, actually, Section 44 of the Specific Relief Act, 1877, deals with the failure of a suit if a declaratory decree is sought without seeking further relief. This is based on the principle that a suit for a declaratory decree cannot be used as a vehicle to seek additional relief without also seeking it in a separate suit or through a separate declaration. Section 45 deals with the limitation of actions and does not directly address this issue. Therefore, the correct answer should be Section 44. Answer: (C) Section 44"
+  },
+  {
+    "question_no": "28",
+    "question_text": "Which remedy under the Specific Relief Act, 1877 is regulated by the CPC 1908?",
+    "options": {
+      "A": "Temporary Injunction",
+      "B": "Perpetual Injunction",
+      "C": "Preventive Relief",
+      "D": "Mandatory Injunction"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Temporary Injunction",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Analysis:\nThe Specific Relief Act, 1877 is the primary legislation governing civil remedies in Bangladesh. However, the Civil Procedure Code (CPC) 1908 provides detailed procedures for various types of relief. Among the options provided, \"Mandatory Injunction\" is not typically a separate remedy under the CPC; rather, it is part of the specific relief framework but is often grouped with other types like Temporary and Preventive Injunctions. The CPC specifically regulates the granting of Temporary Injunctions in certain circumstances. Perpetual Injunctions are usually governed by the Specific Relief Act or other specialized laws. Preventive Relief and Mandatory Injunction are not standard terms used for the specific remedies regulated by the CPC.\n\nAnswer: (A) Temporary Injunction"
+  },
+  {
+    "question_no": "29",
+    "question_text": "X infringes the trademark of Y. What remedy should Y seek?",
+    "options": {
+      "A": "Temporary Injunction",
+      "B": "Perpetual Injunction",
+      "C": "Declaratory Relief",
+      "D": "Mandatory Injunction"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Perpetual Injunction",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Y is the trademark owner and X is the infringer. The most appropriate remedy for Y to seek against an ongoing infringement is a perpetual injunction, which permanently stops the infringement.\nAnswer: (B) Perpetual Injunction — Perpetual Injunction"
+  },
+  {
+    "question_no": "30",
+    "question_text": "Which section of the Specific Relief Act, 1877 provides for the refusal of an injunction?",
+    "options": {
+      "A": "Section 53",
+      "B": "Section 54",
+      "C": "Section 55",
+      "D": "Section 56"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 56",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Based on the Specific Relief Act, 1877, Section 53 provides for the refusal of an injunction.\n\nAnswer: (A) Section 53 —"
+  },
+  {
+    "question_no": "31",
+    "question_text": "Under the Code of Criminal Procedure, 1898, a person under the age of __________ is defined as a juvenile.",
+    "options": {
+      "A": "16",
+      "B": "15",
+      "C": "21",
+      "D": "18"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 15",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Bangladeshi law:\nThe Code of Criminal Procedure (CPC) 1898, as amended by the Juvenile Justice Act 2014, defines a juvenile. The age of criminal responsibility and the specific age for \"juvenile\" classification is critical under the CPC framework.\n\nUnder the CPC, a juvenile is generally defined as a person under the age of 16, though there have been amendments and interpretations over time that can affect this threshold. However, in the context of the question referencing the CPC 1898 specifically without considering the later amendments or the Juvenile Justice Act 2014, the age of criminal responsibility was historically 16 for boys and 17 for girls, but for the purpose of defining a juvenile under the general principles of the CPC, the standard age of criminal responsibility is often cited as 18 in certain contexts. However, the specific age for \"juvenile\" classification in the context of the question is typically 16.\n\nAnswer: (A) 16"
+  },
+  {
+    "question_no": "32",
+    "question_text": "For an appealable sentence, bail can be granted pending appeal if the sentence is ________.",
+    "options": {
+      "A": "Six months",
+      "B": "One year",
+      "C": "Two years",
+      "D": "Three years"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) One year",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Analysis:\nUnder the Criminal Procedure Code (CPC) of Bangladesh, specifically Section 351 and related provisions regarding bail pending appeal, bail can be granted to a person awaiting an appeal if the sentence imposed is less than two years. However, this rule generally applies when there are no other conditions. The specific threshold mentioned in the standard legal framework for this scenario is usually one year or less.\n\nAnswer: (B) One year\n</think>\n\nAnalysis:\nUnder the Criminal Procedure Code (CPC) of Bangladesh, bail pending appeal is generally granted if the sentence is less than two years, with specific provisions allowing for a sentence of up to one year in many contexts to facilitate the process. However, the standard threshold often cited for granting bail pending an appeal where the sentence itself constitutes the primary condition is typically one year or less, distinguishing it from longer sentences which may not be eligible under this specific procedural safeguard in the same manner.\n\nAnswer: (B) One year"
+  },
+  {
+    "question_no": "33",
+    "question_text": "At what stage can further investigation be ordered?",
+    "options": {
+      "A": "Only if evidence is insufficient",
+      "B": "If the investigating officer changes",
+      "C": "If the defendant appeals",
+      "D": "At any stage of the case"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) At any stage of the case",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "At what stage can further investigation be ordered?\n(A) Only if evidence is insufficient\n(B) If the investigating officer changes\n(C) If the defendant appeals\n(D) At any stage of the case\n\nThe correct answer is (D) because under the relevant laws, further investigation can be initiated or expanded at any point in the legal proceedings.\nAnswer: (D) At any stage of the case"
+  },
+  {
+    "question_no": "34",
+    "question_text": "To recover property involved in a criminal offence held in court custody, one must file a ________.",
+    "options": {
+      "A": "Bail bond",
+      "B": "Jimma Nama (Custody Application)",
+      "C": "Contract",
+      "D": "Certificate"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Jimma Nama",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Question Analysis:\nThe question asks about the legal procedure to recover property held in court custody after a criminal offence. The correct term for this specific type of application in Bangladeshi law is the Jimma Nama Custody Application, which is used when property seized as part of criminal proceedings needs to be recovered.\n\nFinal Answer:\n(B) Jimma Nama (Custody Application)"
+  },
+  {
+    "question_no": "35",
+    "question_text": "Who determines the place where a person is to be imprisoned?",
+    "options": {
+      "A": "The Trial Court",
+      "B": "Jail Authority",
+      "C": "The Government",
+      "D": "District Magistrate"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) The Government",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe question asks about who determines the place of imprisonment in Bangladesh. In the Bangladeshi legal system, the primary authority responsible for assigning places of detention and imprisonment is the Jail Authority, which includes the State Jail Commissioner or the Governor, depending on the context of the specific prison. While the Trial Court can order detention, the actual determination and execution of the place of imprisonment is a matter under the jurisdiction of the Jail Authority.\n\nAnswer: (B) Jail Authority — Jail Authority"
+  },
+  {
+    "question_no": "36",
+    "question_text": "Which section of the CrPC 1898 provides for Trial in Absentia?",
+    "options": {
+      "A": "339A",
+      "B": "339C",
+      "C": "339B",
+      "D": "339"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 339B",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe Criminal Procedure Code (CrPC) 1898 was amended by the CrPC Amendment Act of 2005. The specific provision regarding trial in absentia is found in Section 339B of the Code. Section 339A deals with detention and bail, 339C deals with execution of judgment, and 339 is about general procedure for trial. However, 339B specifically pertains to trial in absentia.\nAnswer: (B) 339B"
+  },
+  {
+    "question_no": "37",
+    "question_text": "In which of the following offences is the Summary Trial procedure applicable?",
+    "options": {
+      "A": "Grievous Hurt",
+      "B": "Murder",
+      "C": "Culpable Homicide",
+      "D": "Simple Hurt"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Simple Hurt",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Analysis:\nThe Summary Trial procedure in Bangladesh is applicable to minor offences that do not require a full trial under the Penal Code. It is generally used for less serious crimes.\n\nLet's analyze the options:\n(A) Grievous Hurt: This offence involves significant harm and is a serious crime, typically punishable by life imprisonment or death. Therefore, it is not subject to Summary Trial.\n(B) Murder: This is one of the heaviest offences under the Penal Code, carrying the death penalty. It definitely does not fall under Summary Trial.\n(C) Culpable Homicide: This is an offence involving the intentional killing of another person. Like Grievous Hurt and Murder, it is a serious crime and not subject to Summary Trial.\n(D) Simple Hurt: This refers to minor injuries. The procedure for handling such offences falls under Summary Trial, as it does not meet the threshold for a full trial under the Penal Code.\n\nTherefore, the correct option is (D).\nAnswer: (D) Simple Hurt"
+  },
+  {
+    "question_no": "38",
+    "question_text": "A Joint Sessions Judge can pass a sentence of up to ________ years.",
+    "options": {
+      "A": "7",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 10",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "In Bangladesh, the Joint Sessions Judge (JSP) presides over sessions of the High Court. The jurisdiction of a JSP includes trying cases under the Code of Criminal Procedure (CPC) and other offences. Under the CPC, the sentence that can be passed by a JSP is up to 12 years imprisonment. However, if the case involves a crime punishable with life imprisonment or death penalty, the JSP can impose a sentence of up to 14 years.\n\nWait, this question is asking for the maximum sentence that a Joint Sessions Judge can pass without any specific context. According to the Criminal Procedure Code (CPC) of Bangladesh, the sentence that can be passed by a JSP is up to 12 years. However, if the case involves a crime punishable with life imprisonment or death penalty, the JSP can impose a sentence of up to 14 years.\n\nActually, according to the CPC of Bangladesh, the sentence that can be passed by a Joint Sessions Judge is up to 12 years for cases under section 340 and other provisions. However, if the case involves a crime punishable with life imprisonment or death penalty, the JSP can impose a sentence of up to 14 years.\n\nBut in most general contexts, the maximum sentence that a Joint Sessions Judge can pass is 12 years.\n\nWait, no. According to the CPC of Bangladesh, the sentence that can be passed by a Joint Sessions Judge is up to 12 years for cases under section 340 and other provisions. However, if the case involves a crime punishable with life imprisonment or death penalty, the JSP can impose a sentence of up to 14 years.\n\nActually, according to the CPC of Bangladesh, the sentence that can be passed by a Joint Sessions Judge is up to 12 years for cases under section 340 and other provisions. However, if the case involves a crime punishable with life imprisonment or death penalty, the JSP can impose a sentence of up to 14 years.\n\nBut in most general contexts, the maximum sentence that a Joint Sessions Judge can pass is 12 years.\n\nWait, no. According to the CPC of Bangladesh, the sentence that can be passed by a Joint Sessions Judge is up to 12 years for cases under section 340 and other provisions. However, if the case involves a crime punishable with life imprisonment or death penalty, the JSP can impose a sentence of up to"
+  },
+  {
+    "question_no": "39",
+    "question_text": "Presence of the accused on the day of judgment is not compulsory if ________.",
+    "options": {
+      "A": "The accused is acquitted",
+      "B": "Sentenced to two months",
+      "C": "Imprisoned and fined",
+      "D": "In custody"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) The accused is acquitted",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "The presence of the accused on the day of judgment is not compulsory in cases where the sentence does not involve imprisonment or fines. If a person is sentenced to two months imprisonment and fined, they are required to be present for the court proceedings regarding sentencing, whereas acquittal, custody status, or specific conditions like short terms might vary based on procedural laws but generally do not mandate physical presence in the same absolute way as active sentencing for detention. However, under the Code of Criminal Procedure in Bangladesh, if a person is sentenced to imprisonment, they must appear unless they are already in custody (which implies absence). If the sentence is two months imprisonment, they must appear unless exempted by specific rules or if the trial is concluded without a sentence. Between the options, the condition where presence is not strictly required due to the nature of the sentence (acquittal or specific circumstances) is often tested regarding the distinction between imprisonment and other penalties. Specifically, under Section 265 of the Code of Criminal Procedure, 1874, the accused must appear in court unless they are sentenced to imprisonment, *unless* the sentence is less than two months or if they are already in custody. However, the most direct interpretation of standard legal MCQs on this topic often highlights that presence is not required if the accused is acquitted or if the sentence is specifically exempted (like under certain provisions for short terms without detention). But looking at the options:\n(A) Acquitment leads to release and no need to appear.\n(B) Two months imprisonment usually requires appearance unless already in custody.\n(C) Imprisoned and fined requires appearance.\n(D) In custody implies they are not physically present, but the rule is about *compulsory* presence for trial purposes.\n\nActually, the specific legal provision (Section 265) states: \"The accused shall appear before the Court... unless he is sentenced to imprisonment, or unless the sentence is less than two months or unless he is already in custody.\" Wait, if the sentence is less than two months, they don't need to appear. If the sentence is two months, they must appear unless exempted.\nHowever, a common interpretation in such questions is that presence is not compulsory if the accused is acquitted (no trial needed for penalty) or if specific leniency applies. But let's look at option (B). If sentenced to two months imprisonment, the law mandates appearance unless already in custody. Option (A) Acquitment: No sentence given"
+  },
+  {
+    "question_no": "40",
+    "question_text": "The provisions of Section 144 of the CrPC 1898 do not apply to ________.",
+    "options": {
+      "A": "District Headquarters",
+      "B": "Metropolitan Areas",
+      "C": "Municipalities",
+      "D": "Upozila Headquarters"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Metropolitan Areas",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Section 144 of the Code of Criminal Procedure (CrPC) 1898 deals with the maintenance of peace in areas where a riot or disturbance has occurred. This section specifically applies to **District Headquarters** and **Metropolitan Areas**.\n\nThe provision is designed for centralized control in these major administrative centers. However, it does **not** apply to smaller administrative divisions such as **Upozila Headquarters**, which fall under the jurisdiction of the District Magistrate but do not possess the same status as a District or Metropolitan Headquarters regarding this specific maintenance of peace power under Section 144.\n\nAnswer: (D) Upozila Headquarters"
+  },
+  {
+    "question_no": "41",
+    "question_text": "Who appoints a Receiver for attached property in a land dispute under Section 145/146 CrPC?",
+    "options": {
+      "A": "Civil Court",
+      "B": "Police",
+      "C": "District Magistrate",
+      "D": "Executive Magistrate"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Executive Magistrate",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "According to the Code of Criminal Procedure (CrPC), Section 145 and Section 146 deal with the power of a Magistrate to intervene in cases of violence or breach of peace, and also to appoint a receiver for the attached property in cases of a civil dispute.\n\nSection 145 CrPC empowers the Magistrate of the first class (District Magistrate) to make a complaint against the accused and to order them to surrender themselves. Section 146 CrPC empowers the Magistrate of the first class (District Magistrate) to appoint a receiver for the attached property in cases of a civil dispute.\n\nThe correct answer is (C).\n\nAnswer: (C) District Magistrate"
+  },
+  {
+    "question_no": "42",
+    "question_text": "An appeal against a sentence imposed by an Additional Sessions Judge lies with the ________.",
+    "options": {
+      "A": "Sessions Judge Court",
+      "B": "High Court Division",
+      "C": "Appellate Division",
+      "D": "Special Tribunal"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) High Court Division",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Answer: (C) Appellate Division"
+  },
+  {
+    "question_no": "43",
+    "question_text": "Under which section of the CrPC 1898 do police examine witnesses?",
+    "options": {
+      "A": "Section 154",
+      "B": "Section 161",
+      "C": "Section 164",
+      "D": "Section 220"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 161",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe question asks about the section of the Code of Criminal Procedure (CrPC) 1898 under which police examine witnesses.\n\n- Section 154 deals with the power of a Magistrate to issue summons for witnesses.\n- Section 161 deals with the power of a Magistrate to examine witnesses on oath in any court.\n- Section 164 is the section that empowers the police to examine witnesses.\n- Section 220 deals with the penalty for false evidence.\n\nTherefore, the correct answer is (C) Section 164.\n\nAnswer: (C) Section 164"
+  },
+  {
+    "question_no": "44",
+    "question_text": "Which section of the CrPC 1898 deals with the compounding of offences?",
+    "options": {
+      "A": "Section 202",
+      "B": "Section 256",
+      "C": "Section 340",
+      "D": "Section 345"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 345",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe Code of Criminal Procedure (CrPC) 1898 is the law governing criminal procedure in Bangladesh.\nCompounding of offences refers to the process by which a court settles an offence without prosecution or punishment.\nSection 340 specifically deals with the compounding of minor offences and allows the court to settle them without prosecution.\nAnswer: (C) Section 340 —"
+  },
+  {
+    "question_no": "45",
+    "question_text": "An appeal against a fine of 150 BDT in a Summary Trial is ________.",
+    "options": {
+      "A": "Summaryly Dismissed",
+      "B": "Heard on merit",
+      "C": "Pardoned",
+      "D": "Referred back"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Summaryly Dismissed",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Based on the Bangladesh Legal System, a fine of 150 BDT in a Summary Trial is considered a minor offense. Appeals against such fines are not heard on merit because they fall below the threshold for appeal. Therefore, they are typically summary dismissed.\nAnswer: (A) Summaryly Dismissed — Summaryly Dismissed"
+  },
+  {
+    "question_no": "46",
+    "question_text": "Under which section of the CrPC 1898 may a Magistrate conduct a local inspection?",
+    "options": {
+      "A": "501",
+      "B": "504",
+      "C": "539A",
+      "D": "539B"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 539B",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "The Magistrate has the authority to conduct a local inspection of the premises of a person accused of an offence under Section 504 of the Code of Criminal Procedure (1898) when they have reason to believe that there are grounds to do so. This provision allows for the Magistrate to examine the place or objects to verify the facts of the case.\n\nAnswer: (B) 504"
+  },
+  {
+    "question_no": "47",
+    "question_text": "Under Section 247 CrPC, the accused shall be acquitted in the absence of the complainant unless ________.",
+    "options": {
+      "A": "Warrant is issued",
+      "B": "Adjournment is granted",
+      "C": "Evidence is recorded",
+      "D": "Case is pending"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Warrant is issued",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) Warrant is issued — under Section 247 CrPC, the accused shall be acquitted in the absence of the complainant unless a warrant is issued for the purpose of summoning the complainant."
+  },
+  {
+    "question_no": "48",
+    "question_text": "Under Section 249 CrPC, a Magistrate may ________ proceedings if there is no complainant.",
+    "options": {
+      "A": "Stay",
+      "B": "Suspend",
+      "C": "Stop (Release the accused)",
+      "D": "Dismiss"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Stop",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Analysis:\nSection 249 of the Code of Criminal Procedure (CrPC) deals with the power of a Magistrate to suspend proceedings when there is no complainant. The specific wording in Section 249 CrPC is that a Magistrate may \"suspend\" proceedings if there is no complainant. This is distinct from stopping, releasing, or dismissing.\n\nAnswer: (B) Suspend — suspend proceedings"
+  },
+  {
+    "question_no": "49",
+    "question_text": "Bail may be granted in non-bailable offences to which of the following?",
+    "options": {
+      "A": "Sick/Infirm persons",
+      "B": "Women",
+      "C": "Minor under 16",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) All of the above",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Answer: (D) All of the above"
+  },
+  {
+    "question_no": "50",
+    "question_text": "If a Magistrate lacks jurisdiction to take cognizance of a complaint, they shall ________.",
+    "options": {
+      "A": "Return it",
+      "B": "Transfer it",
+      "C": "Dismiss it",
+      "D": "Order investigation"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Return it",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "According to the Code of Criminal Procedure (CrPC) in Bangladesh, a Magistrate who lacks jurisdiction over a complaint shall not take cognizance of it. In such cases, they must return the complaint to the competent authority or court.\nAnswer: (A) Return it"
+  },
+  {
+    "question_no": "51",
+    "question_text": "Which of the following is not a General Exception?",
+    "options": {
+      "A": "Police arresting without warrant",
+      "B": "Judicial Acts",
+      "C": "Act of a child aged 7-12 with maturity",
+      "D": "Act done in good faith"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Act of a child aged 7-12 with maturity",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "In Bangladesh, the General Exceptions to criminal liability under the Penal Code are:\n1. Police arresting without warrant (under Section 47).\n2. Judicial Acts (Section 48).\n3. Act done in good faith (Section 52).\nAct of a child aged 7-12 with maturity is an age-based exception and falls under the specific provisions regarding juvenile offenses, not the General Exceptions listed above."
+  },
+  {
+    "question_no": "52",
+    "question_text": "Causing 'Wrongful Loss' to another person is done ________.",
+    "options": {
+      "A": "Unfairly",
+      "B": "Illegally",
+      "C": "Dishonestly",
+      "D": "Fraudulently"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Dishonestly",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "In Bangladesh, the concept of 'Wrongful Loss' typically refers to a situation where one party suffers a loss due to another's breach of duty or negligence. However, the specific legal context is important here.\n\nIn many legal jurisdictions, the term \"wrongful loss\" is often associated with torts or unjust enrichment, where a loss occurs due to an act that was not done in accordance with legal obligations or moral standards.\n\nHowever, in the context of the options provided (Unfairly, Illegally, Dishonestly, Fraudulently), the most precise term used in many legal frameworks, including Bangladesh's legal system, for wrongful loss is \"dishonestly.\" This is because dishonesty implies that the act was done with an improper motive or intent to deceive or cause harm.\n\nTherefore, the correct answer is (C) Dishonestly.\n\nAnswer: (C) Dishonestly"
+  },
+  {
+    "question_no": "53",
+    "question_text": "X and Y agree to poison Z. X gives the fatal dose. Who is responsible?",
+    "options": {
+      "A": "X only",
+      "B": "Y only",
+      "C": "Both (Common Intention)",
+      "D": "None"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Both",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Under the law of criminal liability in Bangladesh, if X and Y agree to poison Z and X delivers the fatal dose, both are liable for the common crime of murder. This is because their joint agreement to commit the crime constitutes \"common intention.\" Therefore, both parties bear responsibility for the act.\n\nAnswer: (C) Both (Common Intention) — Both are responsible"
+  },
+  {
+    "question_no": "54",
+    "question_text": "Which section of the Penal Code defines Cheating?",
+    "options": {
+      "A": "Section 415",
+      "B": "Section 406",
+      "C": "Section 417",
+      "D": "Section 420"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 415",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "The section of the Penal Code that defines Cheating is Section 415. This section covers acts where a person induces another to deliver property by false pretenses, fraud, or misrepresentation.\n\nAnswer: (A) Section 415"
+  },
+  {
+    "question_no": "55",
+    "question_text": "Which Chapter of the Penal Code describes General Exceptions?",
+    "options": {
+      "A": "Chapter II",
+      "B": "Chapter III",
+      "C": "Chapter IV",
+      "D": "Chapter V"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Chapter IV",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Analysis:\nThe Penal Code of Bangladesh is divided into several Chapters. Chapter II deals with Crimes Against the State, Chapter III deals with Crimes Against Persons, and Chapter IV deals with Crimes Against Property. Chapter V specifically deals with General Exceptions to certain provisions in the Code.\nTherefore, the correct option is (C).\n\nAnswer: (C) Chapter IV"
+  },
+  {
+    "question_no": "56",
+    "question_text": "The Right of Private Defense of the body extends to causing death in how many cases?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 6",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Analysis:\nThe Right of Private Defense of the body in Bangladeshi law (under Section 498 of the Penal Code) is an exception to the general rule that a person cannot cause death while defending their own body or the body of another against unlawful violence. This right is limited. According to the provisions, the act of causing death in private defense is permissible only under specific circumstances.\nThe question asks for the number of cases where the Right of Private Defense extends to causing death.\nAccording to the Judicial Interpretation and standard legal principles applied in Bangladesh:\n1.  One case: when the person defending their own body against an unlawful attack by a stranger or enemy.\n2.  Two cases: when the defender is attacked by an enemy or person who is not a stranger, but is attacking them unlawfully (e.g., a thief).\n3.  Three cases: when the defender is attacked by an enemy or person who is not a stranger, and the attack is continuing.\n4.  Four cases: when the defender's body is under immediate threat of death or injury and they use all reasonable means available to prevent the death or injury.\n5.  Five cases: when the defender is attacked by an enemy or person who is not a stranger, and the attack is continuing and the defender's body is in imminent danger of death or injury.\n6.  Six cases: when the defender is attacked by an enemy or person who is not a stranger, and the attack is continuing and the defender's body is in imminent danger of death or injury, but the attack has already ceased.\n\nWait, let's re-verify the standard count for private defense causing death in Bangladesh context.\nThe Supreme Court of Bangladesh has clarified this. The general rule is that private defense is lawful only if the attacker is an enemy or person who is not a stranger (e.g., thief).\nSpecifically, Section 498 Penal Code does not explicitly list the number in the code itself but judicial interpretations define the limits.\nHowever, standard legal textbooks in Bangladesh often cite that private defense extends to causing death in **5 cases**.\nLet's check the options.\n(A) 4\n(B) 5\n(C) 6\n(D) 7\n\nThe most widely accepted answer in the context of Bangladeshi legal examinations for this specific question is 5 cases.\nThe 5 cases are:\n1. When defending against an unlawful attack by a stranger."
+  },
+  {
+    "question_no": "57",
+    "question_text": "The Right of Private Defense of the body continues ________.",
+    "options": {
+      "A": "Until the end",
+      "B": "As long as reasonable apprehension exists",
+      "C": "24 hours",
+      "D": "Until arrest"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) As long as reasonable apprehension exists",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Answer: (B) As long as reasonable apprehension exists"
+  },
+  {
+    "question_no": "58",
+    "question_text": "Minimum persons required for an Unlawful Assembly:",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "7",
+      "D": "10"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 5",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "According to the Criminal Procedure Code (CrPC) of Bangladesh, Section 145 defines an unlawful assembly as a gathering of seven or more persons who intend to do something illegal. Therefore, the minimum number of persons required for an unlawful assembly is seven.\nAnswer: (C) seven — seven persons"
+  },
+  {
+    "question_no": "59",
+    "question_text": "Maximum punishment for Sedition (Section 124A):",
+    "options": {
+      "A": "3 years",
+      "B": "7 years",
+      "C": "10 years",
+      "D": "Life Imprisonment"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Life Imprisonment",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": ""
+  },
+  {
+    "question_no": "60",
+    "question_text": "Persons required for an Affray:",
+    "options": {
+      "A": "Two or more",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Two or more",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "No, I cannot use"
+  },
+  {
+    "question_no": "61",
+    "question_text": "Harbouring an offender is not punishable if the parties are:",
+    "options": {
+      "A": "Father/Son",
+      "B": "Guardian",
+      "C": "Husband/Wife",
+      "D": "Siblings"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Husband/Wife",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "This question pertains to the legal concept of \"harbouring an offender\" under Bangladeshi law, specifically regarding family relationships and exemptions from punishment.\n\nUnder the Bangladesh Penal Code (Section 253), harboring an offender is a punishable offense. However, there are certain exceptions where it is not considered punishable. According to judicial interpretations and specific provisions in legal contexts, harbouring an offender is not punishable if the relationship between the parties is that of **father and son** or **guardian**.\n\nWhile husband/wife and siblings can be liable for harboring an offender, there is no such provision explicitly stating they are exempt from this crime. The key distinction here is that the father-son and guardian relationships are recognized as having a special protective nature that may exempt them from criminal liability under this specific circumstance.\n\nAnswer: (A) Father/Son"
+  },
+  {
+    "question_no": "62",
+    "question_text": "Punishment for a public servant framing an incorrect document to save a person from punishment:",
+    "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "7 years",
+      "D": "10 years"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 7 years",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "To answer this question, we need to identify the relevant legal provision regarding the punishment for a public servant who frames an incorrect document to save a person from punishment.\n\nThis scenario falls under the provisions of the Code of Criminal Procedure (CPC) or the Penal Code of Bangladesh, specifically dealing with offenses like perjury, forgery, and tampering with records for the purpose of evading justice.\n\nIn Bangladesh, the relevant provision is under Section 453 of the Penal Code (Section 453 of the Penal Code of Bangladesh), which states that any person who frames an incorrect document to save a person from punishment shall be punished with imprisonment of either description for not less than three years and which may extend to ten years.\n\nBased on this provision, the correct answer is Option (A).\nAnswer: (A) 3 years"
+  },
+  {
+    "question_no": "63",
+    "question_text": "Culpable Homicide is defined in Section:",
+    "options": {
+      "A": "299",
+      "B": "300",
+      "C": "302",
+      "D": "307"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 299",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": ""
+  },
+  {
+    "question_no": "64",
+    "question_text": "Which offence is punishable with Fine only?",
+    "options": {
+      "A": "Misconduct in public by a drunken person (Sec 510)",
+      "B": "Theft",
+      "C": "House Trespass",
+      "D": "Sale of obscene books"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Sec 510",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "In Bangladesh, the Criminal Procedure Code and relevant Penal Code sections determine penalties. Let's analyze each option:\n(A) Misconduct in public by a drunken person (Sec 510): This offence is punishable with imprisonment or fine only depending on the circumstances, but often involves stricter penalties for public misconduct. However, under specific sections like Sec 510, it might carry a fine only if no other penalty applies, but typically involves imprisonment.\n(B) Theft: Under the Penal Code of Bangladesh (Sec 348), theft is punishable with imprisonment and fines, but not exclusively fine only. It can involve confiscation of property as well.\n(C) House Trespass: This offence (Sec 516) involves imprisonment or fine depending on the circumstances, but typically carries a heavier penalty with imprisonment for serious cases.\n(D) Sale of obscene books: Under the Penal Code, this is punishable with imprisonment and fines, but not exclusively fine only.\n\nBased on standard legal provisions in Bangladesh, none of these offences are strictly punishable with fine only. However, among the given options, (A) Misconduct in public by a drunken person (Sec 510) is the most likely to be punishable with a fine only in specific circumstances without imprisonment.\n\nAnswer: (A) Misconduct in public by a drunken person (Sec 510) — Misconduct in public by a drunken person (Sec 510)"
+  },
+  {
+    "question_no": "65",
+    "question_text": "X picks up a stick and says to Y, 'I'm going to beat you'. X commits:",
+    "options": {
+      "A": "Assault",
+      "B": "Hurt",
+      "C": "Criminal Force",
+      "D": "Attempt to hit"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Assault",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Assault is defined as the act of intentionally inflicting physical harm or threatening to do so.\nAnswer: (A) Assault — X has the intention to beat Y, which constitutes an assault"
+  },
+  {
+    "question_no": "66",
+    "question_text": "X finds Y's watch, knows it's Y's, and intends to return it but keeps it temporarily:",
+    "options": {
+      "A": "No crime",
+      "B": "Theft",
+      "C": "Criminal Misappropriation",
+      "D": "Cheating"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) No crime",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) No crime"
+  },
+  {
+    "question_no": "67",
+    "question_text": "X causes grievous hurt to Y in a sudden fight; Y dies 3 days later. X's offence falls under:",
+    "options": {
+      "A": "307",
+      "B": "325",
+      "C": "302",
+      "D": "304"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 304",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Based on the facts provided, X causes grievous hurt to Y in a sudden fight. The death of Y occurs 3 days later due to the effects of the injury. This scenario falls under Section 304 (A) of the Indian Penal Code (IPC), which covers \"Grievous Hurt by Intentional or Negligent Act\" where the victim dies from the effects of the grievous hurt within one year of the act, or if the death occurs more than a year later due to natural causes.\n\nHowever, in the context of the question, the key is the timing and causation. Since Y died 3 days after being injured, which is within one year of the injury, it falls under Section 304 (A) — \"Grievous Hurt by Intentional or Negligent Act\" where death occurs within one year.\n\nBut in the given options, none explicitly match Section 304 (A). The closest option to cover this scenario is Section 302, which deals with \"Intentional Infliction of Grievous Hurt\" but typically requires intent to cause death or grievous hurt.\n\nGiven the options provided and the typical exam pattern, this question likely refers to a scenario where the death results from the grievous hurt without specific intent to kill, and the time frame is within one year. In such cases, it falls under Section 302 if there was intent to cause grievous hurt, or Section 304 (A) for unintentional acts.\n\nSince the question does not specify intent but mentions a \"sudden fight,\" and given the options, this most likely refers to Section 302, which covers intentional infliction of grievous hurt leading to death within one year.\n\nAnswer: (B) 325 full option text — where X is the actor and Y is the victim, and the offence falls under Section 302.\nWait, no, let me correct that based on standard legal principles.\n\nBased on the IPC, when a person intentionally causes grievous hurt and the victim dies within one year of the act, it is Section 304 (A). If the death occurs more than a year later due to natural causes, it is still Section 304 (A). However, if the intent was to cause grievous hurt but death occurred due to negligence or natural causes within one year, it could be Section 302.\n\nIn"
+  },
+  {
+    "question_no": "68",
+    "question_text": "Voluntarily causing Grievous Hurt is punishable under section:",
+    "options": {
+      "A": "323",
+      "B": "324",
+      "C": "325",
+      "D": "326"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 325",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Question: Voluntarily causing Grievous Hurt is punishable under section:\n(A) 323\n(B) 324\n(C) 325\n(D) 326\n\nAnswer: (A) 323 — Under the Criminal Procedure Code of Bangladesh, Section 323 deals with the crime of voluntarily causing grievous hurt."
+  },
+  {
+    "question_no": "69",
+    "question_text": "X insults Y's deceased father, a freedom fighter, to provoke Y. X commits:",
+    "options": {
+      "A": "No crime",
+      "B": "Defamation",
+      "C": "Insult",
+      "D": "Disrespect"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Defamation",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Bangladeshi law does not recognize the concept of 'insult' as a standalone criminal offense. Insults are generally considered part of civil disputes or public order issues, not criminal ones under the Criminal Procedure Code or Penal Code of Bangladesh. Defamation is a separate and more serious offense that involves false allegations or statements that damage someone's reputation in a legal sense. However, insulting a deceased freedom fighter to provoke another person is typically not prosecuted as a crime unless it meets the specific criteria for defamation. In many cases, such acts are not considered crimes because they do not involve spreading false information.\n\nAnswer: (A) No crime"
+  },
+  {
+    "question_no": "70",
+    "question_text": "How many exceptions are there to the definition of Defamation in Section 499?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "10"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 10",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Bangladesh has not enacted a specific section 499 in the Bangladesh Criminal Code. The question refers to Section 499 of the Defamation Act, which is typically associated with the UK's Defamation Act 2013 or other jurisdictions, but since you are asking about Bangladesh, there may be a misunderstanding regarding the legal context. However, assuming the question refers to the UK's Defamation Act 2013, Section 499 of that Act does not exist; instead, it is Section 128 of the Defamation Act 2013 which deals with the definition of defamation.\n\nIn the UK's Defamation Act 2013, there are no specific exceptions listed in Section 499. The Act primarily defines defamation and the remedies available for its remedy, but does not list exceptions to the definition. If you meant a different jurisdiction or a specific law, please clarify.\n\nGiven the options provided, this question seems to be based on incorrect information or a misunderstanding of the legal context. However, if we assume the question is asking about the UK's Defamation Act 2013 and refers to exceptions in a hypothetical or misattributed section, it would still not align with standard legal knowledge.\n\nTherefore, based on the provided options and assuming the question is correct as per the context, the answer would be:\nAnswer: (A) 5 — full option text —"
+  },
+  {
+    "question_no": "71",
+    "question_text": "Legitimacy of a child is presumed if born within ____ days of dissolution of marriage and the mother remains unmarried.",
+    "options": {
+      "A": "90 days",
+      "B": "300 days",
+      "C": "10 months",
+      "D": "280 days"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 280 days",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Answer: (A) 90 days — 90 days"
+  },
+  {
+    "question_no": "72",
+    "question_text": "According to the Evidence Act 1872, which of the following is incorrect?",
+    "options": {
+      "A": "A map is a document",
+      "B": "A printed book is a document",
+      "C": "A caricature is not a document",
+      "D": "An account book is a document"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Caricature is not a document",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Answer: (C) caricature is not a document — according to the Evidence Act 1872, all documents are considered as evidence and a caricature can be a document if it falls under the definition of a document."
+  },
+  {
+    "question_no": "73",
+    "question_text": "Which section of the Evidence Act deals with lawful questions in cross-examination?",
+    "options": {
+      "A": "Section 139",
+      "B": "Section 141",
+      "C": "Section 145",
+      "D": "Section 146"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 146",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe question asks about the section of the Evidence Act that deals with lawful questions in cross-examination.\nSection 145 of the Evidence Act, 1872 specifically deals with \"lawful questions in cross-examination\". It allows a witness to be asked lawful questions to elicit facts which are in the nature of an inquiry into the subject matter, and prevents questions that would lead to the introduction of evidence or that are not relevant.\n\nAnswer: (C) Section 145"
+  },
+  {
+    "question_no": "74",
+    "question_text": "Regarding the Principle of Estoppel, which is incorrect?",
+    "options": {
+      "A": "It doesn't work against statute",
+      "B": "Doesn't apply to law",
+      "C": "Doesn't require deceitful intent",
+      "D": "It is a rule of evidence"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) It is a rule of evidence",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "The Principle of Estoppel is a fundamental rule in evidence and law that prevents a party from asserting a position contrary to what they previously said or did.\n\n- **Option (A)**: Estoppel does not work against statute; it cannot override clear legislative provisions or statutes. This statement is true.\n- **Option (B)**: Estoppel applies to various laws and legal principles, specifically regarding the parties' conduct and statements. It is a common law doctrine that interacts with statutory rights. However, in the context of specific multiple-choice questions on this topic, it is often framed as a general principle of equity or evidence, not a broad \"law\" itself in the same way statutes are. But more critically, looking at the other options:\n- **Option (C)**: Estoppel can be based on innocent conduct (like silence leading to reliance) or even inadvertent statements, not just deceitful intent. This statement is generally true as it distinguishes it from fraud.\n- **Option (D)**: It is a rule of evidence. This is the most accurate classification among the choices provided.\n\nWait, let's re-evaluate Option (B). Estoppel is a principle of *equity* or common law that governs conduct. Does it \"apply to law\"? No, it applies to *legal proceedings* and the interpretation of legal relationships, but it does not create law itself. However, standard legal textbooks often distinguish between \"law\" (statutes) and \"equity\". The question asks which is *incorrect*.\nLet's look at Option (B) again: \"Doesn't apply to law\". This might be interpreted as \"It doesn't override the law\" (which is true) or \"It is not a law\".\nActually, let's reconsider the standard formulation of this specific question in legal exams. The Principle of Estoppel is a rule of **equity**. It does not apply to statutory law (statutes prevail over equitable principles). Therefore, saying it \"doesn't apply to law\" might be ambiguous. But usually, the distinction is made that estoppel cannot work against statute.\n\nLet's look at the options again carefully:\n(A) It doesn't work against statute -> TRUE. Estoppel cannot override a statute.\n(C) Doesn't require deceitful intent -> TRUE. It can apply to innocent conduct (e.g., by silence).\n(D) It is a rule of evidence -> TRUE. It is a common law rule regarding evidence and"
+  },
+  {
+    "question_no": "75",
+    "question_text": "What is the minimum age for a child to testify in court?",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "18",
+      "D": "No age limit"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) No age limit",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Based on the Bangladeshi legal system, specifically the Criminal Procedure Code (CPC) and the Child Protection Act, the minimum age for a child to testify in court is generally 12 years old. However, if the child is above the age of 18 or has an ability to understand the question, they can testify as well. In the context of typical multiple-choice questions on this topic in Bangladesh, the answer is typically 12.\n\nAnswer: (A) 12"
+  },
+  {
+    "question_no": "76",
+    "question_text": "Criteria for qualifying as a witness under the Evidence Act 1872:",
+    "options": {
+      "A": "Physical well-being",
+      "B": "Knowledge of litigation",
+      "C": "Ability to understand and give rational answers",
+      "D": "Maturity"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Ability to understand",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Question:\nCriteria for qualifying as a witness under the Evidence Act 1872:\n(A) Physical well-being\n(B) Knowledge of litigation\n(C) Ability to understand and give rational answers\n(D) Maturity\n\nAnswer: (C) ability to understand and give rational answers — ability to understand and give rational answers"
+  },
+  {
+    "question_no": "77",
+    "question_text": "Section 8 of the Evidence Act 1872 provides for:",
+    "options": {
+      "A": "Occasion",
+      "B": "Motive, Preparation, and Conduct",
+      "C": "Identity",
+      "D": "Common Intention"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Section 8",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "The Evidence Act 1872 is a Bangladeshi law. Section 8 of the Evidence Act 1872 provides for Motive, Preparation, and Conduct. This section is often used in criminal cases to determine whether evidence is admissible based on the nature of the conduct and the intent of the parties involved.\n\nAnswer: (B) Motive, Preparation, and Conduct — where X is the option letter and you copy the full option text after it."
+  },
+  {
+    "question_no": "78",
+    "question_text": "Confession of a co-accused is relevant under which section?",
+    "options": {
+      "A": "24",
+      "B": "25",
+      "C": "29",
+      "D": "30"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 30",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Analysis:\nThe question asks about the relevance of a confession by a co-accused in a criminal trial under the Criminal Procedure Code (CrPC) of Bangladesh. According to Section 24 of the CrPC, the court is not bound by evidence obtained through coercion or illegal methods, but more importantly, regarding confessions:\nThe question is actually testing knowledge about the admissibility and relevance of a confession. However, looking at standard legal provisions in Bangladesh:\nSection 25 of the CrPC deals with the power of the court to examine the facts of the case.\nSection 29 is not a typical section number for this specific procedural point in the main CrPC structure.\nSection 30 is also not a typical section number for this specific procedural point in the main CrPC structure.\n\nActually, the most relevant section regarding confessions in Bangladesh's CrPC is Section 165 (which is not listed) or Section 24 which deals with evidence obtained through coercion. However, in the context of typical exam questions on this topic:\nThe correct answer is often Section 24 which is about evidence obtained by illegal means, but specifically regarding confessions, it's more about Section 165. Since that is not an option, let's reconsider.\n\nWait, I need to recall the specific question from the context of Bangladesh law exams:\nIn Bangladesh, under the CrPC, Section 24 states that the court shall not be bound by any evidence obtained through coercion or illegal means. This includes confessions if they are coerced. However, the most accurate answer for the admissibility of a confession without coercion is often linked to the general principles of evidence which are in Sections like 165, but since those aren't options, we look at what Section 24 specifically addresses.\n\nActually, looking at common questions:\nThe question is likely referring to Section 24 which states that the court is not bound by evidence obtained through coercion or illegal means. A confession made under coercion would be inadmissible. However, if it's a voluntary confession, it is relevant.\n\nBut the question asks \"Confession of a co-accused is relevant under which section?\"\nActually, the most accurate answer in the context of typical legal questions on this topic is Section 24, as it deals with the admissibility of evidence and confessions obtained through coercion.\n\nHowever, I must be careful. Let's re-examine the options:"
+  },
+  {
+    "question_no": "79",
+    "question_text": "X claims existence of facts denied by Y. Who bears the burden of proof?",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Both",
+      "D": "Court"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) X",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "In legal proceedings, the burden of proof generally lies with the party who asserts a fact. If X claims that facts exist which Y denies, X must produce evidence to substantiate their claim. The court does not decide facts; they adjudicate based on the evidence presented. Therefore, the responsibility for proving these facts rests with X.\n\nAnswer: (A) X"
+  },
+  {
+    "question_no": "80",
+    "question_text": "Confession to a police officer is inadmissible under section:",
+    "options": {
+      "A": "24",
+      "B": "25",
+      "C": "26",
+      "D": "27"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 25",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Section 24 of the Code of Criminal Procedure (1973) in Bangladesh is the relevant provision regarding confession to a police officer.\nAnswer: (A) Section 24"
+  },
+  {
+    "question_no": "81",
+    "question_text": "A Dying Declaration is admissible in:",
+    "options": {
+      "A": "Criminal proceedings only",
+      "B": "Civil proceedings only",
+      "C": "Both Civil and Criminal proceedings",
+      "D": "Homicide cases only"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Both",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Dying declaration is a statement made by a person who believes they are about to die and is recorded for the purpose of establishing facts. It has a special evidentiary value in both civil and criminal proceedings.\n(A) Criminal proceedings only\n(B) Civil proceedings only\n(C) Both Civil and Criminal proceedings\n(D) Homicide cases only\nAnswer: (C) Both Civil and Criminal proceedings —\nDying declaration is admissible in both Civil and Criminal proceedings"
+  },
+  {
+    "question_no": "82",
+    "question_text": "Under Section 53 of the Evidence Act 1872, previous good character is relevant in:",
+    "options": {
+      "A": "Civil cases",
+      "B": "Criminal cases",
+      "C": "Both",
+      "D": "Financial fraud only"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Criminal cases",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Section 53 of the Evidence Act 1872, which deals with the admissibility of previous good character, is a provision applicable to both civil and criminal proceedings in Bangladesh. It allows evidence of a person's good character to be admitted if there is an inference that the defendant is likely to perform their duty or act honestly. While it has limited relevance in financial fraud cases (Option D), its general application covers all categories of cases, including ordinary civil disputes and criminal offenses. Therefore, it is not restricted solely to one type of case or fraud.\n\nAnswer: (C) Both"
+  },
+  {
+    "question_no": "83",
+    "question_text": "Primary Evidence means:",
+    "options": {
+      "A": "Oral evidence",
+      "B": "Original documents produced for the court",
+      "C": "Direct facts",
+      "D": "Eyewitness testimony"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Original documents",
+    "predicted_answer": "B",
+    "is_correct": true,
+    "model_output": "Bangladeshi Evidence Act, 1872\nSection 4 defines Primary Evidence as: \"Original documents produced for the court.\"\n(A) Oral evidence is considered secondary evidence.\n(C) Direct facts are not a legal term used in this context.\n(D) Eyewitness testimony can be direct or primary if it's recorded in writing, but the Act specifically mentions original documents.\nTherefore, the correct answer is (B).\nAnswer: (B) Original documents produced for the court"
+  },
+  {
+    "question_no": "84",
+    "question_text": "Secondary Evidence may be given when:",
+    "options": {
+      "A": "Original is non-transferable",
+      "B": "Original is admitted",
+      "C": "Original is a public document",
+      "D": "Original is in possession of the adversary"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Possession of adversary",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Question Analysis:\nSecondary Evidence is admissible under the Evidence Act when the original document cannot be produced. The primary rule allows secondary evidence only if the original is not available or cannot be obtained. Among the given options, (D) refers to the adversary holding the original, which would prevent its production and trigger the need for secondary evidence. However, the standard exception is that the original is in the possession of an adverse party.\nTherefore, the correct answer is when the original is held by the opposing party or adversary.\n\nAnswer: (D) Original is in possession of the adversary"
+  },
+  {
+    "question_no": "85",
+    "question_text": "Hostile Witness is provided under section:",
+    "options": {
+      "A": "152",
+      "B": "153",
+      "C": "154",
+      "D": "155"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 154",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "Bangladeshi Criminal Procedure Code, 1860 (CrPC), Section 153 defines a Hostile Witness.\nAnswer: (B) 153"
+  },
+  {
+    "question_no": "86",
+    "question_text": "The limitation for a suit for Specific Performance of a contract is:",
+    "options": {
+      "A": "6 years",
+      "B": "3 years",
+      "C": "2 years",
+      "D": "1 year"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) 1 year",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "According to the Limitation Act, 1908 in Bangladesh, the limitation period for a suit for Specific Performance is 6 years.\nAnswer: (A) 6 years"
+  },
+  {
+    "question_no": "87",
+    "question_text": "Legal Disability is defined in which section of the Limitation Act 1908?",
+    "options": {
+      "A": "Section 6",
+      "B": "Section 8",
+      "C": "Section 9",
+      "D": "Section 10"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Section 6",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Answer: (C) Section 9"
+  },
+  {
+    "question_no": "88",
+    "question_text": "Under Section 28, if a suit for recovery of possession is not filed within the specified period, the right to property ________.",
+    "options": {
+      "A": "Is extinguished",
+      "B": "Remains valid",
+      "C": "Suspended",
+      "D": "Transfers to Govt"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) Extinguished",
+    "predicted_answer": "A",
+    "is_correct": true,
+    "model_output": "Answer: (A) Is extinguished"
+  },
+  {
+    "question_no": "89",
+    "question_text": "Appeal against a death sentence by a Sessions Judge must be filed within 7 days under Article:",
+    "options": {
+      "A": "148",
+      "B": "150",
+      "C": "152",
+      "D": "154"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 150",
+    "predicted_answer": "C",
+    "is_correct": false,
+    "model_output": "Question Analysis:\nThe question asks about the time limit for filing an appeal against a death sentence under the Criminal Procedure Code (CrPC) of Bangladesh.\n\nArticle 154 of the CrPC provides the time limit for appealing against a judgment or order passed by a Sessions Judge who has sentenced an accused to death. It states that the appeal must be filed within 7 days from the date of the judgment or order.\n\nArticle 150 deals with the power of a High Court to transfer cases, and Article 148 relates to the revision by a High Court, but neither specifies the 7-day limit for appeals against death sentences.\n\nAnswer: (C) 152"
+  },
+  {
+    "question_no": "90",
+    "question_text": "Deadline for applying to set aside an Ex-parte Decree:",
+    "options": {
+      "A": "15 days",
+      "B": "30 days",
+      "C": "60 days",
+      "D": "90 days"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) 30 days",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Bangladeshi law:\nThe Ex-parte decree is a decree passed by the High Court or District Court of the Supreme Court in Bangladesh. It is a decree that orders the payment of money or some other specific act without appearing before the court. The application to set aside an Ex-parte decree must be made within 15 days of the date on which the order was made.\n\nAnswer: (A) 15 days"
+  },
+  {
+    "question_no": "91",
+    "question_text": "Deadline for restoration of an appeal heard ex-parte/dismissed for default:",
+    "options": {
+      "A": "30 days",
+      "B": "60 days",
+      "C": "90 days",
+      "D": "120 days"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 30 days",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "No, I cannot answer this question.\nAnswer: (D) 120 days"
+  },
+  {
+    "question_no": "92",
+    "question_text": "Limitation for recovery of arrears of rent:",
+    "options": {
+      "A": "3 years",
+      "B": "6 years",
+      "C": "10 years",
+      "D": "12 years"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 3 years",
+    "predicted_answer": null,
+    "is_correct": false,
+    "model_output": "Limitation for recovery of arrears of rent is 12 years under the Limitation Act, 1908."
+  },
+  {
+    "question_no": "93",
+    "question_text": "Suit for compensation/damages where no specific term is provided:",
+    "options": {
+      "A": "1 year",
+      "B": "3 years",
+      "C": "6 years",
+      "D": "12 years"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) 6 years",
+    "predicted_answer": "B",
+    "is_correct": false,
+    "model_output": "In Bangladesh, the general limitation period for a suit for compensation or damages is 3 years. This is based on the Limitation Act, 1908 (Act No. X of 1908). Therefore, the correct option is (B).\nAnswer: (B) 3 years"
+  },
+  {
+    "question_no": "94",
+    "question_text": "Exclusion of time in legal proceedings is covered in section:",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15"
+    },
+    "correct_answer": "A",
+    "correct_text": "A) 12",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Analysis:\nThe question asks about the section in the Bangladesh Legal Framework (specifically the Code of Civil Procedure or Code of Criminal Procedure) that deals with the exclusion of time in legal proceedings. This is a specific knowledge query regarding Bangladeshi legal statutes. In the Code of Civil Procedure, 2012, Section 15 deals with \"Exclusion of Time\". The other sections do not primarily address this topic.\n\nAnswer: (D) 15"
+  },
+  {
+    "question_no": "95",
+    "question_text": "Pre-emption (Shufa) is an exception to which section regarding death before right to sue accrues?",
+    "options": {
+      "A": "Money claims",
+      "B": "IP claims",
+      "C": "Section 17",
+      "D": "Declaration"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Section 17",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "In Bangladesh, the right to sue accrues at the time of death for most claims. However, pre-emption (Shufa) allows a claimant to file a suit before the expiration of the limitation period for certain cases where the right to sue has not yet accrued due to the decedent's death. This applies to certain IP claims and monetary claims. Specifically, the Supreme Court has held that Section 17 of the Limitation Act, 1908 (which deals with the accrual of right to sue for money claims) is an exception to the general rule regarding pre-emption.\n\nAnswer: (C) Section 17 — Section 17"
+  },
+  {
+    "question_no": "96",
+    "question_text": "Who can be appointed by the Government as Secretary of the Bar Council?",
+    "options": {
+      "A": "District Judge only",
+      "B": "Additional DJ only",
+      "C": "District Judge or Additional DJ",
+      "D": "Any judicial officer"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) DJ or Additional DJ",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "Analysis:\nThe question pertains to the appointment of a Secretary of the Bar Council of Bangladesh. The appointment of the Secretary of the Bar Council is governed by the Code of Discipline and Conduct of the Judges of Bangladesh (CDJC), which was recently amended to remove the requirement that the Secretary must be a District Judge or Additional District Judge. According to the latest provisions, the Government has the authority to appoint a qualified individual from outside the judiciary for this position. However, the specific wording in the question implies an older context where the answer might be restricted to judicial officers. Given the options, the most accurate fit based on the typical interpretation of such questions in the context of the CDJC is (C), as it allows for the appointment of a District Judge or Additional DJ, which aligns with historical provisions. However, under current rules, the Secretary can be appointed from outside the judiciary if they meet certain criteria. But considering the options provided, (C) is the most reasonable choice that reflects the typical eligibility criteria in this context.\n\nAnswer: (C) District Judge or Additional DJ\n</think>\n\nAnalysis:\nThe appointment of the Secretary of the Bar Council of Bangladesh is governed by provisions in the Code of Discipline and Conduct of Judges (CDJC). Historically and based on standard judicial service requirements, the Secretary must be a judicial officer. Specifically, the eligibility typically restricts the appointee to District Judges or Additional District Judges. Therefore, among the given options, the correct choice reflects this restriction.\n\nAnswer: (C) District Judge or Additional DJ"
+  },
+  {
+    "question_no": "97",
+    "question_text": "Who has the right of Pre-audience (Right to speak first) in court?",
+    "options": {
+      "A": "Chief Justice",
+      "B": "Bar President",
+      "C": "Enrollment Chairman",
+      "D": "Attorney General of Bangladesh"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) Attorney General",
+    "predicted_answer": "A",
+    "is_correct": false,
+    "model_output": "Bangladesh's legal system is governed by the Constitution and the Code of Criminal Procedure. The right to speak first, known as the 'right of pre-audience', is a procedural right granted to certain officers in specific judicial contexts, but it is primarily associated with the Chief Justice in the context of the Supreme Court's composition. In the context of this question, which refers to the Supreme Court of Bangladesh, the Chief Justice has the authority to preside over the court and thus holds the position where they can address the matter before other parties or witnesses.\n\nHowever, a more precise answer based on the Code of Criminal Procedure (CPC) of Bangladesh, Article 169 states that the Chief Justice shall be allowed to address the court before any other officer in the Supreme Court. This right is also referred to as the 'right of pre-audience'.\n\nAnswer: (A) Chief Justice"
+  },
+  {
+    "question_no": "98",
+    "question_text": "An Advocate shall not represent conflicting interests. This is a duty towards:",
+    "options": {
+      "A": "Court",
+      "B": "Other Advocates",
+      "C": "Public",
+      "D": "Client"
+    },
+    "correct_answer": "B",
+    "correct_text": "B) Other Advocates",
+    "predicted_answer": "D",
+    "is_correct": false,
+    "model_output": "Under the Code of Conduct for Advocates in Bangladesh, an Advocate is prohibited from representing conflicting interests. This duty is primarily owed to the **Client** because the Advocate's primary obligation is to act in the best interests and with their client's best interests at all times. While there are obligations towards the Court and other Advocates regarding confidentiality, the specific prohibition on representing conflicting interests arises directly from the duty to the Client to avoid bias and ensure loyalty.\n\nAnswer: (D) Client"
+  },
+  {
+    "question_no": "99",
+    "question_text": "An Advocate shall not represent conflicting interests. This is also a duty towards:",
+    "options": {
+      "A": "Court",
+      "B": "Other Advocates",
+      "C": "Public",
+      "D": "The Client"
+    },
+    "correct_answer": "D",
+    "correct_text": "D) The Client",
+    "predicted_answer": "D",
+    "is_correct": true,
+    "model_output": "Bangladeshi Advocates Act, 1984, Section 27: An Advocate shall not represent conflicting interests. This is also a duty towards the Client.\n\nAnswer: (D) The Client"
+  },
+  {
+    "question_no": "100",
+    "question_text": "Which of the following constitutes Professional Misconduct?",
+    "options": {
+      "A": "Refusal of a brief",
+      "B": "Briefing another lawyer",
+      "C": "Engaging in another trade or business",
+      "D": "Charging fees based on effort"
+    },
+    "correct_answer": "C",
+    "correct_text": "C) Engaging in business",
+    "predicted_answer": "C",
+    "is_correct": true,
+    "model_output": "According to the Code of Conduct and Ethics for Lawyers in Bangladesh, Professional Misconduct includes engaging in another trade or business without a license. Refusal of a brief, briefing another lawyer, and charging fees based on effort are generally not considered professional misconduct under this code. Therefore, the correct answer is:\nAnswer: (C) Engaging in another trade or business"
+  }
+]
